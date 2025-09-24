@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="CSS/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- Quiz Configuration Screen -->
+    <div class="quiz-container" id="quiz-config">
+      <h1>🎯 Quiz Master</h1>
+
+      <!-- Category Section -->
+      <section class="category-of-quiz-container">
+        <h2>Select Category</h2>
+        <div class="button-group">
+          <button type="button" id="programming" data-category="1">
+            💻 Programming
+          </button>
+          <button type="button" id="geography" data-category="2">
+            🌍 Geography
+          </button>
+          <button type="button" id="mathematics" data-category="3">
+            🧮 Mathematics
+          </button>
+          <button type="button" id="entertainment" data-category="4">
+            🎬 Entertainment
+          </button>
+        </div>
+      </section>
+
+      <!-- Number of Questions Section -->
+      <section class="no-of-questions-container">
+        <h2>Number of Questions</h2>
+        <div class="button-group">
+          <button type="button" data-questions="5">5</button>
+          <button type="button" data-questions="10">10</button>
+          <button type="button" data-questions="15">15</button>
+          <button type="button" data-questions="20">20</button>
+          <button type="button" data-questions="25">25</button>
+        </div>
+      </section>
+
+      <!-- Difficulty Section -->
+      <section class="difficulty-container">
+        <h2>Difficulty Level</h2>
+        <div class="button-group">
+          <button type="button" data-difficulty="easy">🟢 Easy</button>
+          <button type="button" data-difficulty="medium">🟡 Medium</button>
+          <button type="button" data-difficulty="hard">🔴 Hard</button>
+        </div>
+      </section>
+
+      <!-- Start Button -->
+      <button type="button" id="start-quiz-button" disabled>
+        🚀 Start Quiz
+      </button>
+    </div>
+
+    <!-- Loading Screen -->
+    <div class="quiz-container loading hidden" id="loading-screen">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <span>Loading questions...</span>
+      </div>
+    </div>
+
+    <!-- Quiz Questions Screen -->
+    <div class="questions hidden" id="quiz-questions">
+      <header>
+        <h1>🎯 Quiz Master</h1>
+        <div class="timer-container">
+          <i class="fas fa-clock timer-icon"></i>
+          <span class="timer" id="timer">30s</span>
+        </div>
+      </header>
+
+      <main>
+        <h2 id="question">Loading question...</h2>
+        <div class="answer-options">
+          <button type="button" data-answer="0">Answer 1</button>
+          <button type="button" data-answer="1">Answer 2</button>
+          <button type="button" data-answer="2">Answer 3</button>
+          <button type="button" data-answer="3">Answer 4</button>
+        </div>
+      </main>
+
+      <footer>
+        <small id="question-counter">
+          <b id="current-question">1</b> of
+          <b id="total-questions">10</b> Questions
+        </small>
+      </footer>
+    </div>
+
+    <!-- Results Screen -->
+    <div class="results hidden" id="results-screen">
+      <h1>🎉 Quiz Complete!</h1>
+      <div class="score-display" id="final-score">0%</div>
+
+      <div class="score-details">
+        <div class="score-item correct">
+          <h3>Correct</h3>
+          <div class="value" id="correct-answers">0</div>
+        </div>
+        <div class="score-item wrong">
+          <h3>Wrong</h3>
+          <div class="value" id="wrong-answers">0</div>
+        </div>
+        <div class="score-item">
+          <h3>Total</h3>
+          <div class="value" id="total-answered">0</div>
+        </div>
+      </div>
+
+      <div style="margin: 30px 0">
+        <h3
+          id="performance-message"
+          style="color: var(--text-secondary); margin-bottom: 10px"
+        >
+          Great job!
+        </h3>
+        <p id="performance-details" style="color: var(--text-secondary)">
+          Keep practicing to improve your score.
+        </p>
+      </div>
+
+      <button class="restart-btn" id="restart-btn">🔄 Take Another Quiz</button>
+    </div>
+    <script src="JS/main.js"></script>
+  </body>
+</html>
