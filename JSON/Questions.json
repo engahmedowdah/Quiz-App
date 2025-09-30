@@ -1,0 +1,4762 @@
+[
+  {
+    "id": 1,
+    "answer": "HyperText Markup Language",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does HTML stand for?"
+  },
+  {
+    "id": 2,
+    "answer": "JavaScript",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which programming language is primarily used for interactive web development?"
+  },
+  {
+    "id": 3,
+    "answer": "Cascading Style Sheets",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does CSS mean?"
+  },
+  {
+    "id": 4,
+    "answer": "#",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which symbol is used to start a comment in Python?"
+  },
+  {
+    "id": 5,
+    "answer": ".js",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which extension is used for JavaScript files?"
+  },
+  {
+    "id": 6,
+    "answer": "print()",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What is the basic command to print text in Python?"
+  },
+  {
+    "id": 7,
+    "answer": "h1",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create a main heading?"
+  },
+  {
+    "id": 8,
+    "answer": "World Wide Web",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does WWW stand for?"
+  },
+  {
+    "id": 9,
+    "answer": "Oracle (formerly Sun Microsystems)",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which company developed Java?"
+  },
+  {
+    "id": 10,
+    "answer": "a",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create a link?"
+  },
+  {
+    "id": 11,
+    "answer": "Uniform Resource Locator",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does URL stand for?"
+  },
+  {
+    "id": 12,
+    "answer": "Java or Kotlin",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which programming language is used to develop Android apps?"
+  },
+  {
+    "id": 13,
+    "answer": "PHP: Hypertext Preprocessor",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does PHP mean?"
+  },
+  {
+    "id": 14,
+    "answer": "p",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create a paragraph?"
+  },
+  {
+    "id": 15,
+    "answer": "int or integer",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which data type is used to store integers in most programming languages?"
+  },
+  {
+    "id": 16,
+    "answer": "//",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which symbol is used to start a comment in JavaScript?"
+  },
+  {
+    "id": 17,
+    "answer": "Structured Query Language",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does SQL stand for?"
+  },
+  {
+    "id": 18,
+    "answer": "ul",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create an unordered list?"
+  },
+  {
+    "id": 19,
+    "answer": "string",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which data type is used to store text in most programming languages?"
+  },
+  {
+    "id": 20,
+    "answer": "Swift or Objective-C",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which programming language is used to develop iOS apps?"
+  },
+  {
+    "id": 21,
+    "answer": "HyperText Transfer Protocol",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does HTTP stand for?"
+  },
+  {
+    "id": 22,
+    "answer": "img",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to insert an image?"
+  },
+  {
+    "id": 23,
+    "answer": ".py",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which extension is used for Python files?"
+  },
+  {
+    "id": 24,
+    "answer": "def",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which keyword is used to define a function in Python?"
+  },
+  {
+    "id": 25,
+    "answer": "Integrated Development Environment",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does IDE stand for?"
+  },
+  {
+    "id": 26,
+    "answer": "table",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create a table?"
+  },
+  {
+    "id": 27,
+    "answer": "Bugs or Errors",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What term is used for errors in programming?"
+  },
+  {
+    "id": 28,
+    "answer": "Linux",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which open-source operating system is popular?"
+  },
+  {
+    "id": 29,
+    "answer": "Application Programming Interface",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does API stand for?"
+  },
+  {
+    "id": 30,
+    "answer": "form",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create a form?"
+  },
+  {
+    "id": 31,
+    "answer": "File Transfer Protocol",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does FTP stand for?"
+  },
+  {
+    "id": 32,
+    "answer": "CSS",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which programming language is used for web styling?"
+  },
+  {
+    "id": 33,
+    "answer": "Domain Name System",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does DNS stand for?"
+  },
+  {
+    "id": 34,
+    "answer": "i or em",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to italicize text?"
+  },
+  {
+    "id": 35,
+    "answer": "boolean",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which data type is used for boolean values (true/false)?"
+  },
+  {
+    "id": 36,
+    "answer": ".html or .htm",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which extension is used for HTML files?"
+  },
+  {
+    "id": 37,
+    "answer": "JavaScript Object Notation",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does JSON stand for?"
+  },
+  {
+    "id": 38,
+    "answer": "var, let, or const",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which keyword is used to declare a variable in JavaScript?"
+  },
+  {
+    "id": 39,
+    "answer": "eXtensible Markup Language",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does XML stand for?"
+  },
+  {
+    "id": 40,
+    "answer": "tr",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create rows in a table?"
+  },
+  {
+    "id": 41,
+    "answer": "background",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which CSS property is used for background?"
+  },
+  {
+    "id": 42,
+    "answer": ";",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which symbol is used to terminate a statement in most programming languages?"
+  },
+  {
+    "id": 43,
+    "answer": "HyperText Transfer Protocol Secure",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does HTTPS stand for?"
+  },
+  {
+    "id": 44,
+    "answer": "b or strong",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create bold text?"
+  },
+  {
+    "id": 45,
+    "answer": "float or double",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which data type is used for decimal numbers?"
+  },
+  {
+    "id": 46,
+    "answer": "Microsoft",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which company developed C#?"
+  },
+  {
+    "id": 47,
+    "answer": "Create, Read, Update, Delete",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does CRUD stand for in databases?"
+  },
+  {
+    "id": 48,
+    "answer": "input",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create a text input field?"
+  },
+  {
+    "id": 49,
+    "answer": "Advanced code editor by Microsoft",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What is the meaning of the IDE \"Visual Studio Code\"?"
+  },
+  {
+    "id": 50,
+    "answer": "for or while",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which keywords are used for loops in Python?"
+  },
+  {
+    "id": 51,
+    "answer": "Model-View-Controller",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does MVC stand for in software architecture?"
+  },
+  {
+    "id": 52,
+    "answer": "ol",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create an ordered list?"
+  },
+  {
+    "id": 53,
+    "answer": "Version control system",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What is Git?"
+  },
+  {
+    "id": 54,
+    "answer": ".css",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which extension is used for CSS files?"
+  },
+  {
+    "id": 55,
+    "answer": "Document Object Model",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does DOM stand for in JavaScript?"
+  },
+  {
+    "id": 56,
+    "answer": "if",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which keyword is used for conditional statements in most languages?"
+  },
+  {
+    "id": 57,
+    "answer": "Object-Oriented Programming",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What does OOP stand for in programming?"
+  },
+  {
+    "id": 58,
+    "answer": "td",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which HTML tag is used to create table cells?"
+  },
+  {
+    "id": 59,
+    "answer": "Platform for hosting programming projects",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "What is GitHub?"
+  },
+  {
+    "id": 60,
+    "answer": "link or @import",
+    "categoryID": 1,
+    "difficultyID": 1,
+    "question": "Which symbol or tag is used to link CSS to HTML?"
+  },
+  {
+    "id": 61,
+    "answer": "A situation where two or more processes wait indefinitely for each other",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Deadlock in programming?"
+  },
+  {
+    "id": 62,
+    "answer": "Loading data or resources only when they are needed",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Lazy Loading?"
+  },
+  {
+    "id": 63,
+    "answer": "A layer that processes requests between client and server",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Middleware in web development?"
+  },
+  {
+    "id": 64,
+    "answer": "Mutable can be changed after creation, Immutable cannot",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between Mutable and Immutable Objects?"
+  },
+  {
+    "id": 65,
+    "answer": "A problem that occurs when the result depends on the order of concurrent operations",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Race Condition?"
+  },
+  {
+    "id": 66,
+    "answer": "A set of database operations executed as a single unit (all or nothing)",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Database Transaction?"
+  },
+  {
+    "id": 67,
+    "answer": "Automatic process to free unused memory",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Garbage Collection?"
+  },
+  {
+    "id": 68,
+    "answer": "BFS explores level by level, DFS explores deep first",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between Breadth-First Search and Depth-First Search?"
+  },
+  {
+    "id": 69,
+    "answer": "Managing different API versions to maintain backward compatibility",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is API Versioning?"
+  },
+  {
+    "id": 70,
+    "answer": "Restructuring code to improve quality without changing its functionality",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Code Refactoring?"
+  },
+  {
+    "id": 71,
+    "answer": "A design pattern that allows objects to subscribe to changes in another object",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Observer Pattern?"
+  },
+  {
+    "id": 72,
+    "answer": "HTTPS is encrypted and secure, HTTP is not",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between HTTP and HTTPS?"
+  },
+  {
+    "id": 73,
+    "answer": "Organizing data to reduce redundancy and improve efficiency",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Normalization in databases?"
+  },
+  {
+    "id": 74,
+    "answer": "Distributing data across multiple servers to improve performance",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Sharding in databases?"
+  },
+  {
+    "id": 75,
+    "answer": "Software simulation of a full computer running inside another operating system",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Virtual Machine?"
+  },
+  {
+    "id": 76,
+    "answer": "Authentication verifies identity, Authorization defines permissions",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between Authentication and Authorization?"
+  },
+  {
+    "id": 77,
+    "answer": "Failure to free reserved memory leading to gradual exhaustion",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Memory Leak?"
+  },
+  {
+    "id": 78,
+    "answer": "A design pattern for creating objects without specifying the exact class",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Factory Pattern?"
+  },
+  {
+    "id": 79,
+    "answer": "Cookie is stored in browser, Session is stored on server",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between Cookie and Session?"
+  },
+  {
+    "id": 80,
+    "answer": "Integrating code changes frequently with automated testing",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Continuous Integration (CI)?"
+  },
+  {
+    "id": 81,
+    "answer": "A tree data structure where each node has at most two children",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Binary Tree?"
+  },
+  {
+    "id": 82,
+    "answer": "A query language and runtime for APIs that allows clients to request specific data",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is GraphQL?"
+  },
+  {
+    "id": 83,
+    "answer": "SQL Injection targets database, XSS targets browser",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between SQL Injection and XSS Attack?"
+  },
+  {
+    "id": 84,
+    "answer": "Testing system ability to handle high loads",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Load Testing?"
+  },
+  {
+    "id": 85,
+    "answer": "A tool to bundle and package JavaScript files and resources",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Webpack?"
+  },
+  {
+    "id": 86,
+    "answer": "A security feature that allows browsers to control access to resources from different origins",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Cross-Origin Resource Sharing (CORS)?"
+  },
+  {
+    "id": 87,
+    "answer": "Frontend handles user interface, Backend handles server and database",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between Frontend and Backend in web development?"
+  },
+  {
+    "id": 88,
+    "answer": "A lightweight representation of the DOM for more efficient updates",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Virtual DOM in React?"
+  },
+  {
+    "id": 89,
+    "answer": "Automatically deploying updates to production after passing tests",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Continuous Deployment?"
+  },
+  {
+    "id": 90,
+    "answer": "Microservices are small independent services, Monolithic is a single large application",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the difference between Microservices and Monolithic Architecture?"
+  },
+  {
+    "id": 91,
+    "answer": "Code that is never executed during runtime",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Dead Code?"
+  },
+  {
+    "id": 92,
+    "answer": "Deferring object creation until it is needed",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Lazy Initialization?"
+  },
+  {
+    "id": 93,
+    "answer": "A design pattern that ensures a class has only one instance",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Singleton Pattern?"
+  },
+  {
+    "id": 94,
+    "answer": "A collection of pre-instantiated reusable threads",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Thread Pool?"
+  },
+  {
+    "id": 95,
+    "answer": "A mutual exclusion object that prevents concurrent access",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Mutex?"
+  },
+  {
+    "id": 96,
+    "answer": "A temporary storage to speed up data access",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Cache?"
+  },
+  {
+    "id": 97,
+    "answer": "A notation to describe algorithm complexity",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Big O Notation?"
+  },
+  {
+    "id": 98,
+    "answer": "An API that follows REST architecture principles",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a RESTful API?"
+  },
+  {
+    "id": 99,
+    "answer": "An intermediary server between client and server",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Proxy Server?"
+  },
+  {
+    "id": 100,
+    "answer": "Mechanism to handle runtime errors gracefully",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Exception Handling?"
+  },
+  {
+    "id": 101,
+    "answer": "A small, independent service in a distributed system",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Microservice?"
+  },
+  {
+    "id": 102,
+    "answer": "Security method using two verification steps",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Two-Factor Authentication?"
+  },
+  {
+    "id": 103,
+    "answer": "A database that stores data in non-relational form",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a NoSQL Database?"
+  },
+  {
+    "id": 104,
+    "answer": "A design pattern to inject dependencies into a class",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Dependency Injection?"
+  },
+  {
+    "id": 105,
+    "answer": "A mechanism to handle asynchronous callbacks",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Event Loop in JavaScript?"
+  },
+  {
+    "id": 106,
+    "answer": "Pattern where objects are notified of state changes",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is the Observer Design Pattern?"
+  },
+  {
+    "id": 107,
+    "answer": "Techniques to prevent processes from waiting indefinitely",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Deadlock Prevention?"
+  },
+  {
+    "id": 108,
+    "answer": "Automatically deploying code to staging environments",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Continuous Delivery?"
+  },
+  {
+    "id": 109,
+    "answer": "Replacing sensitive data with tokens",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Tokenization in Security?"
+  },
+  {
+    "id": 110,
+    "answer": "A device that distributes network traffic across servers",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Load Balancer?"
+  },
+  {
+    "id": 111,
+    "answer": "A server that acts as a single entry point for multiple APIs",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is an API Gateway?"
+  },
+  {
+    "id": 112,
+    "answer": "Running applications without managing servers directly",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Serverless Architecture?"
+  },
+  {
+    "id": 113,
+    "answer": "A network of servers to deliver content faster",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Content Delivery Network (CDN)?"
+  },
+  {
+    "id": 114,
+    "answer": "A JSON Web Token used for secure data exchange",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is JWT Token?"
+  },
+  {
+    "id": 115,
+    "answer": "A system where multiple computers communicate to achieve a goal",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Distributed System?"
+  },
+  {
+    "id": 116,
+    "answer": "Storing state changes as a sequence of events",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Event Sourcing?"
+  },
+  {
+    "id": 117,
+    "answer": "Command Query Responsibility Segregation pattern",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is CQRS?"
+  },
+  {
+    "id": 118,
+    "answer": "A protocol for full-duplex communication over a single TCP connection",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is WebSocket?"
+  },
+  {
+    "id": 119,
+    "answer": "A database that uses graph structures for data",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is a Graph Database?"
+  },
+  {
+    "id": 120,
+    "answer": "Managing infrastructure through code scripts",
+    "categoryID": 1,
+    "difficultyID": 2,
+    "question": "What is Infrastructure as Code (IaC)?"
+  },
+  {
+    "id": 121,
+    "answer": "Consistency, Availability, Partition Tolerance cannot all be fully achieved simultaneously",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is CAP Theorem in distributed systems?"
+  },
+  {
+    "id": 122,
+    "answer": "Storing state changes as a sequence of events",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Event Sourcing pattern"
+  },
+  {
+    "id": 123,
+    "answer": "Command Query Responsibility Segregation",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is CQRS?"
+  },
+  {
+    "id": 124,
+    "answer": "Probabilistic data structure for set membership tests",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is a Bloom Filter?"
+  },
+  {
+    "id": 125,
+    "answer": "Build smaller, optimized images by separating build and runtime stages",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Docker multi-stage builds"
+  },
+  {
+    "id": 126,
+    "answer": "Custom controller to automate application management on Kubernetes",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Kubernetes Operator?"
+  },
+  {
+    "id": 127,
+    "answer": "ACID ensures strong consistency, BASE allows eventual consistency",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Difference between ACID and BASE?"
+  },
+  {
+    "id": 128,
+    "answer": "Distributed algorithm to manage a replicated log",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Raft Consensus Algorithm?"
+  },
+  {
+    "id": 129,
+    "answer": "Probabilistic algorithm to estimate cardinality of large datasets",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain HyperLogLog algorithm"
+  },
+  {
+    "id": 130,
+    "answer": "Hashing technique to distribute keys evenly among nodes with minimal reorganization",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Consistent Hashing?"
+  },
+  {
+    "id": 131,
+    "answer": "Prevents repeated failures by stopping requests to failing services",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Circuit Breaker pattern"
+  },
+  {
+    "id": 132,
+    "answer": "Infrastructure layer to manage service-to-service communication",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Kubernetes Service Mesh?"
+  },
+  {
+    "id": 133,
+    "answer": "Formal specification language for modeling concurrent systems",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain TLA+ usage"
+  },
+  {
+    "id": 134,
+    "answer": "Protocol to ensure distributed transaction atomicity",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Two-Phase Commit?"
+  },
+  {
+    "id": 135,
+    "answer": "Mechanism to track causality in distributed systems",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Vector Clocks"
+  },
+  {
+    "id": 136,
+    "answer": "Consensus algorithm for fault-tolerant distributed systems",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Paxos Algorithm?"
+  },
+  {
+    "id": 137,
+    "answer": "You can only choose two out of Consistency, Availability, Partition tolerance",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain CAP Theorem trade-offs"
+  },
+  {
+    "id": 138,
+    "answer": "Ensures multiple identical requests produce the same effect",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Idempotency in APIs?"
+  },
+  {
+    "id": 139,
+    "answer": "Algorithm to select a coordinator among nodes",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Leader Election in distributed systems"
+  },
+  {
+    "id": 140,
+    "answer": "HTTP method that can be called multiple times without changing the result beyond initial application",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Idempotent HTTP method?"
+  },
+  {
+    "id": 141,
+    "answer": "Mechanism to handle overwhelming data flow by slowing producers",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Backpressure in reactive programming"
+  },
+  {
+    "id": 142,
+    "answer": "Data will become consistent over time, not immediately",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Eventual Consistency?"
+  },
+  {
+    "id": 143,
+    "answer": "Deploying helper services alongside main service for tasks like logging, monitoring",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Sidecar Pattern in microservices"
+  },
+  {
+    "id": 144,
+    "answer": "Hash-based tree structure used in blockchain to verify data integrity",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is a Merkle Tree?"
+  },
+  {
+    "id": 145,
+    "answer": "Breaks transaction into a sequence of local transactions with compensating actions",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain SAGA Pattern in distributed transactions"
+  },
+  {
+    "id": 146,
+    "answer": "One leader handles tasks, followers replicate results",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Leader-Follower concurrency model?"
+  },
+  {
+    "id": 147,
+    "answer": "Closed, Open, and Half-Open to manage service failures",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Circuit Breaker states"
+  },
+  {
+    "id": 148,
+    "answer": "Coordination service for distributed applications",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is ZooKeeper used for?"
+  },
+  {
+    "id": 149,
+    "answer": "Minimum number of nodes that must agree for an operation to succeed",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Quorum in distributed systems"
+  },
+  {
+    "id": 150,
+    "answer": "Adjusting GC parameters to optimize memory and performance",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Tuning Garbage Collection in Java?"
+  },
+  {
+    "id": 151,
+    "answer": "Consistency, Availability, and Partition Tolerance – choose two",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain CAP theorem in distributed systems"
+  },
+  {
+    "id": 152,
+    "answer": "Probabilistic data structure for set membership testing",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Bloom Filter?"
+  },
+  {
+    "id": 153,
+    "answer": "Process to choose a coordinator among nodes",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Leader Election in distributed systems"
+  },
+  {
+    "id": 154,
+    "answer": "Protocol to ensure all nodes commit or rollback a transaction",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Two-Phase Commit (2PC)?"
+  },
+  {
+    "id": 155,
+    "answer": "Mechanism to capture causality between events in distributed systems",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Vector Clocks"
+  },
+  {
+    "id": 156,
+    "answer": "Nodes share information randomly to achieve eventual consistency",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Gossip Protocol?"
+  },
+  {
+    "id": 157,
+    "answer": "Separate read and write models for better scalability",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain CQRS pattern"
+  },
+  {
+    "id": 158,
+    "answer": "Algorithm to achieve consensus in distributed systems",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Raft Consensus Algorithm?"
+  },
+  {
+    "id": 159,
+    "answer": "Store changes as a sequence of events rather than current state",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Event Sourcing"
+  },
+  {
+    "id": 160,
+    "answer": "Queue to hold messages that cannot be processed",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is a Dead Letter Queue?"
+  },
+  {
+    "id": 161,
+    "answer": "Operation can be repeated without changing the result",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Idempotency in APIs"
+  },
+  {
+    "id": 162,
+    "answer": "Prevent repeated failures in services by stopping calls temporarily",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is a Circuit Breaker pattern used for?"
+  },
+  {
+    "id": 163,
+    "answer": "Proactor handles async completion, Reactor handles event demultiplexing",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Proactor vs Reactor patterns"
+  },
+  {
+    "id": 164,
+    "answer": "Balanced tree used in databases for efficient range queries",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is a B+ Tree?"
+  },
+  {
+    "id": 165,
+    "answer": "Least Recently Used items are removed when capacity is full",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain LRU Cache mechanism"
+  },
+  {
+    "id": 166,
+    "answer": "Illustrates impossibility of guaranteed coordination over unreliable channels",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Two Generals Problem?"
+  },
+  {
+    "id": 167,
+    "answer": "Handles asynchronous callbacks by looping through events",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Event Loop in Node.js"
+  },
+  {
+    "id": 168,
+    "answer": "CAPEX: capital expenses, OPEX: operational expenses",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is CAPEX vs OPEX in IT projects?"
+  },
+  {
+    "id": 169,
+    "answer": "Saga is eventual, 2PC is atomic for distributed transactions",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Saga vs 2PC"
+  },
+  {
+    "id": 170,
+    "answer": "Package manager for Kubernetes applications",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Helm in Kubernetes?"
+  },
+  {
+    "id": 171,
+    "answer": "Changes state or interacts with outside world during computation",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Side Effects in Functional Programming"
+  },
+  {
+    "id": 172,
+    "answer": "Custom controller to manage application lifecycle",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Kubernetes Operator?"
+  },
+  {
+    "id": 173,
+    "answer": "Conflict-free Replicated Data Types used in distributed systems",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain CRDTs"
+  },
+  {
+    "id": 174,
+    "answer": "Data becomes consistent over time, not immediately",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is eventual consistency in NoSQL?"
+  },
+  {
+    "id": 175,
+    "answer": "Hot: ready to serve immediately, Warm: needs initialization",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Hot Standby vs Warm Standby"
+  },
+  {
+    "id": 176,
+    "answer": "Custom Resource Definition to extend Kubernetes API",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Kubernetes CRD?"
+  },
+  {
+    "id": 177,
+    "answer": "Database optimized for similarity search with vectors",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Vector Database"
+  },
+  {
+    "id": 178,
+    "answer": "Limits number of pods down during maintenance",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Kubernetes Pod Disruption Budget?"
+  },
+  {
+    "id": 179,
+    "answer": "Mechanism to slow producers when consumers cannot keep up",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "Explain Backpressure in Kafka"
+  },
+  {
+    "id": 180,
+    "answer": "Manages stateful applications with stable network IDs and storage",
+    "categoryID": 1,
+    "difficultyID": 3,
+    "question": "What is Kubernetes StatefulSet?"
+  },
+  {
+    "id": 181,
+    "answer": "Paris",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "What is the capital of France?"
+  },
+  {
+    "id": 182,
+    "answer": "South America",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which continent is Brazil located in?"
+  },
+  {
+    "id": 183,
+    "answer": "Pacific Ocean",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which ocean is the largest on Earth?"
+  },
+  {
+    "id": 184,
+    "answer": "Nepal",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Mount Everest is located in which country?"
+  },
+  {
+    "id": 185,
+    "answer": "Mediterranean Sea",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "The Nile river flows into which sea?"
+  },
+  {
+    "id": 186,
+    "answer": "Russia",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country has the largest land area?"
+  },
+  {
+    "id": 187,
+    "answer": "Sahara Desert",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which desert is the largest in the world?"
+  },
+  {
+    "id": 188,
+    "answer": "Japan",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Tokyo is the capital of which country?"
+  },
+  {
+    "id": 189,
+    "answer": "Africa",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which continent is Egypt located in?"
+  },
+  {
+    "id": 190,
+    "answer": "Japan",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is known as the Land of the Rising Sun?"
+  },
+  {
+    "id": 191,
+    "answer": "Nile",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which is the longest river in the world?"
+  },
+  {
+    "id": 192,
+    "answer": "China",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country has the largest population?"
+  },
+  {
+    "id": 193,
+    "answer": "Atlantic Ocean",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which ocean is on the east coast of the United States?"
+  },
+  {
+    "id": 194,
+    "answer": "Australia",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for the Great Barrier Reef?"
+  },
+  {
+    "id": 195,
+    "answer": "Africa",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which continent has the most countries?"
+  },
+  {
+    "id": 196,
+    "answer": "Ural Mountains",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which mountain range separates Europe and Asia?"
+  },
+  {
+    "id": 197,
+    "answer": "New York",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which city is known as the Big Apple?"
+  },
+  {
+    "id": 198,
+    "answer": "Egypt",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for the Pyramids of Giza?"
+  },
+  {
+    "id": 199,
+    "answer": "Thames",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which river flows through London?"
+  },
+  {
+    "id": 200,
+    "answer": "Turkey",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is both in Europe and Asia?"
+  },
+  {
+    "id": 201,
+    "answer": "Vatican City",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which is the smallest country in the world?"
+  },
+  {
+    "id": 202,
+    "answer": "Antarctica",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which continent is known as the “Frozen Continent”?"
+  },
+  {
+    "id": 203,
+    "answer": "Canada",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country has the most natural lakes?"
+  },
+  {
+    "id": 204,
+    "answer": "Angel Falls",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which is the highest waterfall in the world?"
+  },
+  {
+    "id": 205,
+    "answer": "Aral Sea",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which sea is shrinking due to diversion of rivers?"
+  },
+  {
+    "id": 206,
+    "answer": "Gobi Desert",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which desert is located in northern China and southern Mongolia?"
+  },
+  {
+    "id": 207,
+    "answer": "Netherlands",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for tulips and windmills?"
+  },
+  {
+    "id": 208,
+    "answer": "Wyoming",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which US state is famous for its geysers and hot springs?"
+  },
+  {
+    "id": 209,
+    "answer": "Yangtze",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which river is the longest in Asia?"
+  },
+  {
+    "id": 210,
+    "answer": "Paris",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which city is known as the City of Light?"
+  },
+  {
+    "id": 211,
+    "answer": "Canada",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country has a maple leaf on its flag?"
+  },
+  {
+    "id": 212,
+    "answer": "France",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is known for the Eiffel Tower?"
+  },
+  {
+    "id": 213,
+    "answer": "Asia",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which continent is India located in?"
+  },
+  {
+    "id": 214,
+    "answer": "Asia",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which is the largest continent?"
+  },
+  {
+    "id": 215,
+    "answer": "India",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for the Taj Mahal?"
+  },
+  {
+    "id": 216,
+    "answer": "Australia",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for kangaroos?"
+  },
+  {
+    "id": 217,
+    "answer": "Rome",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which city is known for the Colosseum?"
+  },
+  {
+    "id": 218,
+    "answer": "Japan",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for sushi?"
+  },
+  {
+    "id": 219,
+    "answer": "Nile",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which river flows through Egypt?"
+  },
+  {
+    "id": 220,
+    "answer": "Switzerland",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is known for chocolate and watches?"
+  },
+  {
+    "id": 221,
+    "answer": "China",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country has the Great Wall?"
+  },
+  {
+    "id": 222,
+    "answer": "New York",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which city is famous for the Statue of Liberty?"
+  },
+  {
+    "id": 223,
+    "answer": "Brazil",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for the Amazon Rainforest?"
+  },
+  {
+    "id": 224,
+    "answer": "Sudan",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country has the most pyramids?"
+  },
+  {
+    "id": 225,
+    "answer": "Mount Kilimanjaro",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which mountain is the tallest in Africa?"
+  },
+  {
+    "id": 226,
+    "answer": "Russia",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is known for the Kremlin?"
+  },
+  {
+    "id": 227,
+    "answer": "Tigris",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which river flows through Baghdad?"
+  },
+  {
+    "id": 228,
+    "answer": "London",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which city is famous for Big Ben?"
+  },
+  {
+    "id": 229,
+    "answer": "Italy",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for pizza?"
+  },
+  {
+    "id": 230,
+    "answer": "Sahara",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which desert is in northern Africa?"
+  },
+  {
+    "id": 231,
+    "answer": "Chile",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country has the Andes mountains?"
+  },
+  {
+    "id": 232,
+    "answer": "Italy",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for the Leaning Tower of Pisa?"
+  },
+  {
+    "id": 233,
+    "answer": "Amsterdam",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which city is known as the Venice of the North?"
+  },
+  {
+    "id": 234,
+    "answer": "Norway",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is known for its fjords?"
+  },
+  {
+    "id": 235,
+    "answer": "Seine",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which river flows through Paris?"
+  },
+  {
+    "id": 236,
+    "answer": "Africa",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which continent is known for the Serengeti?"
+  },
+  {
+    "id": 237,
+    "answer": "Spain",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for flamenco dance?"
+  },
+  {
+    "id": 238,
+    "answer": "Norway",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is known for its fjords and northern lights?"
+  },
+  {
+    "id": 239,
+    "answer": "Sudan",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which country is famous for its pyramids besides Egypt?"
+  },
+  {
+    "id": 240,
+    "answer": "Venice",
+    "categoryID": 2,
+    "difficultyID": 1,
+    "question": "Which city is famous for its canals and gondolas?"
+  },
+  {
+    "id": 241,
+    "answer": "Tigris",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river passes through Baghdad and Basra?"
+  },
+  {
+    "id": 242,
+    "answer": "Gobi Desert",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which desert covers much of Mongolia and northern China?"
+  },
+  {
+    "id": 243,
+    "answer": "Himalayas",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which mountain range separates India from China?"
+  },
+  {
+    "id": 244,
+    "answer": "Zambia",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which African country is known for Victoria Falls?"
+  },
+  {
+    "id": 245,
+    "answer": "Red Sea",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which sea separates Saudi Arabia from Africa?"
+  },
+  {
+    "id": 246,
+    "answer": "Morocco",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has both Mediterranean and Atlantic coastlines?"
+  },
+  {
+    "id": 247,
+    "answer": "Rio Grande",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river forms part of the border between the USA and Mexico?"
+  },
+  {
+    "id": 248,
+    "answer": "Lesotho",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is completely landlocked by South Africa?"
+  },
+  {
+    "id": 249,
+    "answer": "Denali",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which mountain is the highest in North America?"
+  },
+  {
+    "id": 250,
+    "answer": "Indian Ocean",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which ocean lies between Africa and Australia?"
+  },
+  {
+    "id": 251,
+    "answer": "Wellington",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which city is the capital of New Zealand?"
+  },
+  {
+    "id": 252,
+    "answer": "Italy",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which European country has the most volcanoes?"
+  },
+  {
+    "id": 253,
+    "answer": "Danube",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river flows through Vienna and Budapest?"
+  },
+  {
+    "id": 254,
+    "answer": "Iceland",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is known as the Land of Fire and Ice?"
+  },
+  {
+    "id": 255,
+    "answer": "Somalia",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which African country has the longest coastline?"
+  },
+  {
+    "id": 256,
+    "answer": "Kalahari",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which desert is located in southern Africa?"
+  },
+  {
+    "id": 257,
+    "answer": "Sweden",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the largest number of islands?"
+  },
+  {
+    "id": 258,
+    "answer": "Aconcagua",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which mountain is the tallest in South America?"
+  },
+  {
+    "id": 259,
+    "answer": "Russia",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the deepest lake in the world?"
+  },
+  {
+    "id": 260,
+    "answer": "Norway",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has both Arctic and Atlantic coastlines?"
+  },
+  {
+    "id": 261,
+    "answer": "Seine",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river flows through Paris?"
+  },
+  {
+    "id": 262,
+    "answer": "Nairobi",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which city is the capital of Kenya?"
+  },
+  {
+    "id": 263,
+    "answer": "Gobi",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which desert covers most of northern China?"
+  },
+  {
+    "id": 264,
+    "answer": "Norway",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is famous for fjords?"
+  },
+  {
+    "id": 265,
+    "answer": "Ottawa",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which city is the capital of Canada?"
+  },
+  {
+    "id": 266,
+    "answer": "Jordan",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the Dead Sea?"
+  },
+  {
+    "id": 267,
+    "answer": "Volga",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river is the longest in Europe?"
+  },
+  {
+    "id": 268,
+    "answer": "Indonesia",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the most active volcanoes?"
+  },
+  {
+    "id": 269,
+    "answer": "Seoul",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which city is the capital of South Korea?"
+  },
+  {
+    "id": 270,
+    "answer": "Nile",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which African river is the longest?"
+  },
+  {
+    "id": 271,
+    "answer": "Finland",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which European country has the most lakes?"
+  },
+  {
+    "id": 272,
+    "answer": "Brazil",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the largest rainforest?"
+  },
+  {
+    "id": 273,
+    "answer": "Italy",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the largest peninsula in Europe?"
+  },
+  {
+    "id": 274,
+    "answer": "Greece",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country contains the most islands in the Mediterranean?"
+  },
+  {
+    "id": 275,
+    "answer": "Italy",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the most volcanoes in Europe?"
+  },
+  {
+    "id": 276,
+    "answer": "Aral Sea",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which sea is shrinking due to river diversion?"
+  },
+  {
+    "id": 277,
+    "answer": "Norway",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is known as the Land of the Midnight Sun?"
+  },
+  {
+    "id": 278,
+    "answer": "Ankara",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which city is the capital of Turkey?"
+  },
+  {
+    "id": 279,
+    "answer": "Antarctica",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the largest number of glaciers in the world?"
+  },
+  {
+    "id": 280,
+    "answer": "Tigris",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river flows through Baghdad?"
+  },
+  {
+    "id": 281,
+    "answer": "Venezuela",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the highest waterfall?"
+  },
+  {
+    "id": 282,
+    "answer": "Pyrenees",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which mountain range separates France and Spain?"
+  },
+  {
+    "id": 283,
+    "answer": "Chile",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the largest number of volcanoes in South America?"
+  },
+  {
+    "id": 284,
+    "answer": "Yangtze",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river is the longest in Asia?"
+  },
+  {
+    "id": 285,
+    "answer": "Brazil",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is the largest in South America?"
+  },
+  {
+    "id": 286,
+    "answer": "Ulaanbaatar",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which city is the capital of Mongolia?"
+  },
+  {
+    "id": 287,
+    "answer": "Lake Victoria",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which lake is the largest freshwater lake in Africa?"
+  },
+  {
+    "id": 288,
+    "answer": "Norway",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is known for its fjords and northern lights?"
+  },
+  {
+    "id": 289,
+    "answer": "Moskva",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river flows through Moscow?"
+  },
+  {
+    "id": 290,
+    "answer": "Indonesia",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the most volcanoes in the Pacific Ring of Fire?"
+  },
+  {
+    "id": 291,
+    "answer": "Gabon",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which African country is crossed by the equator and the prime meridian?"
+  },
+  {
+    "id": 292,
+    "answer": "Persian Gulf",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which sea is between Saudi Arabia and Iran?"
+  },
+  {
+    "id": 293,
+    "answer": "Danube",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river flows through Budapest?"
+  },
+  {
+    "id": 294,
+    "answer": "Australia",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the largest coral reef system?"
+  },
+  {
+    "id": 295,
+    "answer": "Italy",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the largest number of active volcanoes in Europe?"
+  },
+  {
+    "id": 296,
+    "answer": "Algeria",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is the largest by area in Africa?"
+  },
+  {
+    "id": 297,
+    "answer": "Mount Elbrus",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which mountain is the highest in Europe?"
+  },
+  {
+    "id": 298,
+    "answer": "Lesotho",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country is completely landlocked by another country?"
+  },
+  {
+    "id": 299,
+    "answer": "Danube",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which river flows through the city of Vienna?"
+  },
+  {
+    "id": 300,
+    "answer": "Canada",
+    "categoryID": 2,
+    "difficultyID": 2,
+    "question": "Which country has the most lakes in the world?"
+  },
+  {
+    "id": 301,
+    "answer": "Mariana Trench",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the deepest ocean trench in the world?"
+  },
+  {
+    "id": 302,
+    "answer": "France",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the most time zones?"
+  },
+  {
+    "id": 303,
+    "answer": "La Paz",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the highest capital city by elevation?"
+  },
+  {
+    "id": 304,
+    "answer": "Antarctic Desert",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which desert is considered the coldest on Earth?"
+  },
+  {
+    "id": 305,
+    "answer": "Venezuela",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest proven oil reserves?"
+  },
+  {
+    "id": 306,
+    "answer": "Lake Victoria",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which African lake is the world’s largest by surface area?"
+  },
+  {
+    "id": 307,
+    "answer": "Amazon",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which river has the largest discharge in the world?"
+  },
+  {
+    "id": 308,
+    "answer": "Sicily",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which island is the largest in the Mediterranean Sea?"
+  },
+  {
+    "id": 309,
+    "answer": "Aravalli",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which mountain range is the oldest in the world?"
+  },
+  {
+    "id": 310,
+    "answer": "Venezuela",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the highest waterfall in the world?"
+  },
+  {
+    "id": 311,
+    "answer": "Dead Sea",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which sea has the highest salinity in the world?"
+  },
+  {
+    "id": 312,
+    "answer": "Bay of Bengal",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the largest bay in the world?"
+  },
+  {
+    "id": 313,
+    "answer": "Canada",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the longest continuous coastline?"
+  },
+  {
+    "id": 314,
+    "answer": "Lake Baikal",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which lake is the deepest in the world?"
+  },
+  {
+    "id": 315,
+    "answer": "Brazil",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest freshwater reserves?"
+  },
+  {
+    "id": 316,
+    "answer": "Greenland",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest glacier area outside the polar regions?"
+  },
+  {
+    "id": 317,
+    "answer": "Ojos del Salado",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the highest volcano in the world?"
+  },
+  {
+    "id": 318,
+    "answer": "Greenland",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the largest island in the world?"
+  },
+  {
+    "id": 319,
+    "answer": "Atacama",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which desert is the driest in the world?"
+  },
+  {
+    "id": 320,
+    "answer": "Danube",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which river passes through the most countries?"
+  },
+  {
+    "id": 321,
+    "answer": "Nigeria",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest population in Africa?"
+  },
+  {
+    "id": 322,
+    "answer": "Gobi Desert",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the largest desert in Asia?"
+  },
+  {
+    "id": 323,
+    "answer": "Russia",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country is the largest by area in Europe?"
+  },
+  {
+    "id": 324,
+    "answer": "Aral Sea",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which sea is shrinking due to climate change?"
+  },
+  {
+    "id": 325,
+    "answer": "Arabian Peninsula",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the largest peninsula in the world?"
+  },
+  {
+    "id": 326,
+    "answer": "Italy",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the highest number of UNESCO World Heritage Sites?"
+  },
+  {
+    "id": 327,
+    "answer": "Brazil",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the longest river in South America?"
+  },
+  {
+    "id": 328,
+    "answer": "Vatnajökull",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the largest glacier in the world outside polar regions?"
+  },
+  {
+    "id": 329,
+    "answer": "China",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the longest continuous land border?"
+  },
+  {
+    "id": 330,
+    "answer": "Indonesia",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the most volcanoes in the world?"
+  },
+  {
+    "id": 331,
+    "answer": "Amazon",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which river has the largest drainage basin in the world?"
+  },
+  {
+    "id": 332,
+    "answer": "Lake Tanganyika",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which African lake is the deepest?"
+  },
+  {
+    "id": 333,
+    "answer": "Russia",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest tundra region?"
+  },
+  {
+    "id": 334,
+    "answer": "Denali",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the tallest mountain in North America?"
+  },
+  {
+    "id": 335,
+    "answer": "Brazil",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest area of tropical rainforest?"
+  },
+  {
+    "id": 336,
+    "answer": "Finland",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the highest number of lakes in Europe?"
+  },
+  {
+    "id": 337,
+    "answer": "Sahara",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the largest desert in Africa?"
+  },
+  {
+    "id": 338,
+    "answer": "Greenland",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest ice cap outside polar regions?"
+  },
+  {
+    "id": 339,
+    "answer": "The Bahamas",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which country has the largest number of islands in the Caribbean?"
+  },
+  {
+    "id": 340,
+    "answer": "Andes",
+    "categoryID": 2,
+    "difficultyID": 3,
+    "question": "Which is the longest mountain range in the world?"
+  },
+  {
+    "id": 341,
+    "answer": "4",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 2 + 2?"
+  },
+  {
+    "id": 342,
+    "answer": "2",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 5 - 3?"
+  },
+  {
+    "id": 343,
+    "answer": "9",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 3 × 3?"
+  },
+  {
+    "id": 344,
+    "answer": "5",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 10 ÷ 2?"
+  },
+  {
+    "id": 345,
+    "answer": "13",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is the value of 7 + 6?"
+  },
+  {
+    "id": 346,
+    "answer": "3",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 8 - 5?"
+  },
+  {
+    "id": 347,
+    "answer": "24",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 6 × 4?"
+  },
+  {
+    "id": 348,
+    "answer": "3",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 9 ÷ 3?"
+  },
+  {
+    "id": 349,
+    "answer": "20",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 15 + 5?"
+  },
+  {
+    "id": 350,
+    "answer": "5",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 12 - 7?"
+  },
+  {
+    "id": 351,
+    "answer": "14",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 7 × 2?"
+  },
+  {
+    "id": 352,
+    "answer": "3",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 18 ÷ 6?"
+  },
+  {
+    "id": 353,
+    "answer": "13",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 4 + 9?"
+  },
+  {
+    "id": 354,
+    "answer": "7",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 10 - 3?"
+  },
+  {
+    "id": 355,
+    "answer": "25",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 5 × 5?"
+  },
+  {
+    "id": 356,
+    "answer": "5",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 20 ÷ 4?"
+  },
+  {
+    "id": 357,
+    "answer": "19",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 11 + 8?"
+  },
+  {
+    "id": 358,
+    "answer": "5",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 14 - 9?"
+  },
+  {
+    "id": 359,
+    "answer": "21",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 3 × 7?"
+  },
+  {
+    "id": 360,
+    "answer": "4",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 16 ÷ 4?"
+  },
+  {
+    "id": 361,
+    "answer": "13",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 6 + 7?"
+  },
+  {
+    "id": 362,
+    "answer": "5",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 9 - 4?"
+  },
+  {
+    "id": 363,
+    "answer": "16",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 8 × 2?"
+  },
+  {
+    "id": 364,
+    "answer": "4",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 12 ÷ 3?"
+  },
+  {
+    "id": 365,
+    "answer": "22",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 15 + 7?"
+  },
+  {
+    "id": 366,
+    "answer": "5",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 11 - 6?"
+  },
+  {
+    "id": 367,
+    "answer": "21",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 7 × 3?"
+  },
+  {
+    "id": 368,
+    "answer": "3",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 18 ÷ 6?"
+  },
+  {
+    "id": 369,
+    "answer": "14",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 5 + 9?"
+  },
+  {
+    "id": 370,
+    "answer": "5",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 13 - 8?"
+  },
+  {
+    "id": 371,
+    "answer": "24",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 4 × 6?"
+  },
+  {
+    "id": 372,
+    "answer": "4",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 20 ÷ 5?"
+  },
+  {
+    "id": 373,
+    "answer": "15",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 9 + 6?"
+  },
+  {
+    "id": 374,
+    "answer": "3",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 10 - 7?"
+  },
+  {
+    "id": 375,
+    "answer": "40",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 8 × 5?"
+  },
+  {
+    "id": 376,
+    "answer": "2",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 16 ÷ 8?"
+  },
+  {
+    "id": 377,
+    "answer": "21",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 12 + 9?"
+  },
+  {
+    "id": 378,
+    "answer": "8",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 14 - 6?"
+  },
+  {
+    "id": 379,
+    "answer": "27",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 3 × 9?"
+  },
+  {
+    "id": 380,
+    "answer": "6",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 18 ÷ 3?"
+  },
+  {
+    "id": 381,
+    "answer": "15",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 7 + 8?"
+  },
+  {
+    "id": 382,
+    "answer": "6",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 15 - 9?"
+  },
+  {
+    "id": 383,
+    "answer": "30",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 6 × 5?"
+  },
+  {
+    "id": 384,
+    "answer": "2",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 12 ÷ 6?"
+  },
+  {
+    "id": 385,
+    "answer": "16",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 9 + 7?"
+  },
+  {
+    "id": 386,
+    "answer": "6",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 10 - 4?"
+  },
+  {
+    "id": 387,
+    "answer": "28",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 7 × 4?"
+  },
+  {
+    "id": 388,
+    "answer": "10",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 20 ÷ 2?"
+  },
+  {
+    "id": 389,
+    "answer": "19",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 13 + 6?"
+  },
+  {
+    "id": 390,
+    "answer": "7",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 14 - 7?"
+  },
+  {
+    "id": 391,
+    "answer": "30",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 5 × 6?"
+  },
+  {
+    "id": 392,
+    "answer": "9",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 18 ÷ 2?"
+  },
+  {
+    "id": 393,
+    "answer": "15",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 6 + 9?"
+  },
+  {
+    "id": 394,
+    "answer": "6",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 11 - 5?"
+  },
+  {
+    "id": 395,
+    "answer": "24",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 8 × 3?"
+  },
+  {
+    "id": 396,
+    "answer": "8",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 16 ÷ 2?"
+  },
+  {
+    "id": 397,
+    "answer": "16",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 7 + 9?"
+  },
+  {
+    "id": 398,
+    "answer": "7",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 15 - 8?"
+  },
+  {
+    "id": 399,
+    "answer": "45",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 9 × 5?"
+  },
+  {
+    "id": 400,
+    "answer": "4",
+    "categoryID": 3,
+    "difficultyID": 1,
+    "question": "What is 20 ÷ 5?"
+  },
+  {
+    "id": 401,
+    "answer": "144",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 12 × 12?"
+  },
+  {
+    "id": 402,
+    "answer": "12",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 144 ÷ 12?"
+  },
+  {
+    "id": 403,
+    "answer": "100",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 25 × 4?"
+  },
+  {
+    "id": 404,
+    "answer": "9",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 81 ÷ 9?"
+  },
+  {
+    "id": 405,
+    "answer": "90",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 15 × 6?"
+  },
+  {
+    "id": 406,
+    "answer": "9",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 72 ÷ 8?"
+  },
+  {
+    "id": 407,
+    "answer": "90",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 18 × 5?"
+  },
+  {
+    "id": 408,
+    "answer": "25",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 100 ÷ 4?"
+  },
+  {
+    "id": 409,
+    "answer": "98",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 14 × 7?"
+  },
+  {
+    "id": 410,
+    "answer": "8",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 96 ÷ 12?"
+  },
+  {
+    "id": 411,
+    "answer": "66",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 22 × 3?"
+  },
+  {
+    "id": 412,
+    "answer": "9",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 81 ÷ 9?"
+  },
+  {
+    "id": 413,
+    "answer": "104",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 13 × 8?"
+  },
+  {
+    "id": 414,
+    "answer": "24",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 120 ÷ 5?"
+  },
+  {
+    "id": 415,
+    "answer": "102",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 17 × 6?"
+  },
+  {
+    "id": 416,
+    "answer": "12",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 144 ÷ 12?"
+  },
+  {
+    "id": 417,
+    "answer": "84",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 21 × 4?"
+  },
+  {
+    "id": 418,
+    "answer": "18",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 90 ÷ 5?"
+  },
+  {
+    "id": 419,
+    "answer": "57",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 19 × 3?"
+  },
+  {
+    "id": 420,
+    "answer": "18",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 144 ÷ 8?"
+  },
+  {
+    "id": 421,
+    "answer": "112",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 16 × 7?"
+  },
+  {
+    "id": 422,
+    "answer": "14",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 196 ÷ 14?"
+  },
+  {
+    "id": 423,
+    "answer": "126",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 18 × 7?"
+  },
+  {
+    "id": 424,
+    "answer": "25",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 225 ÷ 9?"
+  },
+  {
+    "id": 425,
+    "answer": "120",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 24 × 5?"
+  },
+  {
+    "id": 426,
+    "answer": "11",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 132 ÷ 12?"
+  },
+  {
+    "id": 427,
+    "answer": "84",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 28 × 3?"
+  },
+  {
+    "id": 428,
+    "answer": "18",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 162 ÷ 9?"
+  },
+  {
+    "id": 429,
+    "answer": "99",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 33 × 3?"
+  },
+  {
+    "id": 430,
+    "answer": "24",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 192 ÷ 8?"
+  },
+  {
+    "id": 431,
+    "answer": "144",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 36 × 4?"
+  },
+  {
+    "id": 432,
+    "answer": "24",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 144 ÷ 6?"
+  },
+  {
+    "id": 433,
+    "answer": "135",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 27 × 5?"
+  },
+  {
+    "id": 434,
+    "answer": "15",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 180 ÷ 12?"
+  },
+  {
+    "id": 435,
+    "answer": "90",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 45 × 2?"
+  },
+  {
+    "id": 436,
+    "answer": "9",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 99 ÷ 11?"
+  },
+  {
+    "id": 437,
+    "answer": "96",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 48 × 2?"
+  },
+  {
+    "id": 438,
+    "answer": "18",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 126 ÷ 7?"
+  },
+  {
+    "id": 439,
+    "answer": "96",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 32 × 3?"
+  },
+  {
+    "id": 440,
+    "answer": "21",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 210 ÷ 10?"
+  },
+  {
+    "id": 441,
+    "answer": "135",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 15 × 9?"
+  },
+  {
+    "id": 442,
+    "answer": "16",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 128 ÷ 8?"
+  },
+  {
+    "id": 443,
+    "answer": "108",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 18 × 6?"
+  },
+  {
+    "id": 444,
+    "answer": "14",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 196 ÷ 14?"
+  },
+  {
+    "id": 445,
+    "answer": "144",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 24 × 6?"
+  },
+  {
+    "id": 446,
+    "answer": "12",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 180 ÷ 15?"
+  },
+  {
+    "id": 447,
+    "answer": "136",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 17 × 8?"
+  },
+  {
+    "id": 448,
+    "answer": "12",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 144 ÷ 12?"
+  },
+  {
+    "id": 449,
+    "answer": "105",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 21 × 5?"
+  },
+  {
+    "id": 450,
+    "answer": "15",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 90 ÷ 6?"
+  },
+  {
+    "id": 451,
+    "answer": "117",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 13 × 9?"
+  },
+  {
+    "id": 452,
+    "answer": "14",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 168 ÷ 12?"
+  },
+  {
+    "id": 453,
+    "answer": "144",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 16 × 9?"
+  },
+  {
+    "id": 454,
+    "answer": "12",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 192 ÷ 16?"
+  },
+  {
+    "id": 455,
+    "answer": "154",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 14 × 11?"
+  },
+  {
+    "id": 456,
+    "answer": "11",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 121 ÷ 11?"
+  },
+  {
+    "id": 457,
+    "answer": "120",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 15 × 8?"
+  },
+  {
+    "id": 458,
+    "answer": "20",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 180 ÷ 9?"
+  },
+  {
+    "id": 459,
+    "answer": "119",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 17 × 7?"
+  },
+  {
+    "id": 460,
+    "answer": "16",
+    "categoryID": 3,
+    "difficultyID": 2,
+    "question": "What is 144 ÷ 9?"
+  },
+  {
+    "id": 461,
+    "answer": "16",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is the square root of 256?"
+  },
+  {
+    "id": 462,
+    "answer": "221",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 17 × 13?"
+  },
+  {
+    "id": 463,
+    "answer": "32",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 144 ÷ 12 + 8 × 2?"
+  },
+  {
+    "id": 464,
+    "answer": "85",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "If x = 5, what is 3x² + 2x?"
+  },
+  {
+    "id": 465,
+    "answer": "180",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 18² - 12²?"
+  },
+  {
+    "id": 466,
+    "answer": "343",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 7³?"
+  },
+  {
+    "id": 467,
+    "answer": "25",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is the square root of 625?"
+  },
+  {
+    "id": 468,
+    "answer": "154",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 11 × 14?"
+  },
+  {
+    "id": 469,
+    "answer": "24",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 360 ÷ 15?"
+  },
+  {
+    "id": 470,
+    "answer": "405",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "If x = 6, what is 2x³ - x² + 3?"
+  },
+  {
+    "id": 471,
+    "answer": "313",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 13² + 12²?"
+  },
+  {
+    "id": 472,
+    "answer": "625",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 54?"
+  },
+  {
+    "id": 473,
+    "answer": "576",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 48 × 12?"
+  },
+  {
+    "id": 474,
+    "answer": "36",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 900 ÷ 25?"
+  },
+  {
+    "id": 475,
+    "answer": "545",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 24² - 7²?"
+  },
+  {
+    "id": 476,
+    "answer": "729",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 9³?"
+  },
+  {
+    "id": 477,
+    "answer": "625",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 15² + 20²?"
+  },
+  {
+    "id": 478,
+    "answer": "63",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 196 ÷ 14 + 7²?"
+  },
+  {
+    "id": 479,
+    "answer": "1331",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 11³?"
+  },
+  {
+    "id": 480,
+    "answer": "299",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "If x = 4, what is 5x³ - 2x² + 3?"
+  },
+  {
+    "id": 481,
+    "answer": "476",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 28 × 17?"
+  },
+  {
+    "id": 482,
+    "answer": "25",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 625 ÷ 25?"
+  },
+  {
+    "id": 483,
+    "answer": "1024",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 32²?"
+  },
+  {
+    "id": 484,
+    "answer": "60",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 144 ÷ 12 × 5?"
+  },
+  {
+    "id": 485,
+    "answer": "504",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 36 × 14?"
+  },
+  {
+    "id": 486,
+    "answer": "63",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 81 ÷ 9 × 7?"
+  },
+  {
+    "id": 487,
+    "answer": "2197",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 13³?"
+  },
+  {
+    "id": 488,
+    "answer": "855",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 45 × 19?"
+  },
+  {
+    "id": 489,
+    "answer": "18",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 324 ÷ 18?"
+  },
+  {
+    "id": 490,
+    "answer": "612",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "If x = 7, what is 2x³ - 3x² + 5?"
+  },
+  {
+    "id": 491,
+    "answer": "709",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 22² + 15²?"
+  },
+  {
+    "id": 492,
+    "answer": "512",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 8³?"
+  },
+  {
+    "id": 493,
+    "answer": "756",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 63 × 12?"
+  },
+  {
+    "id": 494,
+    "answer": "54",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 144 ÷ 8 + 36?"
+  },
+  {
+    "id": 495,
+    "answer": "342",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 19 × 18?"
+  },
+  {
+    "id": 496,
+    "answer": "112",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 256 ÷ 16 × 7?"
+  },
+  {
+    "id": 497,
+    "answer": "9261",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 21³?"
+  },
+  {
+    "id": 498,
+    "answer": "578",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 17² × 2?"
+  },
+  {
+    "id": 499,
+    "answer": "80",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 128 ÷ 8 + 64?"
+  },
+  {
+    "id": 500,
+    "answer": "396",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 36 × 11?"
+  },
+  {
+    "id": 501,
+    "answer": "637",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 49 × 13?"
+  },
+  {
+    "id": 502,
+    "answer": "108",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 144 ÷ 12 × 9?"
+  },
+  {
+    "id": 503,
+    "answer": "15625",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 25³?"
+  },
+  {
+    "id": 504,
+    "answer": "972",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 18² × 3?"
+  },
+  {
+    "id": 505,
+    "answer": "3375",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 15³?"
+  },
+  {
+    "id": 506,
+    "answer": "612",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 36 × 17?"
+  },
+  {
+    "id": 507,
+    "answer": "250",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 400 ÷ 8 × 5?"
+  },
+  {
+    "id": 508,
+    "answer": "722",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 19² × 2?"
+  },
+  {
+    "id": 509,
+    "answer": "1571",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 11³ + 12²?"
+  },
+  {
+    "id": 510,
+    "answer": "2216",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 13³ + 7²?"
+  },
+  {
+    "id": 511,
+    "answer": "4096",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 16³?"
+  },
+  {
+    "id": 512,
+    "answer": "1152",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 24² × 2?"
+  },
+  {
+    "id": 513,
+    "answer": "1035",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 45 × 23?"
+  },
+  {
+    "id": 514,
+    "answer": "84",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 36 ÷ 3 × 7?"
+  },
+  {
+    "id": 515,
+    "answer": "1728",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 12³?"
+  },
+  {
+    "id": 516,
+    "answer": "1323",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 21² × 3?"
+  },
+  {
+    "id": 517,
+    "answer": "5832",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 18³?"
+  },
+  {
+    "id": 518,
+    "answer": "3072",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 32² × 3?"
+  },
+  {
+    "id": 519,
+    "answer": "4225",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 15³ + 25²?"
+  },
+  {
+    "id": 520,
+    "answer": "2744",
+    "categoryID": 3,
+    "difficultyID": 3,
+    "question": "What is 14³?"
+  },
+  {
+    "id": 521,
+    "answer": "The Lion King",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated film features a talking lion named Simba?"
+  },
+  {
+    "id": 522,
+    "answer": "Spider-Man",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero wears a red and blue suit and swings from webs?"
+  },
+  {
+    "id": 523,
+    "answer": "SpongeBob SquarePants",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which cartoon character lives in a pineapple under the sea?"
+  },
+  {
+    "id": 524,
+    "answer": "Toy Story",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie is about toys coming to life when humans are not around?"
+  },
+  {
+    "id": 525,
+    "answer": "The Beatles",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which musical group is known as the \"Fab Four\"?"
+  },
+  {
+    "id": 526,
+    "answer": "Harry Potter",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a young wizard named Harry Potter?"
+  },
+  {
+    "id": 527,
+    "answer": "Pikachu",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which character is a yellow electric mouse in Pokémon?"
+  },
+  {
+    "id": 528,
+    "answer": "Tangled",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a princess who lets her hair down from a tower?"
+  },
+  {
+    "id": 529,
+    "answer": "Pinocchio",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated film features a wooden puppet who wants to become a real boy?"
+  },
+  {
+    "id": 530,
+    "answer": "Toy Story",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features toys like Woody and Buzz Lightyear?"
+  },
+  {
+    "id": 531,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero uses a shield and is known as the First Avenger?"
+  },
+  {
+    "id": 532,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a snowman named Olaf?"
+  },
+  {
+    "id": 533,
+    "answer": "Pinocchio",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a wooden boy and a talking cricket?"
+  },
+  {
+    "id": 534,
+    "answer": "Finding Nemo",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a fish named Nemo?"
+  },
+  {
+    "id": 535,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero has a hammer named Mjolnir?"
+  },
+  {
+    "id": 536,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a princess named Elsa?"
+  },
+  {
+    "id": 537,
+    "answer": "The Flash",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero has a red suit and is known for speed?"
+  },
+  {
+    "id": 538,
+    "answer": "Moana",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a princess named Moana?"
+  },
+  {
+    "id": 539,
+    "answer": "Cars",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features characters named Lightning McQueen and Mater?"
+  },
+  {
+    "id": 540,
+    "answer": "The Little Mermaid",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated film features a princess named Ariel?"
+  },
+  {
+    "id": 541,
+    "answer": "Green Arrow",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero uses a bow and arrow and is known as the Green Arrow?"
+  },
+  {
+    "id": 542,
+    "answer": "Big Hero 6",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a giant robot named Baymax?"
+  },
+  {
+    "id": 543,
+    "answer": "Aladdin",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a monkey named Abu?"
+  },
+  {
+    "id": 544,
+    "answer": "Aladdin",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated film features a magical carpet?"
+  },
+  {
+    "id": 545,
+    "answer": "WALL-E",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a robot named WALL-E?"
+  },
+  {
+    "id": 546,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a snow kingdom?"
+  },
+  {
+    "id": 547,
+    "answer": "Batman",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero is known as the Dark Knight?"
+  },
+  {
+    "id": 548,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a princess with magical ice powers?"
+  },
+  {
+    "id": 549,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero is known as the God of Thunder?"
+  },
+  {
+    "id": 550,
+    "answer": "Zootopia",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated film features a raccoon and a raccoon detective?"
+  },
+  {
+    "id": 551,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated film features a snowman named Olaf?"
+  },
+  {
+    "id": 552,
+    "answer": "Beauty and the Beast",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a princess named Belle?"
+  },
+  {
+    "id": 553,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero is known for his shield?"
+  },
+  {
+    "id": 554,
+    "answer": "Shrek",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which movie features a talking donkey named Donkey?"
+  },
+  {
+    "id": 555,
+    "answer": "Finding Nemo",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a clownfish?"
+  },
+  {
+    "id": 556,
+    "answer": "Superman",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero is known as the Man of Steel?"
+  },
+  {
+    "id": 557,
+    "answer": "Cinderella",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a princess named Cinderella?"
+  },
+  {
+    "id": 558,
+    "answer": "Hawkeye",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero uses a bow and arrow?"
+  },
+  {
+    "id": 559,
+    "answer": "Tangled",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which animated movie features a young princess named Rapunzel?"
+  },
+  {
+    "id": 560,
+    "answer": "Spider-Man",
+    "categoryID": 4,
+    "difficultyID": 1,
+    "question": "Which superhero wears a red and blue suit and climbs walls?"
+  },
+  {
+    "id": 561,
+    "answer": "The Lion King",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "In which movie does a lion cub named Simba become king?"
+  },
+  {
+    "id": 562,
+    "answer": "Avengers",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero team includes Iron Man, Captain America, and Thor?"
+  },
+  {
+    "id": 563,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which movie features a snow queen named Elsa?"
+  },
+  {
+    "id": 564,
+    "answer": "Pinocchio",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "In which movie does a wooden puppet want to become a real boy?"
+  },
+  {
+    "id": 565,
+    "answer": "The Little Mermaid",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a princess named Ariel?"
+  },
+  {
+    "id": 566,
+    "answer": "Batman",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known as the Dark Knight?"
+  },
+  {
+    "id": 567,
+    "answer": "Moana",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which movie features a princess named Moana who sails the ocean?"
+  },
+  {
+    "id": 568,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero uses a hammer called Mjolnir?"
+  },
+  {
+    "id": 569,
+    "answer": "Beauty and the Beast",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a princess named Belle?"
+  },
+  {
+    "id": 570,
+    "answer": "Hawkeye",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known for shooting arrows accurately?"
+  },
+  {
+    "id": 571,
+    "answer": "Finding Nemo",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a clownfish named Nemo?"
+  },
+  {
+    "id": 572,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known as the First Avenger?"
+  },
+  {
+    "id": 573,
+    "answer": "Aladdin",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which movie features a magical carpet?"
+  },
+  {
+    "id": 574,
+    "answer": "Avengers",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero team includes Hulk, Thor, and Black Widow?"
+  },
+  {
+    "id": 575,
+    "answer": "Tangled",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a princess with very long hair?"
+  },
+  {
+    "id": 576,
+    "answer": "Spider-Man",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero uses a red and blue suit and swings from webs?"
+  },
+  {
+    "id": 577,
+    "answer": "Big Hero 6",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a giant robot named Baymax?"
+  },
+  {
+    "id": 578,
+    "answer": "Shrek",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a donkey named Donkey?"
+  },
+  {
+    "id": 579,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is called the God of Thunder?"
+  },
+  {
+    "id": 580,
+    "answer": "Zootopia",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a raccoon in a city called Zootopia?"
+  },
+  {
+    "id": 581,
+    "answer": "Aladdin",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which movie features a princess named Jasmine?"
+  },
+  {
+    "id": 582,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a snowman named Olaf?"
+  },
+  {
+    "id": 583,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero has an indestructible shield?"
+  },
+  {
+    "id": 584,
+    "answer": "Finding Nemo",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a young fish learning to find his father?"
+  },
+  {
+    "id": 585,
+    "answer": "The Flash",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known for his super speed?"
+  },
+  {
+    "id": 586,
+    "answer": "Tangled",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a princess named Rapunzel?"
+  },
+  {
+    "id": 587,
+    "answer": "Avengers",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero team includes Hulk, Iron Man, and Thor?"
+  },
+  {
+    "id": 588,
+    "answer": "The Little Mermaid",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a little mermaid named Ariel?"
+  },
+  {
+    "id": 589,
+    "answer": "Superman",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is called the Man of Steel?"
+  },
+  {
+    "id": 590,
+    "answer": "Big Hero 6",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which movie features a giant robot named Baymax?"
+  },
+  {
+    "id": 591,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known as the God of Thunder?"
+  },
+  {
+    "id": 592,
+    "answer": "Shrek",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a donkey named Donkey?"
+  },
+  {
+    "id": 593,
+    "answer": "Beauty and the Beast",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a princess named Belle?"
+  },
+  {
+    "id": 594,
+    "answer": "Hawkeye",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero uses a bow and arrow?"
+  },
+  {
+    "id": 595,
+    "answer": "Spider-Man",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero swings between buildings using webs?"
+  },
+  {
+    "id": 596,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a snow queen named Elsa?"
+  },
+  {
+    "id": 597,
+    "answer": "Avengers",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero team includes Black Widow, Hulk, and Thor?"
+  },
+  {
+    "id": 598,
+    "answer": "Aladdin",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a monkey named Abu?"
+  },
+  {
+    "id": 599,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known for his indestructible shield?"
+  },
+  {
+    "id": 600,
+    "answer": "Cars",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features characters named Lightning McQueen and Mater?"
+  },
+  {
+    "id": 601,
+    "answer": "Batman",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero wears a black suit and fights crime in Gotham?"
+  },
+  {
+    "id": 602,
+    "answer": "Cinderella",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a princess named Cinderella?"
+  },
+  {
+    "id": 603,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a snow kingdom?"
+  },
+  {
+    "id": 604,
+    "answer": "WALL-E",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a robot named WALL-E?"
+  },
+  {
+    "id": 605,
+    "answer": "Toy Story",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features toys that come to life?"
+  },
+  {
+    "id": 606,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known for using a hammer called Mjolnir?"
+  },
+  {
+    "id": 607,
+    "answer": "Superman",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known as the Man of Steel?"
+  },
+  {
+    "id": 608,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a princess named Elsa?"
+  },
+  {
+    "id": 609,
+    "answer": "Avengers",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero team includes Iron Man, Hulk, and Thor?"
+  },
+  {
+    "id": 610,
+    "answer": "Tangled",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a princess named Rapunzel?"
+  },
+  {
+    "id": 611,
+    "answer": "Spider-Man",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero swings from building to building using webs?"
+  },
+  {
+    "id": 612,
+    "answer": "The Little Mermaid",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a little mermaid named Ariel?"
+  },
+  {
+    "id": 613,
+    "answer": "Aladdin",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a magical carpet?"
+  },
+  {
+    "id": 614,
+    "answer": "Big Hero 6",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a giant robot named Baymax?"
+  },
+  {
+    "id": 615,
+    "answer": "Shrek",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features a donkey named Donkey?"
+  },
+  {
+    "id": 616,
+    "answer": "Spider-Man",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero uses a red and blue suit and swings from webs?"
+  },
+  {
+    "id": 617,
+    "answer": "Batman",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known as the Dark Knight?"
+  },
+  {
+    "id": 618,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which superhero is known as the God of Thunder?"
+  },
+  {
+    "id": 619,
+    "answer": "Cars",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated film features characters named Lightning McQueen and Mater?"
+  },
+  {
+    "id": 620,
+    "answer": "Cinderella",
+    "categoryID": 4,
+    "difficultyID": 2,
+    "question": "Which animated movie features a princess named Cinderella?"
+  },
+  {
+    "id": 621,
+    "answer": "Mufasa",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"The Lion King,\" what is the name of Simba’s father?"
+  },
+  {
+    "id": 622,
+    "answer": "Olaf",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Frozen,\" what is the name of the snowman Elsa creates?"
+  },
+  {
+    "id": 623,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which Marvel superhero wields a shield made of vibranium?"
+  },
+  {
+    "id": 624,
+    "answer": "Clownfish",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Finding Nemo,\" what type of fish is Nemo?"
+  },
+  {
+    "id": 625,
+    "answer": "Moana",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "What is the name of the princess in \"Moana\"?"
+  },
+  {
+    "id": 626,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is called the God of Thunder?"
+  },
+  {
+    "id": 627,
+    "answer": "Abu",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Aladdin,\" what is the name of Aladdin’s monkey?"
+  },
+  {
+    "id": 628,
+    "answer": "Hawkeye",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero uses a bow and arrow in the Avengers?"
+  },
+  {
+    "id": 629,
+    "answer": "Big Hero 6",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated film features a giant robot named Baymax?"
+  },
+  {
+    "id": 630,
+    "answer": "Donkey",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Shrek,\" what type of creature is Donkey?"
+  },
+  {
+    "id": 631,
+    "answer": "Batman",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known as the Dark Knight?"
+  },
+  {
+    "id": 632,
+    "answer": "Tangled",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated movie features a princess named Rapunzel?"
+  },
+  {
+    "id": 633,
+    "answer": "Flounder",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"The Little Mermaid,\" who is Ariel’s best fish friend?"
+  },
+  {
+    "id": 634,
+    "answer": "Spider-Man",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero swings from building to building using webs?"
+  },
+  {
+    "id": 635,
+    "answer": "Superman",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is called the Man of Steel?"
+  },
+  {
+    "id": 636,
+    "answer": "Sven",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Frozen,\" what is the name of Kristoff’s reindeer?"
+  },
+  {
+    "id": 637,
+    "answer": "Avengers",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero team includes Iron Man, Captain America, and Hulk?"
+  },
+  {
+    "id": 638,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated film features a snow kingdom and two sisters?"
+  },
+  {
+    "id": 639,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known for using an indestructible shield?"
+  },
+  {
+    "id": 640,
+    "answer": "Aladdin",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated film features a young princess named Jasmine?"
+  },
+  {
+    "id": 641,
+    "answer": "Healthcare companion",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Big Hero 6,\" what is Baymax’s primary function?"
+  },
+  {
+    "id": 642,
+    "answer": "Scar",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"The Lion King,\" who betrays Mufasa?"
+  },
+  {
+    "id": 643,
+    "answer": "Iron Man",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known for his high intelligence and a powered suit?"
+  },
+  {
+    "id": 644,
+    "answer": "Three wishes",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Aladdin,\" what does Genie grant?"
+  },
+  {
+    "id": 645,
+    "answer": "Hans",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Frozen,\" who tries to take over Arendelle?"
+  },
+  {
+    "id": 646,
+    "answer": "Ogre",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Shrek,\" what kind of creature is Fiona?"
+  },
+  {
+    "id": 647,
+    "answer": "Ant-Man",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known for his ability to shrink in size?"
+  },
+  {
+    "id": 648,
+    "answer": "Marlin",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Finding Nemo,\" what is the name of Nemo’s dad?"
+  },
+  {
+    "id": 649,
+    "answer": "Mother Gothel",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Tangled,\" who kidnaps Rapunzel?"
+  },
+  {
+    "id": 650,
+    "answer": "Captain America",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known for his shield and patriotism?"
+  },
+  {
+    "id": 651,
+    "answer": "Tadashi",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Big Hero 6,\" who is Hiro’s older brother?"
+  },
+  {
+    "id": 652,
+    "answer": "Cinderella",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated movie features a princess who loses her glass slipper?"
+  },
+  {
+    "id": 653,
+    "answer": "The Flash",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known for his super speed and red suit?"
+  },
+  {
+    "id": 654,
+    "answer": "Maui",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Moana,\" who guides Moana across the ocean?"
+  },
+  {
+    "id": 655,
+    "answer": "Iron Man",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero wears a suit of armor with a glowing chest piece?"
+  },
+  {
+    "id": 656,
+    "answer": "Ice and snow control",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Frozen,\" what magical power does Elsa have?"
+  },
+  {
+    "id": 657,
+    "answer": "Jafar",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Aladdin,\" who is the villain trying to steal the magic lamp?"
+  },
+  {
+    "id": 658,
+    "answer": "Loki",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known as the God of Mischief?"
+  },
+  {
+    "id": 659,
+    "answer": "Timon and Pumbaa",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"The Lion King,\" who are Simba’s best friends?"
+  },
+  {
+    "id": 660,
+    "answer": "Mr. Fantastic",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero can stretch his body to extreme lengths?"
+  },
+  {
+    "id": 661,
+    "answer": "Baymax",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Big Hero 6,\" what is the name of Hiro’s inflatable robot?"
+  },
+  {
+    "id": 662,
+    "answer": "Thor",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero has a hammer called Mjolnir?"
+  },
+  {
+    "id": 663,
+    "answer": "Elsa",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Frozen,\" who is the princess of Arendelle?"
+  },
+  {
+    "id": 664,
+    "answer": "Brave",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated movie features a princess named Merida?"
+  },
+  {
+    "id": 665,
+    "answer": "Nala",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"The Lion King,\" who is Simba’s love interest?"
+  },
+  {
+    "id": 666,
+    "answer": "Iron Man",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is a billionaire and wears an armored suit?"
+  },
+  {
+    "id": 667,
+    "answer": "Genie",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Aladdin,\" who helps Aladdin escape the palace guards?"
+  },
+  {
+    "id": 668,
+    "answer": "Wonder Woman",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero has a golden shield and wields a sword in ancient mythology?"
+  },
+  {
+    "id": 669,
+    "answer": "Tamatoa",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Moana,\" what is the name of the giant crab?"
+  },
+  {
+    "id": 670,
+    "answer": "Toy Story",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated movie features toys that come to life when humans are not around?"
+  },
+  {
+    "id": 671,
+    "answer": "Magneto",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero can manipulate metal with his powers?"
+  },
+  {
+    "id": 672,
+    "answer": "Go Go Tomago",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Big Hero 6,\" who is the tech-savvy friend of Hiro?"
+  },
+  {
+    "id": 673,
+    "answer": "Wolverine",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero has retractable claws?"
+  },
+  {
+    "id": 674,
+    "answer": "Flynn Rider",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Tangled,\" who accompanies Rapunzel on her journey?"
+  },
+  {
+    "id": 675,
+    "answer": "Daredevil",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is blind but has heightened other senses?"
+  },
+  {
+    "id": 676,
+    "answer": "Anna",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Frozen,\" who is Elsa’s younger sister?"
+  },
+  {
+    "id": 677,
+    "answer": "Wonder Woman",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero is known for using a golden lasso?"
+  },
+  {
+    "id": 678,
+    "answer": "Maui",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "In \"Moana,\" who is the demigod that helps restore the heart of Te Fiti?"
+  },
+  {
+    "id": 679,
+    "answer": "Killer Frost",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which superhero can create ice and freeze objects?"
+  },
+  {
+    "id": 680,
+    "answer": "Frozen",
+    "categoryID": 4,
+    "difficultyID": 3,
+    "question": "Which animated movie features a talking snowman named Olaf?"
+  }
+]

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="CSS/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="quiz-container" id="quiz-config">
+      <h1>Quiz Master</h1>
+
+      <section class="category-of-quiz-container">
+        <h2>Select Category</h2>
+        <div class="button-group">
+          <button type="button" id="programming" data-category="1">
+            💻 Programming
+          </button>
+          <button type="button" id="geography" data-category="2">
+            🌍 Geography
+          </button>
+          <button type="button" id="mathematics" data-category="3">
+            🧮 Mathematics
+          </button>
+          <button type="button" id="entertainment" data-category="4">
+            🎬 Entertainment
+          </button>
+        </div>
+      </section>
+
+      <section class="no-of-questions-container">
+        <h2>Number of Questions</h2>
+        <div class="button-group">
+          <button type="button" data-questions="5">5</button>
+          <button type="button" data-questions="10">10</button>
+          <button type="button" data-questions="15">15</button>
+          <button type="button" data-questions="20">20</button>
+          <button type="button" data-questions="25">25</button>
+        </div>
+      </section>
+
+      <section class="difficulty-container">
+        <h2>Difficulty Level</h2>
+        <div class="button-group">
+          <button type="button" data-difficulty="1">🟢 Easy</button>
+          <button type="button" data-difficulty="2">🟡 Medium</button>
+          <button type="button" data-difficulty="3">🔴 Hard</button>
+        </div>
+      </section>
+
+      <button type="button" id="start-quiz-button" disabled>
+        🚀 Start Quiz
+      </button>
+    </div>
+    <script src="JS/main.js"></script>
+  </body>
+</html>

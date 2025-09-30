@@ -1,0 +1,10202 @@
+[
+  {
+    "id": 1,
+    "answer": "Home Tool Markup Language",
+    "questionID": 1
+  },
+  {
+    "id": 2,
+    "answer": "Hyperlinks and Text Markup Language",
+    "questionID": 1
+  },
+  {
+    "id": 3,
+    "answer": "HighText Machine Language",
+    "questionID": 1
+  },
+  {
+    "id": 4,
+    "answer": "Python",
+    "questionID": 2
+  },
+  {
+    "id": 5,
+    "answer": "C++",
+    "questionID": 2
+  },
+  {
+    "id": 6,
+    "answer": "Java",
+    "questionID": 2
+  },
+  {
+    "id": 7,
+    "answer": "Computer Style System",
+    "questionID": 3
+  },
+  {
+    "id": 8,
+    "answer": "Creative Style Sheets",
+    "questionID": 3
+  },
+  {
+    "id": 9,
+    "answer": "Central Style Sheets",
+    "questionID": 3
+  },
+  {
+    "id": 10,
+    "answer": "//",
+    "questionID": 4
+  },
+  {
+    "id": 11,
+    "answer": "/*",
+    "questionID": 4
+  },
+  {
+    "id": 12,
+    "answer": "--",
+    "questionID": 4
+  },
+  {
+    "id": 13,
+    "answer": ".java",
+    "questionID": 5
+  },
+  {
+    "id": 14,
+    "answer": ".jscript",
+    "questionID": 5
+  },
+  {
+    "id": 15,
+    "answer": ".javascript",
+    "questionID": 5
+  },
+  {
+    "id": 16,
+    "answer": "display()",
+    "questionID": 6
+  },
+  {
+    "id": 17,
+    "answer": "show()",
+    "questionID": 6
+  },
+  {
+    "id": 18,
+    "answer": "output()",
+    "questionID": 6
+  },
+  {
+    "id": 19,
+    "answer": "header",
+    "questionID": 7
+  },
+  {
+    "id": 20,
+    "answer": "title",
+    "questionID": 7
+  },
+  {
+    "id": 21,
+    "answer": "heading",
+    "questionID": 7
+  },
+  {
+    "id": 22,
+    "answer": "World Web Window",
+    "questionID": 8
+  },
+  {
+    "id": 23,
+    "answer": "Wide Web World",
+    "questionID": 8
+  },
+  {
+    "id": 24,
+    "answer": "Web World Wide",
+    "questionID": 8
+  },
+  {
+    "id": 25,
+    "answer": "Microsoft",
+    "questionID": 9
+  },
+  {
+    "id": 26,
+    "answer": "Google",
+    "questionID": 9
+  },
+  {
+    "id": 27,
+    "answer": "Apple",
+    "questionID": 9
+  },
+  {
+    "id": 28,
+    "answer": "link",
+    "questionID": 10
+  },
+  {
+    "id": 29,
+    "answer": "href",
+    "questionID": 10
+  },
+  {
+    "id": 30,
+    "answer": "url",
+    "questionID": 10
+  },
+  {
+    "id": 31,
+    "answer": "Universal Resource Link",
+    "questionID": 11
+  },
+  {
+    "id": 32,
+    "answer": "Unique Resource Location",
+    "questionID": 11
+  },
+  {
+    "id": 33,
+    "answer": "United Resource Locator",
+    "questionID": 11
+  },
+  {
+    "id": 34,
+    "answer": "Swift",
+    "questionID": 12
+  },
+  {
+    "id": 35,
+    "answer": "C#",
+    "questionID": 12
+  },
+  {
+    "id": 36,
+    "answer": "Python",
+    "questionID": 12
+  },
+  {
+    "id": 37,
+    "answer": "Personal Home Page",
+    "questionID": 13
+  },
+  {
+    "id": 38,
+    "answer": "Private Home Page",
+    "questionID": 13
+  },
+  {
+    "id": 39,
+    "answer": "Public Hypertext Program",
+    "questionID": 13
+  },
+  {
+    "id": 40,
+    "answer": "paragraph",
+    "questionID": 14
+  },
+  {
+    "id": 41,
+    "answer": "para",
+    "questionID": 14
+  },
+  {
+    "id": 42,
+    "answer": "text",
+    "questionID": 14
+  },
+  {
+    "id": 43,
+    "answer": "string",
+    "questionID": 15
+  },
+  {
+    "id": 44,
+    "answer": "float",
+    "questionID": 15
+  },
+  {
+    "id": 45,
+    "answer": "char",
+    "questionID": 15
+  },
+  {
+    "id": 46,
+    "answer": "#",
+    "questionID": 16
+  },
+  {
+    "id": 47,
+    "answer": "/*",
+    "questionID": 16
+  },
+  {
+    "id": 48,
+    "answer": "--",
+    "questionID": 16
+  },
+  {
+    "id": 49,
+    "answer": "Simple Query Language",
+    "questionID": 17
+  },
+  {
+    "id": 50,
+    "answer": "Standard Query Language",
+    "questionID": 17
+  },
+  {
+    "id": 51,
+    "answer": "System Query Language",
+    "questionID": 17
+  },
+  {
+    "id": 52,
+    "answer": "ol",
+    "questionID": 18
+  },
+  {
+    "id": 53,
+    "answer": "li",
+    "questionID": 18
+  },
+  {
+    "id": 54,
+    "answer": "list",
+    "questionID": 18
+  },
+  {
+    "id": 55,
+    "answer": "text",
+    "questionID": 19
+  },
+  {
+    "id": 56,
+    "answer": "char",
+    "questionID": 19
+  },
+  {
+    "id": 57,
+    "answer": "varchar",
+    "questionID": 19
+  },
+  {
+    "id": 58,
+    "answer": "Java",
+    "questionID": 20
+  },
+  {
+    "id": 59,
+    "answer": "Kotlin",
+    "questionID": 20
+  },
+  {
+    "id": 60,
+    "answer": "C#",
+    "questionID": 20
+  },
+  {
+    "id": 61,
+    "answer": "HyperText Transmission Protocol",
+    "questionID": 21
+  },
+  {
+    "id": 62,
+    "answer": "HyperText Transport Protocol",
+    "questionID": 21
+  },
+  {
+    "id": 63,
+    "answer": "HyperText Transfer Process",
+    "questionID": 21
+  },
+  {
+    "id": 64,
+    "answer": "image",
+    "questionID": 22
+  },
+  {
+    "id": 65,
+    "answer": "picture",
+    "questionID": 22
+  },
+  {
+    "id": 66,
+    "answer": "photo",
+    "questionID": 22
+  },
+  {
+    "id": 67,
+    "answer": ".python",
+    "questionID": 23
+  },
+  {
+    "id": 68,
+    "answer": ".pyt",
+    "questionID": 23
+  },
+  {
+    "id": 69,
+    "answer": ".pyth",
+    "questionID": 23
+  },
+  {
+    "id": 70,
+    "answer": "function",
+    "questionID": 24
+  },
+  {
+    "id": 71,
+    "answer": "define",
+    "questionID": 24
+  },
+  {
+    "id": 72,
+    "answer": "func",
+    "questionID": 24
+  },
+  {
+    "id": 73,
+    "answer": "Interactive Development Environment",
+    "questionID": 25
+  },
+  {
+    "id": 74,
+    "answer": "Internal Development Environment",
+    "questionID": 25
+  },
+  {
+    "id": 75,
+    "answer": "Intelligent Development Environment",
+    "questionID": 25
+  },
+  {
+    "id": 76,
+    "answer": "tab",
+    "questionID": 26
+  },
+  {
+    "id": 77,
+    "answer": "grid",
+    "questionID": 26
+  },
+  {
+    "id": 78,
+    "answer": "tbl",
+    "questionID": 26
+  },
+  {
+    "id": 79,
+    "answer": "Errors only",
+    "questionID": 27
+  },
+  {
+    "id": 80,
+    "answer": "Mistakes",
+    "questionID": 27
+  },
+  {
+    "id": 81,
+    "answer": "Problems",
+    "questionID": 27
+  },
+  {
+    "id": 82,
+    "answer": "Windows",
+    "questionID": 28
+  },
+  {
+    "id": 83,
+    "answer": "macOS",
+    "questionID": 28
+  },
+  {
+    "id": 84,
+    "answer": "iOS",
+    "questionID": 28
+  },
+  {
+    "id": 85,
+    "answer": "Advanced Programming Interface",
+    "questionID": 29
+  },
+  {
+    "id": 86,
+    "answer": "Automated Programming Interface",
+    "questionID": 29
+  },
+  {
+    "id": 87,
+    "answer": "Application Program Interface",
+    "questionID": 29
+  },
+  {
+    "id": 88,
+    "answer": "input",
+    "questionID": 30
+  },
+  {
+    "id": 89,
+    "answer": "field",
+    "questionID": 30
+  },
+  {
+    "id": 90,
+    "answer": "submit",
+    "questionID": 30
+  },
+  {
+    "id": 91,
+    "answer": "Fast Transfer Protocol",
+    "questionID": 31
+  },
+  {
+    "id": 92,
+    "answer": "File Transmission Protocol",
+    "questionID": 31
+  },
+  {
+    "id": 93,
+    "answer": "Folder Transfer Protocol",
+    "questionID": 31
+  },
+  {
+    "id": 94,
+    "answer": "HTML",
+    "questionID": 32
+  },
+  {
+    "id": 95,
+    "answer": "JavaScript",
+    "questionID": 32
+  },
+  {
+    "id": 96,
+    "answer": "PHP",
+    "questionID": 32
+  },
+  {
+    "id": 97,
+    "answer": "Domain Network System",
+    "questionID": 33
+  },
+  {
+    "id": 98,
+    "answer": "Dynamic Name System",
+    "questionID": 33
+  },
+  {
+    "id": 99,
+    "answer": "Data Name System",
+    "questionID": 33
+  },
+  {
+    "id": 100,
+    "answer": "italic",
+    "questionID": 34
+  },
+  {
+    "id": 101,
+    "answer": "slant",
+    "questionID": 34
+  },
+  {
+    "id": 102,
+    "answer": "tilt",
+    "questionID": 34
+  },
+  {
+    "id": 103,
+    "answer": "logic",
+    "questionID": 35
+  },
+  {
+    "id": 104,
+    "answer": "binary",
+    "questionID": 35
+  },
+  {
+    "id": 105,
+    "answer": "bit",
+    "questionID": 35
+  },
+  {
+    "id": 106,
+    "answer": ".web",
+    "questionID": 36
+  },
+  {
+    "id": 107,
+    "answer": ".page",
+    "questionID": 36
+  },
+  {
+    "id": 108,
+    "answer": ".site",
+    "questionID": 36
+  },
+  {
+    "id": 109,
+    "answer": "Java Standard Object Notation",
+    "questionID": 37
+  },
+  {
+    "id": 110,
+    "answer": "JavaScript Online Notation",
+    "questionID": 37
+  },
+  {
+    "id": 111,
+    "answer": "Java Simple Object Network",
+    "questionID": 37
+  },
+  {
+    "id": 112,
+    "answer": "variable",
+    "questionID": 38
+  },
+  {
+    "id": 113,
+    "answer": "create",
+    "questionID": 38
+  },
+  {
+    "id": 114,
+    "answer": "make",
+    "questionID": 38
+  },
+  {
+    "id": 115,
+    "answer": "eXtra Markup Language",
+    "questionID": 39
+  },
+  {
+    "id": 116,
+    "answer": "eXtended Markup Language",
+    "questionID": 39
+  },
+  {
+    "id": 117,
+    "answer": "eXpanded Markup Language",
+    "questionID": 39
+  },
+  {
+    "id": 118,
+    "answer": "row",
+    "questionID": 40
+  },
+  {
+    "id": 119,
+    "answer": "td",
+    "questionID": 40
+  },
+  {
+    "id": 120,
+    "answer": "line",
+    "questionID": 40
+  },
+  {
+    "id": 121,
+    "answer": "bg",
+    "questionID": 41
+  },
+  {
+    "id": 122,
+    "answer": "back",
+    "questionID": 41
+  },
+  {
+    "id": 123,
+    "answer": "backdrop",
+    "questionID": 41
+  },
+  {
+    "id": 124,
+    "answer": ".",
+    "questionID": 42
+  },
+  {
+    "id": 125,
+    "answer": ":",
+    "questionID": 42
+  },
+  {
+    "id": 126,
+    "answer": ",",
+    "questionID": 42
+  },
+  {
+    "id": 127,
+    "answer": "HyperText Transfer Protocol System",
+    "questionID": 43
+  },
+  {
+    "id": 128,
+    "answer": "HyperText Transport Protocol Secure",
+    "questionID": 43
+  },
+  {
+    "id": 129,
+    "answer": "HyperText Transmission Protocol Secure",
+    "questionID": 43
+  },
+  {
+    "id": 130,
+    "answer": "bold",
+    "questionID": 44
+  },
+  {
+    "id": 131,
+    "answer": "thick",
+    "questionID": 44
+  },
+  {
+    "id": 132,
+    "answer": "heavy",
+    "questionID": 44
+  },
+  {
+    "id": 133,
+    "answer": "decimal",
+    "questionID": 45
+  },
+  {
+    "id": 134,
+    "answer": "number",
+    "questionID": 45
+  },
+  {
+    "id": 135,
+    "answer": "real",
+    "questionID": 45
+  },
+  {
+    "id": 136,
+    "answer": "Oracle",
+    "questionID": 46
+  },
+  {
+    "id": 137,
+    "answer": "Google",
+    "questionID": 46
+  },
+  {
+    "id": 138,
+    "answer": "Apple",
+    "questionID": 46
+  },
+  {
+    "id": 139,
+    "answer": "Create, Retrieve, Update, Delete",
+    "questionID": 47
+  },
+  {
+    "id": 140,
+    "answer": "Create, Read, Upload, Delete",
+    "questionID": 47
+  },
+  {
+    "id": 141,
+    "answer": "Copy, Read, Update, Delete",
+    "questionID": 47
+  },
+  {
+    "id": 142,
+    "answer": "text",
+    "questionID": 48
+  },
+  {
+    "id": 143,
+    "answer": "field",
+    "questionID": 48
+  },
+  {
+    "id": 144,
+    "answer": "textbox",
+    "questionID": 48
+  },
+  {
+    "id": 145,
+    "answer": "Advanced web browser",
+    "questionID": 49
+  },
+  {
+    "id": 146,
+    "answer": "Developer OS",
+    "questionID": 49
+  },
+  {
+    "id": 147,
+    "answer": "Visual database",
+    "questionID": 49
+  },
+  {
+    "id": 148,
+    "answer": "repeat",
+    "questionID": 50
+  },
+  {
+    "id": 149,
+    "answer": "loop",
+    "questionID": 50
+  },
+  {
+    "id": 150,
+    "answer": "iterate",
+    "questionID": 50
+  },
+  {
+    "id": 151,
+    "answer": "Multiple-View-Control",
+    "questionID": 51
+  },
+  {
+    "id": 152,
+    "answer": "Master-View-Component",
+    "questionID": 51
+  },
+  {
+    "id": 153,
+    "answer": "Model-Virtual-Controller",
+    "questionID": 51
+  },
+  {
+    "id": 154,
+    "answer": "ul",
+    "questionID": 52
+  },
+  {
+    "id": 155,
+    "answer": "list",
+    "questionID": 52
+  },
+  {
+    "id": 156,
+    "answer": "order",
+    "questionID": 52
+  },
+  {
+    "id": 157,
+    "answer": "Programming language",
+    "questionID": 53
+  },
+  {
+    "id": 158,
+    "answer": "Database",
+    "questionID": 53
+  },
+  {
+    "id": 159,
+    "answer": "Text editor",
+    "questionID": 53
+  },
+  {
+    "id": 160,
+    "answer": ".style",
+    "questionID": 54
+  },
+  {
+    "id": 161,
+    "answer": ".design",
+    "questionID": 54
+  },
+  {
+    "id": 162,
+    "answer": ".format",
+    "questionID": 54
+  },
+  {
+    "id": 163,
+    "answer": "Data Object Model",
+    "questionID": 55
+  },
+  {
+    "id": 164,
+    "answer": "Dynamic Object Model",
+    "questionID": 55
+  },
+  {
+    "id": 165,
+    "answer": "Display Object Model",
+    "questionID": 55
+  },
+  {
+    "id": 166,
+    "answer": "when",
+    "questionID": 56
+  },
+  {
+    "id": 167,
+    "answer": "check",
+    "questionID": 56
+  },
+  {
+    "id": 168,
+    "answer": "condition",
+    "questionID": 56
+  },
+  {
+    "id": 169,
+    "answer": "Online Object Programming",
+    "questionID": 57
+  },
+  {
+    "id": 170,
+    "answer": "Organized Object Programming",
+    "questionID": 57
+  },
+  {
+    "id": 171,
+    "answer": "Optimal Object Programming",
+    "questionID": 57
+  },
+  {
+    "id": 172,
+    "answer": "cell",
+    "questionID": 58
+  },
+  {
+    "id": 173,
+    "answer": "tc",
+    "questionID": 58
+  },
+  {
+    "id": 174,
+    "answer": "data",
+    "questionID": 58
+  },
+  {
+    "id": 175,
+    "answer": "Programming language",
+    "questionID": 59
+  },
+  {
+    "id": 176,
+    "answer": "Operating system",
+    "questionID": 59
+  },
+  {
+    "id": 177,
+    "answer": "Database",
+    "questionID": 59
+  },
+  {
+    "id": 178,
+    "answer": "include",
+    "questionID": 60
+  },
+  {
+    "id": 179,
+    "answer": "connect",
+    "questionID": 60
+  },
+  {
+    "id": 180,
+    "answer": "attach",
+    "questionID": 60
+  },
+  {
+    "id": 181,
+    "answer": "Program stops due to an error",
+    "questionID": 61
+  },
+  {
+    "id": 182,
+    "answer": "Memory runs out",
+    "questionID": 61
+  },
+  {
+    "id": 183,
+    "answer": "Network slowdown",
+    "questionID": 61
+  },
+  {
+    "id": 184,
+    "answer": "Type of database",
+    "questionID": 62
+  },
+  {
+    "id": 185,
+    "answer": "Language for scientific computing",
+    "questionID": 62
+  },
+  {
+    "id": 186,
+    "answer": "Debugging tool",
+    "questionID": 62
+  },
+  {
+    "id": 187,
+    "answer": "Stack for strings, Heap for numbers",
+    "questionID": 63
+  },
+  {
+    "id": 188,
+    "answer": "No practical difference",
+    "questionID": 63
+  },
+  {
+    "id": 189,
+    "answer": "Stack is bigger than Heap",
+    "questionID": 63
+  },
+  {
+    "id": 190,
+    "answer": "Factory Pattern",
+    "questionID": 64
+  },
+  {
+    "id": 191,
+    "answer": "Observer Pattern",
+    "questionID": 64
+  },
+  {
+    "id": 192,
+    "answer": "Strategy Pattern",
+    "questionID": 64
+  },
+  {
+    "id": 193,
+    "answer": "SQL only for big companies",
+    "questionID": 65
+  },
+  {
+    "id": 194,
+    "answer": "NoSQL does not support queries",
+    "questionID": 65
+  },
+  {
+    "id": 195,
+    "answer": "SQL is newer than NoSQL",
+    "questionID": 65
+  },
+  {
+    "id": 196,
+    "answer": "Type of database",
+    "questionID": 66
+  },
+  {
+    "id": 197,
+    "answer": "Server-side programming language",
+    "questionID": 66
+  },
+  {
+    "id": 198,
+    "answer": "Network security protocol",
+    "questionID": 66
+  },
+  {
+    "id": 199,
+    "answer": "var is faster",
+    "questionID": 67
+  },
+  {
+    "id": 200,
+    "answer": "let for numbers, var for strings",
+    "questionID": 67
+  },
+  {
+    "id": 201,
+    "answer": "No practical difference",
+    "questionID": 67
+  },
+  {
+    "id": 202,
+    "answer": "Inherit properties from another class",
+    "questionID": 68
+  },
+  {
+    "id": 203,
+    "answer": "Hide internal details",
+    "questionID": 68
+  },
+  {
+    "id": 204,
+    "answer": "Combine data and methods",
+    "questionID": 68
+  },
+  {
+    "id": 205,
+    "answer": "O(n)",
+    "questionID": 69
+  },
+  {
+    "id": 206,
+    "answer": "O(n²)",
+    "questionID": 69
+  },
+  {
+    "id": 207,
+    "answer": "O(1)",
+    "questionID": 69
+  },
+  {
+    "id": 208,
+    "answer": "Process is faster than Thread",
+    "questionID": 70
+  },
+  {
+    "id": 209,
+    "answer": "Thread is safer than Process",
+    "questionID": 70
+  },
+  {
+    "id": 210,
+    "answer": "No practical difference",
+    "questionID": 70
+  },
+  {
+    "id": 211,
+    "answer": "Technique to inject malicious code",
+    "questionID": 71
+  },
+  {
+    "id": 212,
+    "answer": "Technique for data compression",
+    "questionID": 71
+  },
+  {
+    "id": 213,
+    "answer": "Type of database",
+    "questionID": 71
+  },
+  {
+    "id": 214,
+    "answer": "Type of database",
+    "questionID": 72
+  },
+  {
+    "id": 215,
+    "answer": "New programming language",
+    "questionID": 72
+  },
+  {
+    "id": 216,
+    "answer": "Development framework",
+    "questionID": 72
+  },
+  {
+    "id": 217,
+    "answer": "Interface is faster",
+    "questionID": 73
+  },
+  {
+    "id": 218,
+    "answer": "Abstract Class for interfaces only",
+    "questionID": 73
+  },
+  {
+    "id": 219,
+    "answer": "No difference",
+    "questionID": 73
+  },
+  {
+    "id": 220,
+    "answer": "Function that calls itself",
+    "questionID": 74
+  },
+  {
+    "id": 221,
+    "answer": "Function that returns nothing",
+    "questionID": 74
+  },
+  {
+    "id": 222,
+    "answer": "Function executed automatically",
+    "questionID": 74
+  },
+  {
+    "id": 223,
+    "answer": "Loop to iterate elements",
+    "questionID": 75
+  },
+  {
+    "id": 224,
+    "answer": "Data type",
+    "questionID": 75
+  },
+  {
+    "id": 225,
+    "answer": "Animation library",
+    "questionID": 75
+  },
+  {
+    "id": 226,
+    "answer": "GET is faster than POST",
+    "questionID": 76
+  },
+  {
+    "id": 227,
+    "answer": "POST cannot be used in HTML",
+    "questionID": 76
+  },
+  {
+    "id": 228,
+    "answer": "GET for text, POST for images",
+    "questionID": 76
+  },
+  {
+    "id": 229,
+    "answer": "Function that cannot be called",
+    "questionID": 77
+  },
+  {
+    "id": 230,
+    "answer": "Variable cannot be changed",
+    "questionID": 77
+  },
+  {
+    "id": 231,
+    "answer": "Data type",
+    "questionID": 77
+  },
+  {
+    "id": 232,
+    "answer": "Normal loop",
+    "questionID": 78
+  },
+  {
+    "id": 233,
+    "answer": "Calling another function",
+    "questionID": 78
+  },
+  {
+    "id": 234,
+    "answer": "Variable type",
+    "questionID": 78
+  },
+  {
+    "id": 235,
+    "answer": "LinkedList is always faster",
+    "questionID": 79
+  },
+  {
+    "id": 236,
+    "answer": "Array cannot add/remove",
+    "questionID": 79
+  },
+  {
+    "id": 237,
+    "answer": "No practical difference",
+    "questionID": 79
+  },
+  {
+    "id": 238,
+    "answer": "Raise execution priority",
+    "questionID": 80
+  },
+  {
+    "id": 239,
+    "answer": "Move files to another server",
+    "questionID": 80
+  },
+  {
+    "id": 240,
+    "answer": "Compress code size",
+    "questionID": 80
+  },
+  {
+    "id": 241,
+    "answer": "Using small processors",
+    "questionID": 81
+  },
+  {
+    "id": 242,
+    "answer": "Micro apps programming",
+    "questionID": 81
+  },
+  {
+    "id": 243,
+    "answer": "Design small UI",
+    "questionID": 81
+  },
+  {
+    "id": 244,
+    "answer": "Compilation is always slower",
+    "questionID": 82
+  },
+  {
+    "id": 245,
+    "answer": "Interpretation does not detect errors",
+    "questionID": 82
+  },
+  {
+    "id": 246,
+    "answer": "No practical difference",
+    "questionID": 82
+  },
+  {
+    "id": 247,
+    "answer": "Speed up API",
+    "questionID": 83
+  },
+  {
+    "id": 248,
+    "answer": "Encrypt API data",
+    "questionID": 83
+  },
+  {
+    "id": 249,
+    "answer": "Compress responses",
+    "questionID": 83
+  },
+  {
+    "id": 250,
+    "answer": "Auto-number tables",
+    "questionID": 84
+  },
+  {
+    "id": 251,
+    "answer": "Compress DB size",
+    "questionID": 84
+  },
+  {
+    "id": 252,
+    "answer": "Encrypt sensitive data",
+    "questionID": 84
+  },
+  {
+    "id": 253,
+    "answer": "Asynchronous is always slower",
+    "questionID": 85
+  },
+  {
+    "id": 254,
+    "answer": "Synchronous for networks only",
+    "questionID": 85
+  },
+  {
+    "id": 255,
+    "answer": "No performance difference",
+    "questionID": 85
+  },
+  {
+    "id": 256,
+    "answer": "Distribute data in database",
+    "questionID": 86
+  },
+  {
+    "id": 257,
+    "answer": "Improve memory usage",
+    "questionID": 86
+  },
+  {
+    "id": 258,
+    "answer": "Speed up page load",
+    "questionID": 86
+  },
+  {
+    "id": 259,
+    "answer": "Type of database",
+    "questionID": 87
+  },
+  {
+    "id": 260,
+    "answer": "Debugging tool",
+    "questionID": 87
+  },
+  {
+    "id": 261,
+    "answer": "Network protocol",
+    "questionID": 87
+  },
+  {
+    "id": 262,
+    "answer": "Compress files",
+    "questionID": 88
+  },
+  {
+    "id": 263,
+    "answer": "Encrypt passwords only",
+    "questionID": 88
+  },
+  {
+    "id": 264,
+    "answer": "Speed up calculations",
+    "questionID": 88
+  },
+  {
+    "id": 265,
+    "answer": "Permanent database",
+    "questionID": 89
+  },
+  {
+    "id": 266,
+    "answer": "Debugging tool",
+    "questionID": 89
+  },
+  {
+    "id": 267,
+    "answer": "Data compression method",
+    "questionID": 89
+  },
+  {
+    "id": 268,
+    "answer": "Unit testing only for beginners",
+    "questionID": 90
+  },
+  {
+    "id": 269,
+    "answer": "Integration testing always slower",
+    "questionID": 90
+  },
+  {
+    "id": 270,
+    "answer": "No practical difference",
+    "questionID": 90
+  },
+  {
+    "id": 271,
+    "answer": "Code that is never executed",
+    "questionID": 91
+  },
+  {
+    "id": 272,
+    "answer": "Code that crashes the program",
+    "questionID": 91
+  },
+  {
+    "id": 273,
+    "answer": "Code that slows execution",
+    "questionID": 91
+  },
+  {
+    "id": 274,
+    "answer": "Object creation deferred until needed",
+    "questionID": 92
+  },
+  {
+    "id": 275,
+    "answer": "Creating objects at program start",
+    "questionID": 92
+  },
+  {
+    "id": 276,
+    "answer": "Objects shared between threads",
+    "questionID": 92
+  },
+  {
+    "id": 277,
+    "answer": "Ensures only one instance exists",
+    "questionID": 93
+  },
+  {
+    "id": 278,
+    "answer": "Multiple objects can be created",
+    "questionID": 93
+  },
+  {
+    "id": 279,
+    "answer": "Manages memory automatically",
+    "questionID": 93
+  },
+  {
+    "id": 280,
+    "answer": "Pre-instantiated reusable threads",
+    "questionID": 94
+  },
+  {
+    "id": 281,
+    "answer": "Single thread for all operations",
+    "questionID": 94
+  },
+  {
+    "id": 282,
+    "answer": "Thread created per request",
+    "questionID": 94
+  },
+  {
+    "id": 283,
+    "answer": "Prevents concurrent access",
+    "questionID": 95
+  },
+  {
+    "id": 284,
+    "answer": "Improves network speed",
+    "questionID": 95
+  },
+  {
+    "id": 285,
+    "answer": "Used for data compression",
+    "questionID": 95
+  },
+  {
+    "id": 286,
+    "answer": "Temporary storage for faster access",
+    "questionID": 96
+  },
+  {
+    "id": 287,
+    "answer": "Permanent database storage",
+    "questionID": 96
+  },
+  {
+    "id": 288,
+    "answer": "Memory only for integers",
+    "questionID": 96
+  },
+  {
+    "id": 289,
+    "answer": "Describes algorithm complexity",
+    "questionID": 97
+  },
+  {
+    "id": 290,
+    "answer": "Programming language syntax",
+    "questionID": 97
+  },
+  {
+    "id": 291,
+    "answer": "User interface speed",
+    "questionID": 97
+  },
+  {
+    "id": 292,
+    "answer": "API following REST principles",
+    "questionID": 98
+  },
+  {
+    "id": 293,
+    "answer": "API using SOAP protocol",
+    "questionID": 98
+  },
+  {
+    "id": 294,
+    "answer": "Database query API",
+    "questionID": 98
+  },
+  {
+    "id": 295,
+    "answer": "Intermediary server between client and server",
+    "questionID": 99
+  },
+  {
+    "id": 296,
+    "answer": "Encryption tool",
+    "questionID": 99
+  },
+  {
+    "id": 297,
+    "answer": "Debugging software",
+    "questionID": 99
+  },
+  {
+    "id": 298,
+    "answer": "Handles runtime errors gracefully",
+    "questionID": 100
+  },
+  {
+    "id": 299,
+    "answer": "Improves program speed",
+    "questionID": 100
+  },
+  {
+    "id": 300,
+    "answer": "Monitors network traffic",
+    "questionID": 100
+  },
+  {
+    "id": 301,
+    "answer": "Small, independent service",
+    "questionID": 101
+  },
+  {
+    "id": 302,
+    "answer": "Large monolithic application",
+    "questionID": 101
+  },
+  {
+    "id": 303,
+    "answer": "Temporary testing module",
+    "questionID": 101
+  },
+  {
+    "id": 304,
+    "answer": "Two verification steps",
+    "questionID": 102
+  },
+  {
+    "id": 305,
+    "answer": "Password only",
+    "questionID": 102
+  },
+  {
+    "id": 306,
+    "answer": "No authentication",
+    "questionID": 102
+  },
+  {
+    "id": 307,
+    "answer": "Non-relational data storage",
+    "questionID": 103
+  },
+  {
+    "id": 308,
+    "answer": "Relational database only",
+    "questionID": 103
+  },
+  {
+    "id": 309,
+    "answer": "Cloud storage service",
+    "questionID": 103
+  },
+  {
+    "id": 310,
+    "answer": "Inject dependencies into class",
+    "questionID": 104
+  },
+  {
+    "id": 311,
+    "answer": "Encrypt data",
+    "questionID": 104
+  },
+  {
+    "id": 312,
+    "answer": "Compress files",
+    "questionID": 104
+  },
+  {
+    "id": 313,
+    "answer": "Handles asynchronous callbacks",
+    "questionID": 105
+  },
+  {
+    "id": 314,
+    "answer": "Executes synchronous code only",
+    "questionID": 105
+  },
+  {
+    "id": 315,
+    "answer": "Creates multiple threads",
+    "questionID": 105
+  },
+  {
+    "id": 316,
+    "answer": "Objects notified of state changes",
+    "questionID": 106
+  },
+  {
+    "id": 317,
+    "answer": "Automatically deletes objects",
+    "questionID": 106
+  },
+  {
+    "id": 318,
+    "answer": "Encrypts sensitive data",
+    "questionID": 106
+  },
+  {
+    "id": 319,
+    "answer": "Prevents processes from waiting indefinitely",
+    "questionID": 107
+  },
+  {
+    "id": 320,
+    "answer": "Slows down execution",
+    "questionID": 107
+  },
+  {
+    "id": 321,
+    "answer": "Allocates memory faster",
+    "questionID": 107
+  },
+  {
+    "id": 322,
+    "answer": "Deploys code to staging automatically",
+    "questionID": 108
+  },
+  {
+    "id": 323,
+    "answer": "Manual deployment only",
+    "questionID": 108
+  },
+  {
+    "id": 324,
+    "answer": "Compresses code files",
+    "questionID": 108
+  },
+  {
+    "id": 325,
+    "answer": "Replaces sensitive data with tokens",
+    "questionID": 109
+  },
+  {
+    "id": 326,
+    "answer": "Encrypts all traffic",
+    "questionID": 109
+  },
+  {
+    "id": 327,
+    "answer": "Deletes old data",
+    "questionID": 109
+  },
+  {
+    "id": 328,
+    "answer": "Distributes network traffic across servers",
+    "questionID": 110
+  },
+  {
+    "id": 329,
+    "answer": "Compresses server logs",
+    "questionID": 110
+  },
+  {
+    "id": 330,
+    "answer": "Encrypts database",
+    "questionID": 110
+  },
+  {
+    "id": 331,
+    "answer": "Single entry point for multiple APIs",
+    "questionID": 111
+  },
+  {
+    "id": 332,
+    "answer": "Handles only database requests",
+    "questionID": 111
+  },
+  {
+    "id": 333,
+    "answer": "Manages server hardware",
+    "questionID": 111
+  },
+  {
+    "id": 334,
+    "answer": "Runs applications without managing servers directly",
+    "questionID": 112
+  },
+  {
+    "id": 335,
+    "answer": "Manual server setup required",
+    "questionID": 112
+  },
+  {
+    "id": 336,
+    "answer": "Only for mobile apps",
+    "questionID": 112
+  },
+  {
+    "id": 337,
+    "answer": "Network of servers for faster content delivery",
+    "questionID": 113
+  },
+  {
+    "id": 338,
+    "answer": "Local storage only",
+    "questionID": 113
+  },
+  {
+    "id": 339,
+    "answer": "Compression tool for images",
+    "questionID": 113
+  },
+  {
+    "id": 340,
+    "answer": "JSON Web Token for secure data exchange",
+    "questionID": 114
+  },
+  {
+    "id": 341,
+    "answer": "Plain text cookie",
+    "questionID": 114
+  },
+  {
+    "id": 342,
+    "answer": "Encryption key only",
+    "questionID": 114
+  },
+  {
+    "id": 343,
+    "answer": "Multiple computers communicate to achieve a goal",
+    "questionID": 115
+  },
+  {
+    "id": 344,
+    "answer": "Single server architecture",
+    "questionID": 115
+  },
+  {
+    "id": 345,
+    "answer": "Local application only",
+    "questionID": 115
+  },
+  {
+    "id": 346,
+    "answer": "Stores state changes as events",
+    "questionID": 116
+  },
+  {
+    "id": 347,
+    "answer": "Compresses database",
+    "questionID": 116
+  },
+  {
+    "id": 348,
+    "answer": "Encrypts messages",
+    "questionID": 116
+  },
+  {
+    "id": 349,
+    "answer": "Command Query Responsibility Segregation",
+    "questionID": 117
+  },
+  {
+    "id": 350,
+    "answer": "Single database for queries",
+    "questionID": 117
+  },
+  {
+    "id": 351,
+    "answer": "Encryption method",
+    "questionID": 117
+  },
+  {
+    "id": 352,
+    "answer": "Full-duplex communication over TCP",
+    "questionID": 118
+  },
+  {
+    "id": 353,
+    "answer": "Synchronous HTTP requests",
+    "questionID": 118
+  },
+  {
+    "id": 354,
+    "answer": "Data compression protocol",
+    "questionID": 118
+  },
+  {
+    "id": 355,
+    "answer": "Database using graph structures",
+    "questionID": 119
+  },
+  {
+    "id": 356,
+    "answer": "Relational tables only",
+    "questionID": 119
+  },
+  {
+    "id": 357,
+    "answer": "Cache system",
+    "questionID": 119
+  },
+  {
+    "id": 358,
+    "answer": "Managing infrastructure via code scripts",
+    "questionID": 120
+  },
+  {
+    "id": 359,
+    "answer": "Manual server configuration",
+    "questionID": 120
+  },
+  {
+    "id": 360,
+    "answer": "Encrypting application logs",
+    "questionID": 120
+  },
+  {
+    "id": 361,
+    "answer": "Consistency, Availability, Partition Tolerance cannot all be fully achieved simultaneously",
+    "questionID": 121
+  },
+  {
+    "id": 362,
+    "answer": "All nodes always remain in sync",
+    "questionID": 121
+  },
+  {
+    "id": 363,
+    "answer": "Partitioning is not allowed",
+    "questionID": 121
+  },
+  {
+    "id": 364,
+    "answer": "Storing state changes as a sequence of events",
+    "questionID": 122
+  },
+  {
+    "id": 365,
+    "answer": "Directly updating database tables",
+    "questionID": 122
+  },
+  {
+    "id": 366,
+    "answer": "Using temporary memory cache",
+    "questionID": 122
+  },
+  {
+    "id": 367,
+    "answer": "Command Query Responsibility Segregation",
+    "questionID": 123
+  },
+  {
+    "id": 368,
+    "answer": "Central Queue Request System",
+    "questionID": 123
+  },
+  {
+    "id": 369,
+    "answer": "Control Quality Random Sampling",
+    "questionID": 123
+  },
+  {
+    "id": 370,
+    "answer": "Probabilistic data structure for set membership tests",
+    "questionID": 124
+  },
+  {
+    "id": 371,
+    "answer": "Exact search tree structure",
+    "questionID": 124
+  },
+  {
+    "id": 372,
+    "answer": "Compression algorithm for files",
+    "questionID": 124
+  },
+  {
+    "id": 373,
+    "answer": "Build smaller, optimized images by separating build and runtime stages",
+    "questionID": 125
+  },
+  {
+    "id": 374,
+    "answer": "Compile code inside runtime container only",
+    "questionID": 125
+  },
+  {
+    "id": 375,
+    "answer": "Combine all dependencies in one large image",
+    "questionID": 125
+  },
+  {
+    "id": 376,
+    "answer": "Custom controller to automate application management on Kubernetes",
+    "questionID": 126
+  },
+  {
+    "id": 377,
+    "answer": "Predefined Kubernetes pod template",
+    "questionID": 126
+  },
+  {
+    "id": 378,
+    "answer": "Manual deployment only",
+    "questionID": 126
+  },
+  {
+    "id": 379,
+    "answer": "ACID ensures strong consistency, BASE allows eventual consistency",
+    "questionID": 127
+  },
+  {
+    "id": 380,
+    "answer": "BASE ensures strong consistency, ACID allows eventual consistency",
+    "questionID": 127
+  },
+  {
+    "id": 381,
+    "answer": "ACID and BASE are the same",
+    "questionID": 127
+  },
+  {
+    "id": 382,
+    "answer": "Distributed algorithm to manage a replicated log",
+    "questionID": 128
+  },
+  {
+    "id": 383,
+    "answer": "Algorithm to sort arrays quickly",
+    "questionID": 128
+  },
+  {
+    "id": 384,
+    "answer": "Protocol to compress network data",
+    "questionID": 128
+  },
+  {
+    "id": 385,
+    "answer": "Probabilistic algorithm to estimate cardinality of large datasets",
+    "questionID": 129
+  },
+  {
+    "id": 386,
+    "answer": "Exact sorting algorithm",
+    "questionID": 129
+  },
+  {
+    "id": 387,
+    "answer": "Algorithm for memory optimization",
+    "questionID": 129
+  },
+  {
+    "id": 388,
+    "answer": "Hashing technique to distribute keys evenly among nodes with minimal reorganization",
+    "questionID": 130
+  },
+  {
+    "id": 389,
+    "answer": "Standard hash function for passwords",
+    "questionID": 130
+  },
+  {
+    "id": 390,
+    "answer": "Encrypt data before storing",
+    "questionID": 130
+  },
+  {
+    "id": 391,
+    "answer": "Prevents repeated failures by stopping requests to failing services",
+    "questionID": 131
+  },
+  {
+    "id": 392,
+    "answer": "Automatically retries failed requests endlessly",
+    "questionID": 131
+  },
+  {
+    "id": 393,
+    "answer": "Caches all responses",
+    "questionID": 131
+  },
+  {
+    "id": 394,
+    "answer": "Infrastructure layer to manage service-to-service communication",
+    "questionID": 132
+  },
+  {
+    "id": 395,
+    "answer": "Load balancer only",
+    "questionID": 132
+  },
+  {
+    "id": 396,
+    "answer": "Database replication system",
+    "questionID": 132
+  },
+  {
+    "id": 397,
+    "answer": "Formal specification language for modeling concurrent systems",
+    "questionID": 133
+  },
+  {
+    "id": 398,
+    "answer": "Programming language for web apps",
+    "questionID": 133
+  },
+  {
+    "id": 399,
+    "answer": "Database query tool",
+    "questionID": 133
+  },
+  {
+    "id": 400,
+    "answer": "Protocol to ensure distributed transaction atomicity",
+    "questionID": 134
+  },
+  {
+    "id": 401,
+    "answer": "Algorithm for sorting lists",
+    "questionID": 134
+  },
+  {
+    "id": 402,
+    "answer": "Caching method",
+    "questionID": 134
+  },
+  {
+    "id": 403,
+    "answer": "Mechanism to track causality in distributed systems",
+    "questionID": 135
+  },
+  {
+    "id": 404,
+    "answer": "Algorithm to compress images",
+    "questionID": 135
+  },
+  {
+    "id": 405,
+    "answer": "Data serialization format",
+    "questionID": 135
+  },
+  {
+    "id": 406,
+    "answer": "Consensus algorithm for fault-tolerant distributed systems",
+    "questionID": 136
+  },
+  {
+    "id": 407,
+    "answer": "Sorting algorithm",
+    "questionID": 136
+  },
+  {
+    "id": 408,
+    "answer": "Memory allocation method",
+    "questionID": 136
+  },
+  {
+    "id": 409,
+    "answer": "You can only choose two out of Consistency, Availability, Partition tolerance",
+    "questionID": 137
+  },
+  {
+    "id": 410,
+    "answer": "You can achieve all three fully",
+    "questionID": 137
+  },
+  {
+    "id": 411,
+    "answer": "CAP only applies to databases",
+    "questionID": 137
+  },
+  {
+    "id": 412,
+    "answer": "Ensures multiple identical requests produce the same effect",
+    "questionID": 138
+  },
+  {
+    "id": 413,
+    "answer": "Blocks repeated requests",
+    "questionID": 138
+  },
+  {
+    "id": 414,
+    "answer": "Encrypts requests automatically",
+    "questionID": 138
+  },
+  {
+    "id": 415,
+    "answer": "Algorithm to select a coordinator among nodes",
+    "questionID": 139
+  },
+  {
+    "id": 416,
+    "answer": "Encrypts messages between servers",
+    "questionID": 139
+  },
+  {
+    "id": 417,
+    "answer": "Balances network traffic",
+    "questionID": 139
+  },
+  {
+    "id": 418,
+    "answer": "HTTP method that can be called multiple times without changing the result beyond initial application",
+    "questionID": 140
+  },
+  {
+    "id": 419,
+    "answer": "HTTP method that always modifies data",
+    "questionID": 140
+  },
+  {
+    "id": 420,
+    "answer": "Method that only caches results",
+    "questionID": 140
+  },
+  {
+    "id": 421,
+    "answer": "Mechanism to handle overwhelming data flow by slowing producers",
+    "questionID": 141
+  },
+  {
+    "id": 422,
+    "answer": "Technique to speed up data flow",
+    "questionID": 141
+  },
+  {
+    "id": 423,
+    "answer": "Method to delete old events",
+    "questionID": 141
+  },
+  {
+    "id": 424,
+    "answer": "Data will become consistent over time, not immediately",
+    "questionID": 142
+  },
+  {
+    "id": 425,
+    "answer": "Data is always consistent instantly",
+    "questionID": 142
+  },
+  {
+    "id": 426,
+    "answer": "Consistency depends on cache only",
+    "questionID": 142
+  },
+  {
+    "id": 427,
+    "answer": "Deploying helper services alongside main service for tasks like logging, monitoring",
+    "questionID": 143
+  },
+  {
+    "id": 428,
+    "answer": "Replacing main service with smaller services",
+    "questionID": 143
+  },
+  {
+    "id": 429,
+    "answer": "Single service handles everything",
+    "questionID": 143
+  },
+  {
+    "id": 430,
+    "answer": "Hash-based tree structure used in blockchain to verify data integrity",
+    "questionID": 144
+  },
+  {
+    "id": 431,
+    "answer": "Binary search tree for fast queries",
+    "questionID": 144
+  },
+  {
+    "id": 432,
+    "answer": "Queue for message passing",
+    "questionID": 144
+  },
+  {
+    "id": 433,
+    "answer": "Breaks transaction into a sequence of local transactions with compensating actions",
+    "questionID": 145
+  },
+  {
+    "id": 434,
+    "answer": "Single global transaction across all services",
+    "questionID": 145
+  },
+  {
+    "id": 435,
+    "answer": "Method to batch database inserts",
+    "questionID": 145
+  },
+  {
+    "id": 436,
+    "answer": "One leader handles tasks, followers replicate results",
+    "questionID": 146
+  },
+  {
+    "id": 437,
+    "answer": "All nodes handle tasks equally",
+    "questionID": 146
+  },
+  {
+    "id": 438,
+    "answer": "Tasks are executed randomly",
+    "questionID": 146
+  },
+  {
+    "id": 439,
+    "answer": "Closed, Open, and Half-Open to manage service failures",
+    "questionID": 147
+  },
+  {
+    "id": 440,
+    "answer": "Start, Stop, Pause states for services",
+    "questionID": 147
+  },
+  {
+    "id": 441,
+    "answer": "Active, Inactive, Pending states for requests",
+    "questionID": 147
+  },
+  {
+    "id": 442,
+    "answer": "Coordination service for distributed applications",
+    "questionID": 148
+  },
+  {
+    "id": 443,
+    "answer": "Database replication service",
+    "questionID": 148
+  },
+  {
+    "id": 444,
+    "answer": "Monitoring tool for APIs",
+    "questionID": 148
+  },
+  {
+    "id": 445,
+    "answer": "Minimum number of nodes that must agree for an operation to succeed",
+    "questionID": 149
+  },
+  {
+    "id": 446,
+    "answer": "All nodes must always respond",
+    "questionID": 149
+  },
+  {
+    "id": 447,
+    "answer": "Only one node decides the operation",
+    "questionID": 149
+  },
+  {
+    "id": 448,
+    "answer": "Adjusting GC parameters to optimize memory and performance",
+    "questionID": 150
+  },
+  {
+    "id": 449,
+    "answer": "Manually freeing memory in Java",
+    "questionID": 150
+  },
+  {
+    "id": 450,
+    "answer": "Disabling automatic memory management",
+    "questionID": 150
+  },
+  {
+    "id": 451,
+    "answer": "Consistency, Availability, and Partition Tolerance – choose two",
+    "questionID": 151
+  },
+  {
+    "id": 452,
+    "answer": "All three are always guaranteed",
+    "questionID": 151
+  },
+  {
+    "id": 453,
+    "answer": "CAP is a programming language",
+    "questionID": 151
+  },
+  {
+    "id": 454,
+    "answer": "Probabilistic data structure for set membership testing",
+    "questionID": 152
+  },
+  {
+    "id": 455,
+    "answer": "Tree-based search algorithm",
+    "questionID": 152
+  },
+  {
+    "id": 456,
+    "answer": "Sorting algorithm",
+    "questionID": 152
+  },
+  {
+    "id": 457,
+    "answer": "Process to choose a coordinator among nodes",
+    "questionID": 153
+  },
+  {
+    "id": 458,
+    "answer": "Random node executes all tasks",
+    "questionID": 153
+  },
+  {
+    "id": 459,
+    "answer": "All nodes act independently",
+    "questionID": 153
+  },
+  {
+    "id": 460,
+    "answer": "Protocol to ensure all nodes commit or rollback a transaction",
+    "questionID": 154
+  },
+  {
+    "id": 461,
+    "answer": "Single node commits independently",
+    "questionID": 154
+  },
+  {
+    "id": 462,
+    "answer": "Only master node decides commit",
+    "questionID": 154
+  },
+  {
+    "id": 463,
+    "answer": "Mechanism to capture causality between events in distributed systems",
+    "questionID": 155
+  },
+  {
+    "id": 464,
+    "answer": "Clock synchronization for single server",
+    "questionID": 155
+  },
+  {
+    "id": 465,
+    "answer": "Time measurement for performance only",
+    "questionID": 155
+  },
+  {
+    "id": 466,
+    "answer": "Nodes share information randomly to achieve eventual consistency",
+    "questionID": 156
+  },
+  {
+    "id": 467,
+    "answer": "Nodes query central server for updates",
+    "questionID": 156
+  },
+  {
+    "id": 468,
+    "answer": "Nodes never communicate directly",
+    "questionID": 156
+  },
+  {
+    "id": 469,
+    "answer": "Separate read and write models for better scalability",
+    "questionID": 157
+  },
+  {
+    "id": 470,
+    "answer": "Single model handles all operations",
+    "questionID": 157
+  },
+  {
+    "id": 471,
+    "answer": "Only used in databases without writes",
+    "questionID": 157
+  },
+  {
+    "id": 472,
+    "answer": "Algorithm to achieve consensus in distributed systems",
+    "questionID": 158
+  },
+  {
+    "id": 473,
+    "answer": "Sorting algorithm for databases",
+    "questionID": 158
+  },
+  {
+    "id": 474,
+    "answer": "Thread scheduling technique",
+    "questionID": 158
+  },
+  {
+    "id": 475,
+    "answer": "Store changes as a sequence of events rather than current state",
+    "questionID": 159
+  },
+  {
+    "id": 476,
+    "answer": "Only store current state in database",
+    "questionID": 159
+  },
+  {
+    "id": 477,
+    "answer": "Events are discarded after processing",
+    "questionID": 159
+  },
+  {
+    "id": 478,
+    "answer": "Queue to hold messages that cannot be processed",
+    "questionID": 160
+  },
+  {
+    "id": 479,
+    "answer": "Queue that executes messages faster",
+    "questionID": 160
+  },
+  {
+    "id": 480,
+    "answer": "Queue for temporary logging",
+    "questionID": 160
+  },
+  {
+    "id": 481,
+    "answer": "Operation can be repeated without changing the result",
+    "questionID": 161
+  },
+  {
+    "id": 482,
+    "answer": "Operation fails on repeat",
+    "questionID": 161
+  },
+  {
+    "id": 483,
+    "answer": "Only works for GET requests",
+    "questionID": 161
+  },
+  {
+    "id": 484,
+    "answer": "Prevent repeated failures in services by stopping calls temporarily",
+    "questionID": 162
+  },
+  {
+    "id": 485,
+    "answer": "Boost service performance",
+    "questionID": 162
+  },
+  {
+    "id": 486,
+    "answer": "Replace services automatically",
+    "questionID": 162
+  },
+  {
+    "id": 487,
+    "answer": "Proactor handles async completion, Reactor handles event demultiplexing",
+    "questionID": 163
+  },
+  {
+    "id": 488,
+    "answer": "Both handle threads only",
+    "questionID": 163
+  },
+  {
+    "id": 489,
+    "answer": "Both are database algorithms",
+    "questionID": 163
+  },
+  {
+    "id": 490,
+    "answer": "Balanced tree used in databases for efficient range queries",
+    "questionID": 164
+  },
+  {
+    "id": 491,
+    "answer": "Binary tree with at most two children",
+    "questionID": 164
+  },
+  {
+    "id": 492,
+    "answer": "Linked list variant",
+    "questionID": 164
+  },
+  {
+    "id": 493,
+    "answer": "Least Recently Used items are removed when capacity is full",
+    "questionID": 165
+  },
+  {
+    "id": 494,
+    "answer": "Random items are removed",
+    "questionID": 165
+  },
+  {
+    "id": 495,
+    "answer": "All items are always kept",
+    "questionID": 165
+  },
+  {
+    "id": 496,
+    "answer": "Illustrates impossibility of guaranteed coordination over unreliable channels",
+    "questionID": 166
+  },
+  {
+    "id": 497,
+    "answer": "Scheduling problem in operating systems",
+    "questionID": 166
+  },
+  {
+    "id": 498,
+    "answer": "Sorting problem for distributed arrays",
+    "questionID": 166
+  },
+  {
+    "id": 499,
+    "answer": "Handles asynchronous callbacks by looping through events",
+    "questionID": 167
+  },
+  {
+    "id": 500,
+    "answer": "Loop for CPU scheduling only",
+    "questionID": 167
+  },
+  {
+    "id": 501,
+    "answer": "Only works for synchronous code",
+    "questionID": 167
+  },
+  {
+    "id": 502,
+    "answer": "CAPEX: capital expenses, OPEX: operational expenses",
+    "questionID": 168
+  },
+  {
+    "id": 503,
+    "answer": "Both are programming models",
+    "questionID": 168
+  },
+  {
+    "id": 504,
+    "answer": "CAPEX only for databases",
+    "questionID": 168
+  },
+  {
+    "id": 505,
+    "answer": "Saga is eventual, 2PC is atomic for distributed transactions",
+    "questionID": 169
+  },
+  {
+    "id": 506,
+    "answer": "Both are synchronous communication",
+    "questionID": 169
+  },
+  {
+    "id": 507,
+    "answer": "Only used in frontend applications",
+    "questionID": 169
+  },
+  {
+    "id": 508,
+    "answer": "Package manager for Kubernetes applications",
+    "questionID": 170
+  },
+  {
+    "id": 509,
+    "answer": "Logging framework",
+    "questionID": 170
+  },
+  {
+    "id": 510,
+    "answer": "Monitoring tool",
+    "questionID": 170
+  },
+  {
+    "id": 511,
+    "answer": "Changes state or interacts with outside world during computation",
+    "questionID": 171
+  },
+  {
+    "id": 512,
+    "answer": "Only returns new value without changes",
+    "questionID": 171
+  },
+  {
+    "id": 513,
+    "answer": "Used to optimize memory only",
+    "questionID": 171
+  },
+  {
+    "id": 514,
+    "answer": "Custom controller to manage application lifecycle",
+    "questionID": 172
+  },
+  {
+    "id": 515,
+    "answer": "Scheduler for OS processes",
+    "questionID": 172
+  },
+  {
+    "id": 516,
+    "answer": "Network load balancer",
+    "questionID": 172
+  },
+  {
+    "id": 517,
+    "answer": "Conflict-free Replicated Data Types used in distributed systems",
+    "questionID": 173
+  },
+  {
+    "id": 518,
+    "answer": "Data compression format",
+    "questionID": 173
+  },
+  {
+    "id": 519,
+    "answer": "Queue implementation technique",
+    "questionID": 173
+  },
+  {
+    "id": 520,
+    "answer": "Data becomes consistent over time, not immediately",
+    "questionID": 174
+  },
+  {
+    "id": 521,
+    "answer": "Data is always consistent instantly",
+    "questionID": 174
+  },
+  {
+    "id": 522,
+    "answer": "NoSQL does not have consistency",
+    "questionID": 174
+  },
+  {
+    "id": 523,
+    "answer": "Hot: ready to serve immediately, Warm: needs initialization",
+    "questionID": 175
+  },
+  {
+    "id": 524,
+    "answer": "Both need manual start",
+    "questionID": 175
+  },
+  {
+    "id": 525,
+    "answer": "Warm is faster than Hot always",
+    "questionID": 175
+  },
+  {
+    "id": 526,
+    "answer": "Custom Resource Definition to extend Kubernetes API",
+    "questionID": 176
+  },
+  {
+    "id": 527,
+    "answer": "CPU resource declaration",
+    "questionID": 176
+  },
+  {
+    "id": 528,
+    "answer": "Cluster logging tool",
+    "questionID": 176
+  },
+  {
+    "id": 529,
+    "answer": "Database optimized for similarity search with vectors",
+    "questionID": 177
+  },
+  {
+    "id": 530,
+    "answer": "Traditional relational database",
+    "questionID": 177
+  },
+  {
+    "id": 531,
+    "answer": "Database for logs only",
+    "questionID": 177
+  },
+  {
+    "id": 532,
+    "answer": "Limits number of pods down during maintenance",
+    "questionID": 178
+  },
+  {
+    "id": 533,
+    "answer": "Schedules pods randomly",
+    "questionID": 178
+  },
+  {
+    "id": 534,
+    "answer": "Removes all pods during updates",
+    "questionID": 178
+  },
+  {
+    "id": 535,
+    "answer": "Mechanism to slow producers when consumers cannot keep up",
+    "questionID": 179
+  },
+  {
+    "id": 536,
+    "answer": "Send messages faster",
+    "questionID": 179
+  },
+  {
+    "id": 537,
+    "answer": "Delete old topics automatically",
+    "questionID": 179
+  },
+  {
+    "id": 538,
+    "answer": "Manages stateful applications with stable network IDs and storage",
+    "questionID": 180
+  },
+  {
+    "id": 539,
+    "answer": "Handles stateless applications only",
+    "questionID": 180
+  },
+  {
+    "id": 540,
+    "answer": "Replaces CronJobs in Kubernetes",
+    "questionID": 180
+  },
+  {
+    "id": 541,
+    "answer": "London",
+    "questionID": 181
+  },
+  {
+    "id": 542,
+    "answer": "Berlin",
+    "questionID": 181
+  },
+  {
+    "id": 543,
+    "answer": "Rome",
+    "questionID": 181
+  },
+  {
+    "id": 544,
+    "answer": "Europe",
+    "questionID": 182
+  },
+  {
+    "id": 545,
+    "answer": "Africa",
+    "questionID": 182
+  },
+  {
+    "id": 546,
+    "answer": "Asia",
+    "questionID": 182
+  },
+  {
+    "id": 547,
+    "answer": "Atlantic Ocean",
+    "questionID": 183
+  },
+  {
+    "id": 548,
+    "answer": "Indian Ocean",
+    "questionID": 183
+  },
+  {
+    "id": 549,
+    "answer": "Arctic Ocean",
+    "questionID": 183
+  },
+  {
+    "id": 550,
+    "answer": "India",
+    "questionID": 184
+  },
+  {
+    "id": 551,
+    "answer": "China",
+    "questionID": 184
+  },
+  {
+    "id": 552,
+    "answer": "Bhutan",
+    "questionID": 184
+  },
+  {
+    "id": 553,
+    "answer": "Red Sea",
+    "questionID": 185
+  },
+  {
+    "id": 554,
+    "answer": "Black Sea",
+    "questionID": 185
+  },
+  {
+    "id": 555,
+    "answer": "Caspian Sea",
+    "questionID": 185
+  },
+  {
+    "id": 556,
+    "answer": "Canada",
+    "questionID": 186
+  },
+  {
+    "id": 557,
+    "answer": "United States",
+    "questionID": 186
+  },
+  {
+    "id": 558,
+    "answer": "China",
+    "questionID": 186
+  },
+  {
+    "id": 559,
+    "answer": "Gobi Desert",
+    "questionID": 187
+  },
+  {
+    "id": 560,
+    "answer": "Kalahari Desert",
+    "questionID": 187
+  },
+  {
+    "id": 561,
+    "answer": "Arabian Desert",
+    "questionID": 187
+  },
+  {
+    "id": 562,
+    "answer": "China",
+    "questionID": 188
+  },
+  {
+    "id": 563,
+    "answer": "South Korea",
+    "questionID": 188
+  },
+  {
+    "id": 564,
+    "answer": "Thailand",
+    "questionID": 188
+  },
+  {
+    "id": 565,
+    "answer": "Asia",
+    "questionID": 189
+  },
+  {
+    "id": 566,
+    "answer": "Europe",
+    "questionID": 189
+  },
+  {
+    "id": 567,
+    "answer": "South America",
+    "questionID": 189
+  },
+  {
+    "id": 568,
+    "answer": "China",
+    "questionID": 190
+  },
+  {
+    "id": 569,
+    "answer": "South Korea",
+    "questionID": 190
+  },
+  {
+    "id": 570,
+    "answer": "Thailand",
+    "questionID": 190
+  },
+  {
+    "id": 571,
+    "answer": "Amazon",
+    "questionID": 191
+  },
+  {
+    "id": 572,
+    "answer": "Yangtze",
+    "questionID": 191
+  },
+  {
+    "id": 573,
+    "answer": "Mississippi",
+    "questionID": 191
+  },
+  {
+    "id": 574,
+    "answer": "India",
+    "questionID": 192
+  },
+  {
+    "id": 575,
+    "answer": "USA",
+    "questionID": 192
+  },
+  {
+    "id": 576,
+    "answer": "Russia",
+    "questionID": 192
+  },
+  {
+    "id": 577,
+    "answer": "Pacific Ocean",
+    "questionID": 193
+  },
+  {
+    "id": 578,
+    "answer": "Indian Ocean",
+    "questionID": 193
+  },
+  {
+    "id": 579,
+    "answer": "Arctic Ocean",
+    "questionID": 193
+  },
+  {
+    "id": 580,
+    "answer": "USA",
+    "questionID": 194
+  },
+  {
+    "id": 581,
+    "answer": "South Africa",
+    "questionID": 194
+  },
+  {
+    "id": 582,
+    "answer": "Brazil",
+    "questionID": 194
+  },
+  {
+    "id": 583,
+    "answer": "Asia",
+    "questionID": 195
+  },
+  {
+    "id": 584,
+    "answer": "Europe",
+    "questionID": 195
+  },
+  {
+    "id": 585,
+    "answer": "South America",
+    "questionID": 195
+  },
+  {
+    "id": 586,
+    "answer": "Alps",
+    "questionID": 196
+  },
+  {
+    "id": 587,
+    "answer": "Himalayas",
+    "questionID": 196
+  },
+  {
+    "id": 588,
+    "answer": "Caucasus",
+    "questionID": 196
+  },
+  {
+    "id": 589,
+    "answer": "Los Angeles",
+    "questionID": 197
+  },
+  {
+    "id": 590,
+    "answer": "Chicago",
+    "questionID": 197
+  },
+  {
+    "id": 591,
+    "answer": "San Francisco",
+    "questionID": 197
+  },
+  {
+    "id": 592,
+    "answer": "Mexico",
+    "questionID": 198
+  },
+  {
+    "id": 593,
+    "answer": "Greece",
+    "questionID": 198
+  },
+  {
+    "id": 594,
+    "answer": "Peru",
+    "questionID": 198
+  },
+  {
+    "id": 595,
+    "answer": "Seine",
+    "questionID": 199
+  },
+  {
+    "id": 596,
+    "answer": "Thames River in Egypt",
+    "questionID": 199
+  },
+  {
+    "id": 597,
+    "answer": "Danube",
+    "questionID": 199
+  },
+  {
+    "id": 598,
+    "answer": "Greece",
+    "questionID": 200
+  },
+  {
+    "id": 599,
+    "answer": "Italy",
+    "questionID": 200
+  },
+  {
+    "id": 600,
+    "answer": "Russia",
+    "questionID": 200
+  },
+  {
+    "id": 601,
+    "answer": "Monaco",
+    "questionID": 201
+  },
+  {
+    "id": 602,
+    "answer": "San Marino",
+    "questionID": 201
+  },
+  {
+    "id": 603,
+    "answer": "Liechtenstein",
+    "questionID": 201
+  },
+  {
+    "id": 604,
+    "answer": "Greenland",
+    "questionID": 202
+  },
+  {
+    "id": 605,
+    "answer": "Iceland",
+    "questionID": 202
+  },
+  {
+    "id": 606,
+    "answer": "Canada",
+    "questionID": 202
+  },
+  {
+    "id": 607,
+    "answer": "USA",
+    "questionID": 203
+  },
+  {
+    "id": 608,
+    "answer": "Russia",
+    "questionID": 203
+  },
+  {
+    "id": 609,
+    "answer": "Brazil",
+    "questionID": 203
+  },
+  {
+    "id": 610,
+    "answer": "Niagara Falls",
+    "questionID": 204
+  },
+  {
+    "id": 611,
+    "answer": "Victoria Falls",
+    "questionID": 204
+  },
+  {
+    "id": 612,
+    "answer": "Iguazu Falls",
+    "questionID": 204
+  },
+  {
+    "id": 613,
+    "answer": "Dead Sea",
+    "questionID": 205
+  },
+  {
+    "id": 614,
+    "answer": "Red Sea",
+    "questionID": 205
+  },
+  {
+    "id": 615,
+    "answer": "Mediterranean Sea",
+    "questionID": 205
+  },
+  {
+    "id": 616,
+    "answer": "Sahara Desert",
+    "questionID": 206
+  },
+  {
+    "id": 617,
+    "answer": "Thar Desert",
+    "questionID": 206
+  },
+  {
+    "id": 618,
+    "answer": "Karakum Desert",
+    "questionID": 206
+  },
+  {
+    "id": 619,
+    "answer": "Germany",
+    "questionID": 207
+  },
+  {
+    "id": 620,
+    "answer": "Belgium",
+    "questionID": 207
+  },
+  {
+    "id": 621,
+    "answer": "France",
+    "questionID": 207
+  },
+  {
+    "id": 622,
+    "answer": "California",
+    "questionID": 208
+  },
+  {
+    "id": 623,
+    "answer": "Montana",
+    "questionID": 208
+  },
+  {
+    "id": 624,
+    "answer": "Idaho",
+    "questionID": 208
+  },
+  {
+    "id": 625,
+    "answer": "Ganges",
+    "questionID": 209
+  },
+  {
+    "id": 626,
+    "answer": "Mekong",
+    "questionID": 209
+  },
+  {
+    "id": 627,
+    "answer": "Ob",
+    "questionID": 209
+  },
+  {
+    "id": 628,
+    "answer": "London",
+    "questionID": 210
+  },
+  {
+    "id": 629,
+    "answer": "New York",
+    "questionID": 210
+  },
+  {
+    "id": 630,
+    "answer": "Rome",
+    "questionID": 210
+  },
+  {
+    "id": 631,
+    "answer": "USA",
+    "questionID": 211
+  },
+  {
+    "id": 632,
+    "answer": "UK",
+    "questionID": 211
+  },
+  {
+    "id": 633,
+    "answer": "Australia",
+    "questionID": 211
+  },
+  {
+    "id": 634,
+    "answer": "Italy",
+    "questionID": 212
+  },
+  {
+    "id": 635,
+    "answer": "Spain",
+    "questionID": 212
+  },
+  {
+    "id": 636,
+    "answer": "Germany",
+    "questionID": 212
+  },
+  {
+    "id": 637,
+    "answer": "Europe",
+    "questionID": 213
+  },
+  {
+    "id": 638,
+    "answer": "Africa",
+    "questionID": 213
+  },
+  {
+    "id": 639,
+    "answer": "North America",
+    "questionID": 213
+  },
+  {
+    "id": 640,
+    "answer": "Africa",
+    "questionID": 214
+  },
+  {
+    "id": 641,
+    "answer": "Europe",
+    "questionID": 214
+  },
+  {
+    "id": 642,
+    "answer": "South America",
+    "questionID": 214
+  },
+  {
+    "id": 643,
+    "answer": "China",
+    "questionID": 215
+  },
+  {
+    "id": 644,
+    "answer": "Egypt",
+    "questionID": 215
+  },
+  {
+    "id": 645,
+    "answer": "Italy",
+    "questionID": 215
+  },
+  {
+    "id": 646,
+    "answer": "USA",
+    "questionID": 216
+  },
+  {
+    "id": 647,
+    "answer": "Canada",
+    "questionID": 216
+  },
+  {
+    "id": 648,
+    "answer": "India",
+    "questionID": 216
+  },
+  {
+    "id": 649,
+    "answer": "Paris",
+    "questionID": 217
+  },
+  {
+    "id": 650,
+    "answer": "Athens",
+    "questionID": 217
+  },
+  {
+    "id": 651,
+    "answer": "Berlin",
+    "questionID": 217
+  },
+  {
+    "id": 652,
+    "answer": "China",
+    "questionID": 218
+  },
+  {
+    "id": 653,
+    "answer": "Thailand",
+    "questionID": 218
+  },
+  {
+    "id": 654,
+    "answer": "Korea",
+    "questionID": 218
+  },
+  {
+    "id": 655,
+    "answer": "Tigris",
+    "questionID": 219
+  },
+  {
+    "id": 656,
+    "answer": "Amazon",
+    "questionID": 219
+  },
+  {
+    "id": 657,
+    "answer": "Yangtze",
+    "questionID": 219
+  },
+  {
+    "id": 658,
+    "answer": "France",
+    "questionID": 220
+  },
+  {
+    "id": 659,
+    "answer": "Italy",
+    "questionID": 220
+  },
+  {
+    "id": 660,
+    "answer": "Germany",
+    "questionID": 220
+  },
+  {
+    "id": 661,
+    "answer": "India",
+    "questionID": 221
+  },
+  {
+    "id": 662,
+    "answer": "Japan",
+    "questionID": 221
+  },
+  {
+    "id": 663,
+    "answer": "Egypt",
+    "questionID": 221
+  },
+  {
+    "id": 664,
+    "answer": "London",
+    "questionID": 222
+  },
+  {
+    "id": 665,
+    "answer": "Los Angeles",
+    "questionID": 222
+  },
+  {
+    "id": 666,
+    "answer": "Chicago",
+    "questionID": 222
+  },
+  {
+    "id": 667,
+    "answer": "Argentina",
+    "questionID": 223
+  },
+  {
+    "id": 668,
+    "answer": "Peru",
+    "questionID": 223
+  },
+  {
+    "id": 669,
+    "answer": "Colombia",
+    "questionID": 223
+  },
+  {
+    "id": 670,
+    "answer": "Egypt",
+    "questionID": 224
+  },
+  {
+    "id": 671,
+    "answer": "Sudan",
+    "questionID": 224
+  },
+  {
+    "id": 672,
+    "answer": "Mexico",
+    "questionID": 224
+  },
+  {
+    "id": 673,
+    "answer": "Mount Kenya",
+    "questionID": 225
+  },
+  {
+    "id": 674,
+    "answer": "Atlas Mountains",
+    "questionID": 225
+  },
+  {
+    "id": 675,
+    "answer": "Drakensberg",
+    "questionID": 225
+  },
+  {
+    "id": 676,
+    "answer": "Germany",
+    "questionID": 226
+  },
+  {
+    "id": 677,
+    "answer": "France",
+    "questionID": 226
+  },
+  {
+    "id": 678,
+    "answer": "China",
+    "questionID": 226
+  },
+  {
+    "id": 679,
+    "answer": "Euphrates",
+    "questionID": 227
+  },
+  {
+    "id": 680,
+    "answer": "Nile",
+    "questionID": 227
+  },
+  {
+    "id": 681,
+    "answer": "Amazon",
+    "questionID": 227
+  },
+  {
+    "id": 682,
+    "answer": "Paris",
+    "questionID": 228
+  },
+  {
+    "id": 683,
+    "answer": "New York",
+    "questionID": 228
+  },
+  {
+    "id": 684,
+    "answer": "Berlin",
+    "questionID": 228
+  },
+  {
+    "id": 685,
+    "answer": "France",
+    "questionID": 229
+  },
+  {
+    "id": 686,
+    "answer": "Mexico",
+    "questionID": 229
+  },
+  {
+    "id": 687,
+    "answer": "Spain",
+    "questionID": 229
+  },
+  {
+    "id": 688,
+    "answer": "Gobi Desert",
+    "questionID": 230
+  },
+  {
+    "id": 689,
+    "answer": "Kalahari",
+    "questionID": 230
+  },
+  {
+    "id": 690,
+    "answer": "Arabian",
+    "questionID": 230
+  },
+  {
+    "id": 691,
+    "answer": "Argentina",
+    "questionID": 231
+  },
+  {
+    "id": 692,
+    "answer": "Peru",
+    "questionID": 231
+  },
+  {
+    "id": 693,
+    "answer": "Bolivia",
+    "questionID": 231
+  },
+  {
+    "id": 694,
+    "answer": "France",
+    "questionID": 232
+  },
+  {
+    "id": 695,
+    "answer": "Spain",
+    "questionID": 232
+  },
+  {
+    "id": 696,
+    "answer": "Germany",
+    "questionID": 232
+  },
+  {
+    "id": 697,
+    "answer": "Venice",
+    "questionID": 233
+  },
+  {
+    "id": 698,
+    "answer": "Stockholm",
+    "questionID": 233
+  },
+  {
+    "id": 699,
+    "answer": "Bruges",
+    "questionID": 233
+  },
+  {
+    "id": 700,
+    "answer": "Sweden",
+    "questionID": 234
+  },
+  {
+    "id": 701,
+    "answer": "Iceland",
+    "questionID": 234
+  },
+  {
+    "id": 702,
+    "answer": "Finland",
+    "questionID": 234
+  },
+  {
+    "id": 703,
+    "answer": "Thames",
+    "questionID": 235
+  },
+  {
+    "id": 704,
+    "answer": "Nile",
+    "questionID": 235
+  },
+  {
+    "id": 705,
+    "answer": "Danube",
+    "questionID": 235
+  },
+  {
+    "id": 706,
+    "answer": "Asia",
+    "questionID": 236
+  },
+  {
+    "id": 707,
+    "answer": "Europe",
+    "questionID": 236
+  },
+  {
+    "id": 708,
+    "answer": "South America",
+    "questionID": 236
+  },
+  {
+    "id": 709,
+    "answer": "Italy",
+    "questionID": 237
+  },
+  {
+    "id": 710,
+    "answer": "France",
+    "questionID": 237
+  },
+  {
+    "id": 711,
+    "answer": "Portugal",
+    "questionID": 237
+  },
+  {
+    "id": 712,
+    "answer": "Sweden",
+    "questionID": 238
+  },
+  {
+    "id": 713,
+    "answer": "Finland",
+    "questionID": 238
+  },
+  {
+    "id": 714,
+    "answer": "Iceland",
+    "questionID": 238
+  },
+  {
+    "id": 715,
+    "answer": "Egypt",
+    "questionID": 239
+  },
+  {
+    "id": 716,
+    "answer": "Mexico",
+    "questionID": 239
+  },
+  {
+    "id": 717,
+    "answer": "Peru",
+    "questionID": 239
+  },
+  {
+    "id": 718,
+    "answer": "Amsterdam",
+    "questionID": 240
+  },
+  {
+    "id": 719,
+    "answer": "Bruges",
+    "questionID": 240
+  },
+  {
+    "id": 720,
+    "answer": "Stockholm",
+    "questionID": 240
+  },
+  {
+    "id": 721,
+    "answer": "Euphrates",
+    "questionID": 241
+  },
+  {
+    "id": 722,
+    "answer": "Nile",
+    "questionID": 241
+  },
+  {
+    "id": 723,
+    "answer": "Amazon",
+    "questionID": 241
+  },
+  {
+    "id": 724,
+    "answer": "Sahara",
+    "questionID": 242
+  },
+  {
+    "id": 725,
+    "answer": "Kalahari",
+    "questionID": 242
+  },
+  {
+    "id": 726,
+    "answer": "Arabian",
+    "questionID": 242
+  },
+  {
+    "id": 727,
+    "answer": "Ural Mountains",
+    "questionID": 243
+  },
+  {
+    "id": 728,
+    "answer": "Andes",
+    "questionID": 243
+  },
+  {
+    "id": 729,
+    "answer": "Alps",
+    "questionID": 243
+  },
+  {
+    "id": 730,
+    "answer": "Zimbabwe",
+    "questionID": 244
+  },
+  {
+    "id": 731,
+    "answer": "South Africa",
+    "questionID": 244
+  },
+  {
+    "id": 732,
+    "answer": "Botswana",
+    "questionID": 244
+  },
+  {
+    "id": 733,
+    "answer": "Arabian Sea",
+    "questionID": 245
+  },
+  {
+    "id": 734,
+    "answer": "Mediterranean Sea",
+    "questionID": 245
+  },
+  {
+    "id": 735,
+    "answer": "Black Sea",
+    "questionID": 245
+  },
+  {
+    "id": 736,
+    "answer": "Spain",
+    "questionID": 246
+  },
+  {
+    "id": 737,
+    "answer": "Portugal",
+    "questionID": 246
+  },
+  {
+    "id": 738,
+    "answer": "Algeria",
+    "questionID": 246
+  },
+  {
+    "id": 739,
+    "answer": "Mississippi",
+    "questionID": 247
+  },
+  {
+    "id": 740,
+    "answer": "Colorado",
+    "questionID": 247
+  },
+  {
+    "id": 741,
+    "answer": "Amazon",
+    "questionID": 247
+  },
+  {
+    "id": 742,
+    "answer": "Swaziland",
+    "questionID": 248
+  },
+  {
+    "id": 743,
+    "answer": "Botswana",
+    "questionID": 248
+  },
+  {
+    "id": 744,
+    "answer": "Namibia",
+    "questionID": 248
+  },
+  {
+    "id": 745,
+    "answer": "Mount Logan",
+    "questionID": 249
+  },
+  {
+    "id": 746,
+    "answer": "Mount Rainier",
+    "questionID": 249
+  },
+  {
+    "id": 747,
+    "answer": "Mount Whitney",
+    "questionID": 249
+  },
+  {
+    "id": 748,
+    "answer": "Atlantic Ocean",
+    "questionID": 250
+  },
+  {
+    "id": 749,
+    "answer": "Pacific Ocean",
+    "questionID": 250
+  },
+  {
+    "id": 750,
+    "answer": "Southern Ocean",
+    "questionID": 250
+  },
+  {
+    "id": 751,
+    "answer": "Auckland",
+    "questionID": 251
+  },
+  {
+    "id": 752,
+    "answer": "Christchurch",
+    "questionID": 251
+  },
+  {
+    "id": 753,
+    "answer": "Hamilton",
+    "questionID": 251
+  },
+  {
+    "id": 754,
+    "answer": "Iceland",
+    "questionID": 252
+  },
+  {
+    "id": 755,
+    "answer": "Greece",
+    "questionID": 252
+  },
+  {
+    "id": 756,
+    "answer": "Spain",
+    "questionID": 252
+  },
+  {
+    "id": 757,
+    "answer": "Rhine",
+    "questionID": 253
+  },
+  {
+    "id": 758,
+    "answer": "Seine",
+    "questionID": 253
+  },
+  {
+    "id": 759,
+    "answer": "Volga",
+    "questionID": 253
+  },
+  {
+    "id": 760,
+    "answer": "Norway",
+    "questionID": 254
+  },
+  {
+    "id": 761,
+    "answer": "Greenland",
+    "questionID": 254
+  },
+  {
+    "id": 762,
+    "answer": "Finland",
+    "questionID": 254
+  },
+  {
+    "id": 763,
+    "answer": "South Africa",
+    "questionID": 255
+  },
+  {
+    "id": 764,
+    "answer": "Egypt",
+    "questionID": 255
+  },
+  {
+    "id": 765,
+    "answer": "Morocco",
+    "questionID": 255
+  },
+  {
+    "id": 766,
+    "answer": "Sahara",
+    "questionID": 256
+  },
+  {
+    "id": 767,
+    "answer": "Namib",
+    "questionID": 256
+  },
+  {
+    "id": 768,
+    "answer": "Atacama",
+    "questionID": 256
+  },
+  {
+    "id": 769,
+    "answer": "Philippines",
+    "questionID": 257
+  },
+  {
+    "id": 770,
+    "answer": "Indonesia",
+    "questionID": 257
+  },
+  {
+    "id": 771,
+    "answer": "Finland",
+    "questionID": 257
+  },
+  {
+    "id": 772,
+    "answer": "Huascarán",
+    "questionID": 258
+  },
+  {
+    "id": 773,
+    "answer": "Illimani",
+    "questionID": 258
+  },
+  {
+    "id": 774,
+    "answer": "Chimborazo",
+    "questionID": 258
+  },
+  {
+    "id": 775,
+    "answer": "USA",
+    "questionID": 259
+  },
+  {
+    "id": 776,
+    "answer": "Canada",
+    "questionID": 259
+  },
+  {
+    "id": 777,
+    "answer": "China",
+    "questionID": 259
+  },
+  {
+    "id": 778,
+    "answer": "Iceland",
+    "questionID": 260
+  },
+  {
+    "id": 779,
+    "answer": "Russia",
+    "questionID": 260
+  },
+  {
+    "id": 780,
+    "answer": "Greenland",
+    "questionID": 260
+  },
+  {
+    "id": 781,
+    "answer": "Thames",
+    "questionID": 261
+  },
+  {
+    "id": 782,
+    "answer": "Danube",
+    "questionID": 261
+  },
+  {
+    "id": 783,
+    "answer": "Rhine",
+    "questionID": 261
+  },
+  {
+    "id": 784,
+    "answer": "Mombasa",
+    "questionID": 262
+  },
+  {
+    "id": 785,
+    "answer": "Kampala",
+    "questionID": 262
+  },
+  {
+    "id": 786,
+    "answer": "Addis Ababa",
+    "questionID": 262
+  },
+  {
+    "id": 787,
+    "answer": "Taklamakan",
+    "questionID": 263
+  },
+  {
+    "id": 788,
+    "answer": "Karakum",
+    "questionID": 263
+  },
+  {
+    "id": 789,
+    "answer": "Thar",
+    "questionID": 263
+  },
+  {
+    "id": 790,
+    "answer": "Sweden",
+    "questionID": 264
+  },
+  {
+    "id": 791,
+    "answer": "Finland",
+    "questionID": 264
+  },
+  {
+    "id": 792,
+    "answer": "Iceland",
+    "questionID": 264
+  },
+  {
+    "id": 793,
+    "answer": "Toronto",
+    "questionID": 265
+  },
+  {
+    "id": 794,
+    "answer": "Montreal",
+    "questionID": 265
+  },
+  {
+    "id": 795,
+    "answer": "Vancouver",
+    "questionID": 265
+  },
+  {
+    "id": 796,
+    "answer": "Israel",
+    "questionID": 266
+  },
+  {
+    "id": 797,
+    "answer": "Egypt",
+    "questionID": 266
+  },
+  {
+    "id": 798,
+    "answer": "Saudi Arabia",
+    "questionID": 266
+  },
+  {
+    "id": 799,
+    "answer": "Danube",
+    "questionID": 267
+  },
+  {
+    "id": 800,
+    "answer": "Rhine",
+    "questionID": 267
+  },
+  {
+    "id": 801,
+    "answer": "Seine",
+    "questionID": 267
+  },
+  {
+    "id": 802,
+    "answer": "Italy",
+    "questionID": 268
+  },
+  {
+    "id": 803,
+    "answer": "Japan",
+    "questionID": 268
+  },
+  {
+    "id": 804,
+    "answer": "Philippines",
+    "questionID": 268
+  },
+  {
+    "id": 805,
+    "answer": "Busan",
+    "questionID": 269
+  },
+  {
+    "id": 806,
+    "answer": "Pyongyang",
+    "questionID": 269
+  },
+  {
+    "id": 807,
+    "answer": "Tokyo",
+    "questionID": 269
+  },
+  {
+    "id": 808,
+    "answer": "Congo",
+    "questionID": 270
+  },
+  {
+    "id": 809,
+    "answer": "Zambezi",
+    "questionID": 270
+  },
+  {
+    "id": 810,
+    "answer": "Orange",
+    "questionID": 270
+  },
+  {
+    "id": 811,
+    "answer": "Sweden",
+    "questionID": 271
+  },
+  {
+    "id": 812,
+    "answer": "Norway",
+    "questionID": 271
+  },
+  {
+    "id": 813,
+    "answer": "Russia",
+    "questionID": 271
+  },
+  {
+    "id": 814,
+    "answer": "Congo",
+    "questionID": 272
+  },
+  {
+    "id": 815,
+    "answer": "Indonesia",
+    "questionID": 272
+  },
+  {
+    "id": 816,
+    "answer": "Peru",
+    "questionID": 272
+  },
+  {
+    "id": 817,
+    "answer": "Spain",
+    "questionID": 273
+  },
+  {
+    "id": 818,
+    "answer": "Greece",
+    "questionID": 273
+  },
+  {
+    "id": 819,
+    "answer": "Portugal",
+    "questionID": 273
+  },
+  {
+    "id": 820,
+    "answer": "Italy",
+    "questionID": 274
+  },
+  {
+    "id": 821,
+    "answer": "Turkey",
+    "questionID": 274
+  },
+  {
+    "id": 822,
+    "answer": "Spain",
+    "questionID": 274
+  },
+  {
+    "id": 823,
+    "answer": "Iceland",
+    "questionID": 275
+  },
+  {
+    "id": 824,
+    "answer": "Greece",
+    "questionID": 275
+  },
+  {
+    "id": 825,
+    "answer": "Portugal",
+    "questionID": 275
+  },
+  {
+    "id": 826,
+    "answer": "Dead Sea",
+    "questionID": 276
+  },
+  {
+    "id": 827,
+    "answer": "Caspian Sea",
+    "questionID": 276
+  },
+  {
+    "id": 828,
+    "answer": "Black Sea",
+    "questionID": 276
+  },
+  {
+    "id": 829,
+    "answer": "Sweden",
+    "questionID": 277
+  },
+  {
+    "id": 830,
+    "answer": "Finland",
+    "questionID": 277
+  },
+  {
+    "id": 831,
+    "answer": "Iceland",
+    "questionID": 277
+  },
+  {
+    "id": 832,
+    "answer": "Istanbul",
+    "questionID": 278
+  },
+  {
+    "id": 833,
+    "answer": "Izmir",
+    "questionID": 278
+  },
+  {
+    "id": 834,
+    "answer": "Bursa",
+    "questionID": 278
+  },
+  {
+    "id": 835,
+    "answer": "Greenland",
+    "questionID": 279
+  },
+  {
+    "id": 836,
+    "answer": "Iceland",
+    "questionID": 279
+  },
+  {
+    "id": 837,
+    "answer": "Canada",
+    "questionID": 279
+  },
+  {
+    "id": 838,
+    "answer": "Euphrates",
+    "questionID": 280
+  },
+  {
+    "id": 839,
+    "answer": "Nile",
+    "questionID": 280
+  },
+  {
+    "id": 840,
+    "answer": "Amazon",
+    "questionID": 280
+  },
+  {
+    "id": 841,
+    "answer": "USA",
+    "questionID": 281
+  },
+  {
+    "id": 842,
+    "answer": "Canada",
+    "questionID": 281
+  },
+  {
+    "id": 843,
+    "answer": "Brazil",
+    "questionID": 281
+  },
+  {
+    "id": 844,
+    "answer": "Alps",
+    "questionID": 282
+  },
+  {
+    "id": 845,
+    "answer": "Carpathians",
+    "questionID": 282
+  },
+  {
+    "id": 846,
+    "answer": "Apennines",
+    "questionID": 282
+  },
+  {
+    "id": 847,
+    "answer": "Argentina",
+    "questionID": 283
+  },
+  {
+    "id": 848,
+    "answer": "Peru",
+    "questionID": 283
+  },
+  {
+    "id": 849,
+    "answer": "Ecuador",
+    "questionID": 283
+  },
+  {
+    "id": 850,
+    "answer": "Ganges",
+    "questionID": 284
+  },
+  {
+    "id": 851,
+    "answer": "Mekong",
+    "questionID": 284
+  },
+  {
+    "id": 852,
+    "answer": "Indus",
+    "questionID": 284
+  },
+  {
+    "id": 853,
+    "answer": "Argentina",
+    "questionID": 285
+  },
+  {
+    "id": 854,
+    "answer": "Colombia",
+    "questionID": 285
+  },
+  {
+    "id": 855,
+    "answer": "Peru",
+    "questionID": 285
+  },
+  {
+    "id": 856,
+    "answer": "Beijing",
+    "questionID": 286
+  },
+  {
+    "id": 857,
+    "answer": "Astana",
+    "questionID": 286
+  },
+  {
+    "id": 858,
+    "answer": "Seoul",
+    "questionID": 286
+  },
+  {
+    "id": 859,
+    "answer": "Lake Tanganyika",
+    "questionID": 287
+  },
+  {
+    "id": 860,
+    "answer": "Lake Malawi",
+    "questionID": 287
+  },
+  {
+    "id": 861,
+    "answer": "Lake Chad",
+    "questionID": 287
+  },
+  {
+    "id": 862,
+    "answer": "Sweden",
+    "questionID": 288
+  },
+  {
+    "id": 863,
+    "answer": "Iceland",
+    "questionID": 288
+  },
+  {
+    "id": 864,
+    "answer": "Finland",
+    "questionID": 288
+  },
+  {
+    "id": 865,
+    "answer": "Volga",
+    "questionID": 289
+  },
+  {
+    "id": 866,
+    "answer": "Don",
+    "questionID": 289
+  },
+  {
+    "id": 867,
+    "answer": "Neva",
+    "questionID": 289
+  },
+  {
+    "id": 868,
+    "answer": "Philippines",
+    "questionID": 290
+  },
+  {
+    "id": 869,
+    "answer": "Japan",
+    "questionID": 290
+  },
+  {
+    "id": 870,
+    "answer": "Papua New Guinea",
+    "questionID": 290
+  },
+  {
+    "id": 871,
+    "answer": "Kenya",
+    "questionID": 291
+  },
+  {
+    "id": 872,
+    "answer": "Democratic Republic of the Congo",
+    "questionID": 291
+  },
+  {
+    "id": 873,
+    "answer": "Nigeria",
+    "questionID": 291
+  },
+  {
+    "id": 874,
+    "answer": "Red Sea",
+    "questionID": 292
+  },
+  {
+    "id": 875,
+    "answer": "Arabian Sea",
+    "questionID": 292
+  },
+  {
+    "id": 876,
+    "answer": "Caspian Sea",
+    "questionID": 292
+  },
+  {
+    "id": 877,
+    "answer": "Tisza",
+    "questionID": 293
+  },
+  {
+    "id": 878,
+    "answer": "Vistula",
+    "questionID": 293
+  },
+  {
+    "id": 879,
+    "answer": "Rhine",
+    "questionID": 293
+  },
+  {
+    "id": 880,
+    "answer": "Philippines",
+    "questionID": 294
+  },
+  {
+    "id": 881,
+    "answer": "Indonesia",
+    "questionID": 294
+  },
+  {
+    "id": 882,
+    "answer": "Fiji",
+    "questionID": 294
+  },
+  {
+    "id": 883,
+    "answer": "Iceland",
+    "questionID": 295
+  },
+  {
+    "id": 884,
+    "answer": "Greece",
+    "questionID": 295
+  },
+  {
+    "id": 885,
+    "answer": "Spain",
+    "questionID": 295
+  },
+  {
+    "id": 886,
+    "answer": "Sudan",
+    "questionID": 296
+  },
+  {
+    "id": 887,
+    "answer": "Libya",
+    "questionID": 296
+  },
+  {
+    "id": 888,
+    "answer": "Egypt",
+    "questionID": 296
+  },
+  {
+    "id": 889,
+    "answer": "Mont Blanc",
+    "questionID": 297
+  },
+  {
+    "id": 890,
+    "answer": "Matterhorn",
+    "questionID": 297
+  },
+  {
+    "id": 891,
+    "answer": "Mount Etna",
+    "questionID": 297
+  },
+  {
+    "id": 892,
+    "answer": "Swaziland",
+    "questionID": 298
+  },
+  {
+    "id": 893,
+    "answer": "Vatican City",
+    "questionID": 298
+  },
+  {
+    "id": 894,
+    "answer": "San Marino",
+    "questionID": 298
+  },
+  {
+    "id": 895,
+    "answer": "Rhine",
+    "questionID": 299
+  },
+  {
+    "id": 896,
+    "answer": "Seine",
+    "questionID": 299
+  },
+  {
+    "id": 897,
+    "answer": "Elbe",
+    "questionID": 299
+  },
+  {
+    "id": 898,
+    "answer": "Finland",
+    "questionID": 300
+  },
+  {
+    "id": 899,
+    "answer": "USA",
+    "questionID": 300
+  },
+  {
+    "id": 900,
+    "answer": "Russia",
+    "questionID": 300
+  },
+  {
+    "id": 901,
+    "answer": "Tonga Trench",
+    "questionID": 301
+  },
+  {
+    "id": 902,
+    "answer": "Philippine Trench",
+    "questionID": 301
+  },
+  {
+    "id": 903,
+    "answer": "Java Trench",
+    "questionID": 301
+  },
+  {
+    "id": 904,
+    "answer": "Russia",
+    "questionID": 302
+  },
+  {
+    "id": 905,
+    "answer": "USA",
+    "questionID": 302
+  },
+  {
+    "id": 906,
+    "answer": "China",
+    "questionID": 302
+  },
+  {
+    "id": 907,
+    "answer": "Quito",
+    "questionID": 303
+  },
+  {
+    "id": 908,
+    "answer": "Thimphu",
+    "questionID": 303
+  },
+  {
+    "id": 909,
+    "answer": "Kathmandu",
+    "questionID": 303
+  },
+  {
+    "id": 910,
+    "answer": "Gobi Desert",
+    "questionID": 304
+  },
+  {
+    "id": 911,
+    "answer": "Siberian Desert",
+    "questionID": 304
+  },
+  {
+    "id": 912,
+    "answer": "Atacama Desert",
+    "questionID": 304
+  },
+  {
+    "id": 913,
+    "answer": "Saudi Arabia",
+    "questionID": 305
+  },
+  {
+    "id": 914,
+    "answer": "Canada",
+    "questionID": 305
+  },
+  {
+    "id": 915,
+    "answer": "Iran",
+    "questionID": 305
+  },
+  {
+    "id": 916,
+    "answer": "Lake Tanganyika",
+    "questionID": 306
+  },
+  {
+    "id": 917,
+    "answer": "Lake Malawi",
+    "questionID": 306
+  },
+  {
+    "id": 918,
+    "answer": "Lake Chad",
+    "questionID": 306
+  },
+  {
+    "id": 919,
+    "answer": "Nile",
+    "questionID": 307
+  },
+  {
+    "id": 920,
+    "answer": "Yangtze",
+    "questionID": 307
+  },
+  {
+    "id": 921,
+    "answer": "Mississippi",
+    "questionID": 307
+  },
+  {
+    "id": 922,
+    "answer": "Crete",
+    "questionID": 308
+  },
+  {
+    "id": 923,
+    "answer": "Cyprus",
+    "questionID": 308
+  },
+  {
+    "id": 924,
+    "answer": "Sardinia",
+    "questionID": 308
+  },
+  {
+    "id": 925,
+    "answer": "Himalayas",
+    "questionID": 309
+  },
+  {
+    "id": 926,
+    "answer": "Appalachians",
+    "questionID": 309
+  },
+  {
+    "id": 927,
+    "answer": "Rockies",
+    "questionID": 309
+  },
+  {
+    "id": 928,
+    "answer": "USA",
+    "questionID": 310
+  },
+  {
+    "id": 929,
+    "answer": "Canada",
+    "questionID": 310
+  },
+  {
+    "id": 930,
+    "answer": "Brazil",
+    "questionID": 310
+  },
+  {
+    "id": 931,
+    "answer": "Red Sea",
+    "questionID": 311
+  },
+  {
+    "id": 932,
+    "answer": "Mediterranean Sea",
+    "questionID": 311
+  },
+  {
+    "id": 933,
+    "answer": "Caspian Sea",
+    "questionID": 311
+  },
+  {
+    "id": 934,
+    "answer": "Hudson Bay",
+    "questionID": 312
+  },
+  {
+    "id": 935,
+    "answer": "Gulf of Mexico",
+    "questionID": 312
+  },
+  {
+    "id": 936,
+    "answer": "Arabian Sea",
+    "questionID": 312
+  },
+  {
+    "id": 937,
+    "answer": "Australia",
+    "questionID": 313
+  },
+  {
+    "id": 938,
+    "answer": "Russia",
+    "questionID": 313
+  },
+  {
+    "id": 939,
+    "answer": "Indonesia",
+    "questionID": 313
+  },
+  {
+    "id": 940,
+    "answer": "Lake Tanganyika",
+    "questionID": 314
+  },
+  {
+    "id": 941,
+    "answer": "Lake Superior",
+    "questionID": 314
+  },
+  {
+    "id": 942,
+    "answer": "Lake Malawi",
+    "questionID": 314
+  },
+  {
+    "id": 943,
+    "answer": "Canada",
+    "questionID": 315
+  },
+  {
+    "id": 944,
+    "answer": "Russia",
+    "questionID": 315
+  },
+  {
+    "id": 945,
+    "answer": "USA",
+    "questionID": 315
+  },
+  {
+    "id": 946,
+    "answer": "Iceland",
+    "questionID": 316
+  },
+  {
+    "id": 947,
+    "answer": "Norway",
+    "questionID": 316
+  },
+  {
+    "id": 948,
+    "answer": "Canada",
+    "questionID": 316
+  },
+  {
+    "id": 949,
+    "answer": "Mount Etna",
+    "questionID": 317
+  },
+  {
+    "id": 950,
+    "answer": "Mount Kilimanjaro",
+    "questionID": 317
+  },
+  {
+    "id": 951,
+    "answer": "Cotopaxi",
+    "questionID": 317
+  },
+  {
+    "id": 952,
+    "answer": "New Guinea",
+    "questionID": 318
+  },
+  {
+    "id": 953,
+    "answer": "Borneo",
+    "questionID": 318
+  },
+  {
+    "id": 954,
+    "answer": "Madagascar",
+    "questionID": 318
+  },
+  {
+    "id": 955,
+    "answer": "Sahara",
+    "questionID": 319
+  },
+  {
+    "id": 956,
+    "answer": "Gobi",
+    "questionID": 319
+  },
+  {
+    "id": 957,
+    "answer": "Kalahari",
+    "questionID": 319
+  },
+  {
+    "id": 958,
+    "answer": "Nile",
+    "questionID": 320
+  },
+  {
+    "id": 959,
+    "answer": "Amazon",
+    "questionID": 320
+  },
+  {
+    "id": 960,
+    "answer": "Mississippi",
+    "questionID": 320
+  },
+  {
+    "id": 961,
+    "answer": "Egypt",
+    "questionID": 321
+  },
+  {
+    "id": 962,
+    "answer": "Ethiopia",
+    "questionID": 321
+  },
+  {
+    "id": 963,
+    "answer": "South Africa",
+    "questionID": 321
+  },
+  {
+    "id": 964,
+    "answer": "Karakum",
+    "questionID": 322
+  },
+  {
+    "id": 965,
+    "answer": "Thar",
+    "questionID": 322
+  },
+  {
+    "id": 966,
+    "answer": "Taklamakan",
+    "questionID": 322
+  },
+  {
+    "id": 967,
+    "answer": "France",
+    "questionID": 323
+  },
+  {
+    "id": 968,
+    "answer": "Germany",
+    "questionID": 323
+  },
+  {
+    "id": 969,
+    "answer": "Ukraine",
+    "questionID": 323
+  },
+  {
+    "id": 970,
+    "answer": "Dead Sea",
+    "questionID": 324
+  },
+  {
+    "id": 971,
+    "answer": "Caspian Sea",
+    "questionID": 324
+  },
+  {
+    "id": 972,
+    "answer": "Baltic Sea",
+    "questionID": 324
+  },
+  {
+    "id": 973,
+    "answer": "Iberian Peninsula",
+    "questionID": 325
+  },
+  {
+    "id": 974,
+    "answer": "Indian Peninsula",
+    "questionID": 325
+  },
+  {
+    "id": 975,
+    "answer": "Scandinavian Peninsula",
+    "questionID": 325
+  },
+  {
+    "id": 976,
+    "answer": "China",
+    "questionID": 326
+  },
+  {
+    "id": 977,
+    "answer": "Spain",
+    "questionID": 326
+  },
+  {
+    "id": 978,
+    "answer": "France",
+    "questionID": 326
+  },
+  {
+    "id": 979,
+    "answer": "Argentina",
+    "questionID": 327
+  },
+  {
+    "id": 980,
+    "answer": "Peru",
+    "questionID": 327
+  },
+  {
+    "id": 981,
+    "answer": "Colombia",
+    "questionID": 327
+  },
+  {
+    "id": 982,
+    "answer": "Siachen Glacier",
+    "questionID": 328
+  },
+  {
+    "id": 983,
+    "answer": "Biafo Glacier",
+    "questionID": 328
+  },
+  {
+    "id": 984,
+    "answer": "Baltoro Glacier",
+    "questionID": 328
+  },
+  {
+    "id": 985,
+    "answer": "Russia",
+    "questionID": 329
+  },
+  {
+    "id": 986,
+    "answer": "India",
+    "questionID": 329
+  },
+  {
+    "id": 987,
+    "answer": "USA",
+    "questionID": 329
+  },
+  {
+    "id": 988,
+    "answer": "Japan",
+    "questionID": 330
+  },
+  {
+    "id": 989,
+    "answer": "Philippines",
+    "questionID": 330
+  },
+  {
+    "id": 990,
+    "answer": "Italy",
+    "questionID": 330
+  },
+  {
+    "id": 991,
+    "answer": "Congo",
+    "questionID": 331
+  },
+  {
+    "id": 992,
+    "answer": "Nile",
+    "questionID": 331
+  },
+  {
+    "id": 993,
+    "answer": "Yangtze",
+    "questionID": 331
+  },
+  {
+    "id": 994,
+    "answer": "Lake Victoria",
+    "questionID": 332
+  },
+  {
+    "id": 995,
+    "answer": "Lake Malawi",
+    "questionID": 332
+  },
+  {
+    "id": 996,
+    "answer": "Lake Chad",
+    "questionID": 332
+  },
+  {
+    "id": 997,
+    "answer": "Canada",
+    "questionID": 333
+  },
+  {
+    "id": 998,
+    "answer": "Norway",
+    "questionID": 333
+  },
+  {
+    "id": 999,
+    "answer": "USA",
+    "questionID": 333
+  },
+  {
+    "id": 1000,
+    "answer": "Mount Logan",
+    "questionID": 334
+  },
+  {
+    "id": 1001,
+    "answer": "Mount Saint Elias",
+    "questionID": 334
+  },
+  {
+    "id": 1002,
+    "answer": "Mount Whitney",
+    "questionID": 334
+  },
+  {
+    "id": 1003,
+    "answer": "Congo",
+    "questionID": 335
+  },
+  {
+    "id": 1004,
+    "answer": "Indonesia",
+    "questionID": 335
+  },
+  {
+    "id": 1005,
+    "answer": "Peru",
+    "questionID": 335
+  },
+  {
+    "id": 1006,
+    "answer": "Sweden",
+    "questionID": 336
+  },
+  {
+    "id": 1007,
+    "answer": "Norway",
+    "questionID": 336
+  },
+  {
+    "id": 1008,
+    "answer": "Russia",
+    "questionID": 336
+  },
+  {
+    "id": 1009,
+    "answer": "Kalahari",
+    "questionID": 337
+  },
+  {
+    "id": 1010,
+    "answer": "Namib",
+    "questionID": 337
+  },
+  {
+    "id": 1011,
+    "answer": "Gobi",
+    "questionID": 337
+  },
+  {
+    "id": 1012,
+    "answer": "Iceland",
+    "questionID": 338
+  },
+  {
+    "id": 1013,
+    "answer": "Canada",
+    "questionID": 338
+  },
+  {
+    "id": 1014,
+    "answer": "Norway",
+    "questionID": 338
+  },
+  {
+    "id": 1015,
+    "answer": "Cuba",
+    "questionID": 339
+  },
+  {
+    "id": 1016,
+    "answer": "Jamaica",
+    "questionID": 339
+  },
+  {
+    "id": 1017,
+    "answer": "Puerto Rico",
+    "questionID": 339
+  },
+  {
+    "id": 1018,
+    "answer": "Rockies",
+    "questionID": 340
+  },
+  {
+    "id": 1019,
+    "answer": "Himalayas",
+    "questionID": 340
+  },
+  {
+    "id": 1020,
+    "answer": "Alps",
+    "questionID": 340
+  },
+  {
+    "id": 1021,
+    "answer": "3",
+    "questionID": 341
+  },
+  {
+    "id": 1022,
+    "answer": "5",
+    "questionID": 341
+  },
+  {
+    "id": 1023,
+    "answer": "6",
+    "questionID": 341
+  },
+  {
+    "id": 1024,
+    "answer": "3",
+    "questionID": 342
+  },
+  {
+    "id": 1025,
+    "answer": "1",
+    "questionID": 342
+  },
+  {
+    "id": 1026,
+    "answer": "5",
+    "questionID": 342
+  },
+  {
+    "id": 1027,
+    "answer": "6",
+    "questionID": 343
+  },
+  {
+    "id": 1028,
+    "answer": "12",
+    "questionID": 343
+  },
+  {
+    "id": 1029,
+    "answer": "8",
+    "questionID": 343
+  },
+  {
+    "id": 1030,
+    "answer": "2",
+    "questionID": 344
+  },
+  {
+    "id": 1031,
+    "answer": "4",
+    "questionID": 344
+  },
+  {
+    "id": 1032,
+    "answer": "6",
+    "questionID": 344
+  },
+  {
+    "id": 1033,
+    "answer": "12",
+    "questionID": 345
+  },
+  {
+    "id": 1034,
+    "answer": "14",
+    "questionID": 345
+  },
+  {
+    "id": 1035,
+    "answer": "11",
+    "questionID": 345
+  },
+  {
+    "id": 1036,
+    "answer": "2",
+    "questionID": 346
+  },
+  {
+    "id": 1037,
+    "answer": "4",
+    "questionID": 346
+  },
+  {
+    "id": 1038,
+    "answer": "5",
+    "questionID": 346
+  },
+  {
+    "id": 1039,
+    "answer": "20",
+    "questionID": 347
+  },
+  {
+    "id": 1040,
+    "answer": "26",
+    "questionID": 347
+  },
+  {
+    "id": 1041,
+    "answer": "28",
+    "questionID": 347
+  },
+  {
+    "id": 1042,
+    "answer": "2",
+    "questionID": 348
+  },
+  {
+    "id": 1043,
+    "answer": "4",
+    "questionID": 348
+  },
+  {
+    "id": 1044,
+    "answer": "6",
+    "questionID": 348
+  },
+  {
+    "id": 1045,
+    "answer": "19",
+    "questionID": 349
+  },
+  {
+    "id": 1046,
+    "answer": "25",
+    "questionID": 349
+  },
+  {
+    "id": 1047,
+    "answer": "18",
+    "questionID": 349
+  },
+  {
+    "id": 1048,
+    "answer": "6",
+    "questionID": 350
+  },
+  {
+    "id": 1049,
+    "answer": "4",
+    "questionID": 350
+  },
+  {
+    "id": 1050,
+    "answer": "3",
+    "questionID": 350
+  },
+  {
+    "id": 1051,
+    "answer": "12",
+    "questionID": 351
+  },
+  {
+    "id": 1052,
+    "answer": "16",
+    "questionID": 351
+  },
+  {
+    "id": 1053,
+    "answer": "10",
+    "questionID": 351
+  },
+  {
+    "id": 1054,
+    "answer": "2",
+    "questionID": 352
+  },
+  {
+    "id": 1055,
+    "answer": "4",
+    "questionID": 352
+  },
+  {
+    "id": 1056,
+    "answer": "6",
+    "questionID": 352
+  },
+  {
+    "id": 1057,
+    "answer": "12",
+    "questionID": 353
+  },
+  {
+    "id": 1058,
+    "answer": "14",
+    "questionID": 353
+  },
+  {
+    "id": 1059,
+    "answer": "15",
+    "questionID": 353
+  },
+  {
+    "id": 1060,
+    "answer": "6",
+    "questionID": 354
+  },
+  {
+    "id": 1061,
+    "answer": "8",
+    "questionID": 354
+  },
+  {
+    "id": 1062,
+    "answer": "5",
+    "questionID": 354
+  },
+  {
+    "id": 1063,
+    "answer": "20",
+    "questionID": 355
+  },
+  {
+    "id": 1064,
+    "answer": "30",
+    "questionID": 355
+  },
+  {
+    "id": 1065,
+    "answer": "15",
+    "questionID": 355
+  },
+  {
+    "id": 1066,
+    "answer": "4",
+    "questionID": 356
+  },
+  {
+    "id": 1067,
+    "answer": "6",
+    "questionID": 356
+  },
+  {
+    "id": 1068,
+    "answer": "8",
+    "questionID": 356
+  },
+  {
+    "id": 1069,
+    "answer": "18",
+    "questionID": 357
+  },
+  {
+    "id": 1070,
+    "answer": "20",
+    "questionID": 357
+  },
+  {
+    "id": 1071,
+    "answer": "17",
+    "questionID": 357
+  },
+  {
+    "id": 1072,
+    "answer": "4",
+    "questionID": 358
+  },
+  {
+    "id": 1073,
+    "answer": "6",
+    "questionID": 358
+  },
+  {
+    "id": 1074,
+    "answer": "7",
+    "questionID": 358
+  },
+  {
+    "id": 1075,
+    "answer": "20",
+    "questionID": 359
+  },
+  {
+    "id": 1076,
+    "answer": "18",
+    "questionID": 359
+  },
+  {
+    "id": 1077,
+    "answer": "24",
+    "questionID": 359
+  },
+  {
+    "id": 1078,
+    "answer": "2",
+    "questionID": 360
+  },
+  {
+    "id": 1079,
+    "answer": "8",
+    "questionID": 360
+  },
+  {
+    "id": 1080,
+    "answer": "6",
+    "questionID": 360
+  },
+  {
+    "id": 1081,
+    "answer": "12",
+    "questionID": 361
+  },
+  {
+    "id": 1082,
+    "answer": "14",
+    "questionID": 361
+  },
+  {
+    "id": 1083,
+    "answer": "15",
+    "questionID": 361
+  },
+  {
+    "id": 1084,
+    "answer": "4",
+    "questionID": 362
+  },
+  {
+    "id": 1085,
+    "answer": "6",
+    "questionID": 362
+  },
+  {
+    "id": 1086,
+    "answer": "3",
+    "questionID": 362
+  },
+  {
+    "id": 1087,
+    "answer": "14",
+    "questionID": 363
+  },
+  {
+    "id": 1088,
+    "answer": "18",
+    "questionID": 363
+  },
+  {
+    "id": 1089,
+    "answer": "12",
+    "questionID": 363
+  },
+  {
+    "id": 1090,
+    "answer": "3",
+    "questionID": 364
+  },
+  {
+    "id": 1091,
+    "answer": "6",
+    "questionID": 364
+  },
+  {
+    "id": 1092,
+    "answer": "5",
+    "questionID": 364
+  },
+  {
+    "id": 1093,
+    "answer": "21",
+    "questionID": 365
+  },
+  {
+    "id": 1094,
+    "answer": "23",
+    "questionID": 365
+  },
+  {
+    "id": 1095,
+    "answer": "24",
+    "questionID": 365
+  },
+  {
+    "id": 1096,
+    "answer": "4",
+    "questionID": 366
+  },
+  {
+    "id": 1097,
+    "answer": "6",
+    "questionID": 366
+  },
+  {
+    "id": 1098,
+    "answer": "7",
+    "questionID": 366
+  },
+  {
+    "id": 1099,
+    "answer": "18",
+    "questionID": 367
+  },
+  {
+    "id": 1100,
+    "answer": "24",
+    "questionID": 367
+  },
+  {
+    "id": 1101,
+    "answer": "20",
+    "questionID": 367
+  },
+  {
+    "id": 1102,
+    "answer": "2",
+    "questionID": 368
+  },
+  {
+    "id": 1103,
+    "answer": "4",
+    "questionID": 368
+  },
+  {
+    "id": 1104,
+    "answer": "6",
+    "questionID": 368
+  },
+  {
+    "id": 1105,
+    "answer": "13",
+    "questionID": 369
+  },
+  {
+    "id": 1106,
+    "answer": "15",
+    "questionID": 369
+  },
+  {
+    "id": 1107,
+    "answer": "12",
+    "questionID": 369
+  },
+  {
+    "id": 1108,
+    "answer": "4",
+    "questionID": 370
+  },
+  {
+    "id": 1109,
+    "answer": "6",
+    "questionID": 370
+  },
+  {
+    "id": 1110,
+    "answer": "7",
+    "questionID": 370
+  },
+  {
+    "id": 1111,
+    "answer": "20",
+    "questionID": 371
+  },
+  {
+    "id": 1112,
+    "answer": "18",
+    "questionID": 371
+  },
+  {
+    "id": 1113,
+    "answer": "26",
+    "questionID": 371
+  },
+  {
+    "id": 1114,
+    "answer": "5",
+    "questionID": 372
+  },
+  {
+    "id": 1115,
+    "answer": "6",
+    "questionID": 372
+  },
+  {
+    "id": 1116,
+    "answer": "3",
+    "questionID": 372
+  },
+  {
+    "id": 1117,
+    "answer": "14",
+    "questionID": 373
+  },
+  {
+    "id": 1118,
+    "answer": "16",
+    "questionID": 373
+  },
+  {
+    "id": 1119,
+    "answer": "13",
+    "questionID": 373
+  },
+  {
+    "id": 1120,
+    "answer": "2",
+    "questionID": 374
+  },
+  {
+    "id": 1121,
+    "answer": "4",
+    "questionID": 374
+  },
+  {
+    "id": 1122,
+    "answer": "5",
+    "questionID": 374
+  },
+  {
+    "id": 1123,
+    "answer": "35",
+    "questionID": 375
+  },
+  {
+    "id": 1124,
+    "answer": "45",
+    "questionID": 375
+  },
+  {
+    "id": 1125,
+    "answer": "30",
+    "questionID": 375
+  },
+  {
+    "id": 1126,
+    "answer": "4",
+    "questionID": 376
+  },
+  {
+    "id": 1127,
+    "answer": "8",
+    "questionID": 376
+  },
+  {
+    "id": 1128,
+    "answer": "3",
+    "questionID": 376
+  },
+  {
+    "id": 1129,
+    "answer": "20",
+    "questionID": 377
+  },
+  {
+    "id": 1130,
+    "answer": "22",
+    "questionID": 377
+  },
+  {
+    "id": 1131,
+    "answer": "23",
+    "questionID": 377
+  },
+  {
+    "id": 1132,
+    "answer": "7",
+    "questionID": 378
+  },
+  {
+    "id": 1133,
+    "answer": "9",
+    "questionID": 378
+  },
+  {
+    "id": 1134,
+    "answer": "6",
+    "questionID": 378
+  },
+  {
+    "id": 1135,
+    "answer": "24",
+    "questionID": 379
+  },
+  {
+    "id": 1136,
+    "answer": "30",
+    "questionID": 379
+  },
+  {
+    "id": 1137,
+    "answer": "21",
+    "questionID": 379
+  },
+  {
+    "id": 1138,
+    "answer": "3",
+    "questionID": 380
+  },
+  {
+    "id": 1139,
+    "answer": "5",
+    "questionID": 380
+  },
+  {
+    "id": 1140,
+    "answer": "9",
+    "questionID": 380
+  },
+  {
+    "id": 1141,
+    "answer": "14",
+    "questionID": 381
+  },
+  {
+    "id": 1142,
+    "answer": "16",
+    "questionID": 381
+  },
+  {
+    "id": 1143,
+    "answer": "13",
+    "questionID": 381
+  },
+  {
+    "id": 1144,
+    "answer": "5",
+    "questionID": 382
+  },
+  {
+    "id": 1145,
+    "answer": "7",
+    "questionID": 382
+  },
+  {
+    "id": 1146,
+    "answer": "4",
+    "questionID": 382
+  },
+  {
+    "id": 1147,
+    "answer": "25",
+    "questionID": 383
+  },
+  {
+    "id": 1148,
+    "answer": "35",
+    "questionID": 383
+  },
+  {
+    "id": 1149,
+    "answer": "36",
+    "questionID": 383
+  },
+  {
+    "id": 1150,
+    "answer": "3",
+    "questionID": 384
+  },
+  {
+    "id": 1151,
+    "answer": "4",
+    "questionID": 384
+  },
+  {
+    "id": 1152,
+    "answer": "6",
+    "questionID": 384
+  },
+  {
+    "id": 1153,
+    "answer": "15",
+    "questionID": 385
+  },
+  {
+    "id": 1154,
+    "answer": "17",
+    "questionID": 385
+  },
+  {
+    "id": 1155,
+    "answer": "18",
+    "questionID": 385
+  },
+  {
+    "id": 1156,
+    "answer": "5",
+    "questionID": 386
+  },
+  {
+    "id": 1157,
+    "answer": "7",
+    "questionID": 386
+  },
+  {
+    "id": 1158,
+    "answer": "4",
+    "questionID": 386
+  },
+  {
+    "id": 1159,
+    "answer": "24",
+    "questionID": 387
+  },
+  {
+    "id": 1160,
+    "answer": "32",
+    "questionID": 387
+  },
+  {
+    "id": 1161,
+    "answer": "30",
+    "questionID": 387
+  },
+  {
+    "id": 1162,
+    "answer": "8",
+    "questionID": 388
+  },
+  {
+    "id": 1163,
+    "answer": "12",
+    "questionID": 388
+  },
+  {
+    "id": 1164,
+    "answer": "5",
+    "questionID": 388
+  },
+  {
+    "id": 1165,
+    "answer": "18",
+    "questionID": 389
+  },
+  {
+    "id": 1166,
+    "answer": "20",
+    "questionID": 389
+  },
+  {
+    "id": 1167,
+    "answer": "21",
+    "questionID": 389
+  },
+  {
+    "id": 1168,
+    "answer": "6",
+    "questionID": 390
+  },
+  {
+    "id": 1169,
+    "answer": "8",
+    "questionID": 390
+  },
+  {
+    "id": 1170,
+    "answer": "9",
+    "questionID": 390
+  },
+  {
+    "id": 1171,
+    "answer": "25",
+    "questionID": 391
+  },
+  {
+    "id": 1172,
+    "answer": "35",
+    "questionID": 391
+  },
+  {
+    "id": 1173,
+    "answer": "36",
+    "questionID": 391
+  },
+  {
+    "id": 1174,
+    "answer": "6",
+    "questionID": 392
+  },
+  {
+    "id": 1175,
+    "answer": "8",
+    "questionID": 392
+  },
+  {
+    "id": 1176,
+    "answer": "10",
+    "questionID": 392
+  },
+  {
+    "id": 1177,
+    "answer": "14",
+    "questionID": 393
+  },
+  {
+    "id": 1178,
+    "answer": "16",
+    "questionID": 393
+  },
+  {
+    "id": 1179,
+    "answer": "13",
+    "questionID": 393
+  },
+  {
+    "id": 1180,
+    "answer": "5",
+    "questionID": 394
+  },
+  {
+    "id": 1181,
+    "answer": "7",
+    "questionID": 394
+  },
+  {
+    "id": 1182,
+    "answer": "4",
+    "questionID": 394
+  },
+  {
+    "id": 1183,
+    "answer": "21",
+    "questionID": 395
+  },
+  {
+    "id": 1184,
+    "answer": "26",
+    "questionID": 395
+  },
+  {
+    "id": 1185,
+    "answer": "28",
+    "questionID": 395
+  },
+  {
+    "id": 1186,
+    "answer": "4",
+    "questionID": 396
+  },
+  {
+    "id": 1187,
+    "answer": "6",
+    "questionID": 396
+  },
+  {
+    "id": 1188,
+    "answer": "10",
+    "questionID": 396
+  },
+  {
+    "id": 1189,
+    "answer": "15",
+    "questionID": 397
+  },
+  {
+    "id": 1190,
+    "answer": "17",
+    "questionID": 397
+  },
+  {
+    "id": 1191,
+    "answer": "18",
+    "questionID": 397
+  },
+  {
+    "id": 1192,
+    "answer": "6",
+    "questionID": 398
+  },
+  {
+    "id": 1193,
+    "answer": "8",
+    "questionID": 398
+  },
+  {
+    "id": 1194,
+    "answer": "9",
+    "questionID": 398
+  },
+  {
+    "id": 1195,
+    "answer": "40",
+    "questionID": 399
+  },
+  {
+    "id": 1196,
+    "answer": "50",
+    "questionID": 399
+  },
+  {
+    "id": 1197,
+    "answer": "35",
+    "questionID": 399
+  },
+  {
+    "id": 1198,
+    "answer": "5",
+    "questionID": 400
+  },
+  {
+    "id": 1199,
+    "answer": "3",
+    "questionID": 400
+  },
+  {
+    "id": 1200,
+    "answer": "6",
+    "questionID": 400
+  },
+  {
+    "id": 1201,
+    "answer": "142",
+    "questionID": 401
+  },
+  {
+    "id": 1202,
+    "answer": "148",
+    "questionID": 401
+  },
+  {
+    "id": 1203,
+    "answer": "154",
+    "questionID": 401
+  },
+  {
+    "id": 1204,
+    "answer": "10",
+    "questionID": 402
+  },
+  {
+    "id": 1205,
+    "answer": "14",
+    "questionID": 402
+  },
+  {
+    "id": 1206,
+    "answer": "16",
+    "questionID": 402
+  },
+  {
+    "id": 1207,
+    "answer": "90",
+    "questionID": 403
+  },
+  {
+    "id": 1208,
+    "answer": "95",
+    "questionID": 403
+  },
+  {
+    "id": 1209,
+    "answer": "110",
+    "questionID": 403
+  },
+  {
+    "id": 1210,
+    "answer": "8",
+    "questionID": 404
+  },
+  {
+    "id": 1211,
+    "answer": "10",
+    "questionID": 404
+  },
+  {
+    "id": 1212,
+    "answer": "12",
+    "questionID": 404
+  },
+  {
+    "id": 1213,
+    "answer": "80",
+    "questionID": 405
+  },
+  {
+    "id": 1214,
+    "answer": "100",
+    "questionID": 405
+  },
+  {
+    "id": 1215,
+    "answer": "95",
+    "questionID": 405
+  },
+  {
+    "id": 1216,
+    "answer": "8",
+    "questionID": 406
+  },
+  {
+    "id": 1217,
+    "answer": "10",
+    "questionID": 406
+  },
+  {
+    "id": 1218,
+    "answer": "12",
+    "questionID": 406
+  },
+  {
+    "id": 1219,
+    "answer": "80",
+    "questionID": 407
+  },
+  {
+    "id": 1220,
+    "answer": "95",
+    "questionID": 407
+  },
+  {
+    "id": 1221,
+    "answer": "85",
+    "questionID": 407
+  },
+  {
+    "id": 1222,
+    "answer": "20",
+    "questionID": 408
+  },
+  {
+    "id": 1223,
+    "answer": "24",
+    "questionID": 408
+  },
+  {
+    "id": 1224,
+    "answer": "30",
+    "questionID": 408
+  },
+  {
+    "id": 1225,
+    "answer": "96",
+    "questionID": 409
+  },
+  {
+    "id": 1226,
+    "answer": "100",
+    "questionID": 409
+  },
+  {
+    "id": 1227,
+    "answer": "94",
+    "questionID": 409
+  },
+  {
+    "id": 1228,
+    "answer": "9",
+    "questionID": 410
+  },
+  {
+    "id": 1229,
+    "answer": "6",
+    "questionID": 410
+  },
+  {
+    "id": 1230,
+    "answer": "7",
+    "questionID": 410
+  },
+  {
+    "id": 1231,
+    "answer": "64",
+    "questionID": 411
+  },
+  {
+    "id": 1232,
+    "answer": "69",
+    "questionID": 411
+  },
+  {
+    "id": 1233,
+    "answer": "63",
+    "questionID": 411
+  },
+  {
+    "id": 1234,
+    "answer": "8",
+    "questionID": 412
+  },
+  {
+    "id": 1235,
+    "answer": "7",
+    "questionID": 412
+  },
+  {
+    "id": 1236,
+    "answer": "10",
+    "questionID": 412
+  },
+  {
+    "id": 1237,
+    "answer": "102",
+    "questionID": 413
+  },
+  {
+    "id": 1238,
+    "answer": "100",
+    "questionID": 413
+  },
+  {
+    "id": 1239,
+    "answer": "106",
+    "questionID": 413
+  },
+  {
+    "id": 1240,
+    "answer": "20",
+    "questionID": 414
+  },
+  {
+    "id": 1241,
+    "answer": "25",
+    "questionID": 414
+  },
+  {
+    "id": 1242,
+    "answer": "22",
+    "questionID": 414
+  },
+  {
+    "id": 1243,
+    "answer": "100",
+    "questionID": 415
+  },
+  {
+    "id": 1244,
+    "answer": "104",
+    "questionID": 415
+  },
+  {
+    "id": 1245,
+    "answer": "108",
+    "questionID": 415
+  },
+  {
+    "id": 1246,
+    "answer": "10",
+    "questionID": 416
+  },
+  {
+    "id": 1247,
+    "answer": "11",
+    "questionID": 416
+  },
+  {
+    "id": 1248,
+    "answer": "14",
+    "questionID": 416
+  },
+  {
+    "id": 1249,
+    "answer": "80",
+    "questionID": 417
+  },
+  {
+    "id": 1250,
+    "answer": "86",
+    "questionID": 417
+  },
+  {
+    "id": 1251,
+    "answer": "88",
+    "questionID": 417
+  },
+  {
+    "id": 1252,
+    "answer": "15",
+    "questionID": 418
+  },
+  {
+    "id": 1253,
+    "answer": "16",
+    "questionID": 418
+  },
+  {
+    "id": 1254,
+    "answer": "20",
+    "questionID": 418
+  },
+  {
+    "id": 1255,
+    "answer": "54",
+    "questionID": 419
+  },
+  {
+    "id": 1256,
+    "answer": "60",
+    "questionID": 419
+  },
+  {
+    "id": 1257,
+    "answer": "56",
+    "questionID": 419
+  },
+  {
+    "id": 1258,
+    "answer": "16",
+    "questionID": 420
+  },
+  {
+    "id": 1259,
+    "answer": "20",
+    "questionID": 420
+  },
+  {
+    "id": 1260,
+    "answer": "19",
+    "questionID": 420
+  },
+  {
+    "id": 1261,
+    "answer": "110",
+    "questionID": 421
+  },
+  {
+    "id": 1262,
+    "answer": "114",
+    "questionID": 421
+  },
+  {
+    "id": 1263,
+    "answer": "108",
+    "questionID": 421
+  },
+  {
+    "id": 1264,
+    "answer": "12",
+    "questionID": 422
+  },
+  {
+    "id": 1265,
+    "answer": "16",
+    "questionID": 422
+  },
+  {
+    "id": 1266,
+    "answer": "18",
+    "questionID": 422
+  },
+  {
+    "id": 1267,
+    "answer": "120",
+    "questionID": 423
+  },
+  {
+    "id": 1268,
+    "answer": "130",
+    "questionID": 423
+  },
+  {
+    "id": 1269,
+    "answer": "124",
+    "questionID": 423
+  },
+  {
+    "id": 1270,
+    "answer": "20",
+    "questionID": 424
+  },
+  {
+    "id": 1271,
+    "answer": "30",
+    "questionID": 424
+  },
+  {
+    "id": 1272,
+    "answer": "24",
+    "questionID": 424
+  },
+  {
+    "id": 1273,
+    "answer": "100",
+    "questionID": 425
+  },
+  {
+    "id": 1274,
+    "answer": "110",
+    "questionID": 425
+  },
+  {
+    "id": 1275,
+    "answer": "125",
+    "questionID": 425
+  },
+  {
+    "id": 1276,
+    "answer": "10",
+    "questionID": 426
+  },
+  {
+    "id": 1277,
+    "answer": "12",
+    "questionID": 426
+  },
+  {
+    "id": 1278,
+    "answer": "13",
+    "questionID": 426
+  },
+  {
+    "id": 1279,
+    "answer": "80",
+    "questionID": 427
+  },
+  {
+    "id": 1280,
+    "answer": "86",
+    "questionID": 427
+  },
+  {
+    "id": 1281,
+    "answer": "90",
+    "questionID": 427
+  },
+  {
+    "id": 1282,
+    "answer": "16",
+    "questionID": 428
+  },
+  {
+    "id": 1283,
+    "answer": "20",
+    "questionID": 428
+  },
+  {
+    "id": 1284,
+    "answer": "15",
+    "questionID": 428
+  },
+  {
+    "id": 1285,
+    "answer": "96",
+    "questionID": 429
+  },
+  {
+    "id": 1286,
+    "answer": "100",
+    "questionID": 429
+  },
+  {
+    "id": 1287,
+    "answer": "102",
+    "questionID": 429
+  },
+  {
+    "id": 1288,
+    "answer": "22",
+    "questionID": 430
+  },
+  {
+    "id": 1289,
+    "answer": "26",
+    "questionID": 430
+  },
+  {
+    "id": 1290,
+    "answer": "20",
+    "questionID": 430
+  },
+  {
+    "id": 1291,
+    "answer": "140",
+    "questionID": 431
+  },
+  {
+    "id": 1292,
+    "answer": "146",
+    "questionID": 431
+  },
+  {
+    "id": 1293,
+    "answer": "150",
+    "questionID": 431
+  },
+  {
+    "id": 1294,
+    "answer": "22",
+    "questionID": 432
+  },
+  {
+    "id": 1295,
+    "answer": "26",
+    "questionID": 432
+  },
+  {
+    "id": 1296,
+    "answer": "20",
+    "questionID": 432
+  },
+  {
+    "id": 1297,
+    "answer": "130",
+    "questionID": 433
+  },
+  {
+    "id": 1298,
+    "answer": "140",
+    "questionID": 433
+  },
+  {
+    "id": 1299,
+    "answer": "125",
+    "questionID": 433
+  },
+  {
+    "id": 1300,
+    "answer": "14",
+    "questionID": 434
+  },
+  {
+    "id": 1301,
+    "answer": "16",
+    "questionID": 434
+  },
+  {
+    "id": 1302,
+    "answer": "18",
+    "questionID": 434
+  },
+  {
+    "id": 1303,
+    "answer": "85",
+    "questionID": 435
+  },
+  {
+    "id": 1304,
+    "answer": "95",
+    "questionID": 435
+  },
+  {
+    "id": 1305,
+    "answer": "100",
+    "questionID": 435
+  },
+  {
+    "id": 1306,
+    "answer": "8",
+    "questionID": 436
+  },
+  {
+    "id": 1307,
+    "answer": "10",
+    "questionID": 436
+  },
+  {
+    "id": 1308,
+    "answer": "11",
+    "questionID": 436
+  },
+  {
+    "id": 1309,
+    "answer": "92",
+    "questionID": 437
+  },
+  {
+    "id": 1310,
+    "answer": "100",
+    "questionID": 437
+  },
+  {
+    "id": 1311,
+    "answer": "90",
+    "questionID": 437
+  },
+  {
+    "id": 1312,
+    "answer": "16",
+    "questionID": 438
+  },
+  {
+    "id": 1313,
+    "answer": "20",
+    "questionID": 438
+  },
+  {
+    "id": 1314,
+    "answer": "19",
+    "questionID": 438
+  },
+  {
+    "id": 1315,
+    "answer": "92",
+    "questionID": 439
+  },
+  {
+    "id": 1316,
+    "answer": "100",
+    "questionID": 439
+  },
+  {
+    "id": 1317,
+    "answer": "90",
+    "questionID": 439
+  },
+  {
+    "id": 1318,
+    "answer": "20",
+    "questionID": 440
+  },
+  {
+    "id": 1319,
+    "answer": "22",
+    "questionID": 440
+  },
+  {
+    "id": 1320,
+    "answer": "23",
+    "questionID": 440
+  },
+  {
+    "id": 1321,
+    "answer": "130",
+    "questionID": 441
+  },
+  {
+    "id": 1322,
+    "answer": "140",
+    "questionID": 441
+  },
+  {
+    "id": 1323,
+    "answer": "125",
+    "questionID": 441
+  },
+  {
+    "id": 1324,
+    "answer": "14",
+    "questionID": 442
+  },
+  {
+    "id": 1325,
+    "answer": "18",
+    "questionID": 442
+  },
+  {
+    "id": 1326,
+    "answer": "12",
+    "questionID": 442
+  },
+  {
+    "id": 1327,
+    "answer": "110",
+    "questionID": 443
+  },
+  {
+    "id": 1328,
+    "answer": "112",
+    "questionID": 443
+  },
+  {
+    "id": 1329,
+    "answer": "106",
+    "questionID": 443
+  },
+  {
+    "id": 1330,
+    "answer": "12",
+    "questionID": 444
+  },
+  {
+    "id": 1331,
+    "answer": "16",
+    "questionID": 444
+  },
+  {
+    "id": 1332,
+    "answer": "18",
+    "questionID": 444
+  },
+  {
+    "id": 1333,
+    "answer": "140",
+    "questionID": 445
+  },
+  {
+    "id": 1334,
+    "answer": "146",
+    "questionID": 445
+  },
+  {
+    "id": 1335,
+    "answer": "150",
+    "questionID": 445
+  },
+  {
+    "id": 1336,
+    "answer": "10",
+    "questionID": 446
+  },
+  {
+    "id": 1337,
+    "answer": "14",
+    "questionID": 446
+  },
+  {
+    "id": 1338,
+    "answer": "16",
+    "questionID": 446
+  },
+  {
+    "id": 1339,
+    "answer": "134",
+    "questionID": 447
+  },
+  {
+    "id": 1340,
+    "answer": "138",
+    "questionID": 447
+  },
+  {
+    "id": 1341,
+    "answer": "140",
+    "questionID": 447
+  },
+  {
+    "id": 1342,
+    "answer": "10",
+    "questionID": 448
+  },
+  {
+    "id": 1343,
+    "answer": "11",
+    "questionID": 448
+  },
+  {
+    "id": 1344,
+    "answer": "14",
+    "questionID": 448
+  },
+  {
+    "id": 1345,
+    "answer": "100",
+    "questionID": 449
+  },
+  {
+    "id": 1346,
+    "answer": "110",
+    "questionID": 449
+  },
+  {
+    "id": 1347,
+    "answer": "102",
+    "questionID": 449
+  },
+  {
+    "id": 1348,
+    "answer": "12",
+    "questionID": 450
+  },
+  {
+    "id": 1349,
+    "answer": "18",
+    "questionID": 450
+  },
+  {
+    "id": 1350,
+    "answer": "14",
+    "questionID": 450
+  },
+  {
+    "id": 1351,
+    "answer": "114",
+    "questionID": 451
+  },
+  {
+    "id": 1352,
+    "answer": "120",
+    "questionID": 451
+  },
+  {
+    "id": 1353,
+    "answer": "119",
+    "questionID": 451
+  },
+  {
+    "id": 1354,
+    "answer": "12",
+    "questionID": 452
+  },
+  {
+    "id": 1355,
+    "answer": "16",
+    "questionID": 452
+  },
+  {
+    "id": 1356,
+    "answer": "15",
+    "questionID": 452
+  },
+  {
+    "id": 1357,
+    "answer": "140",
+    "questionID": 453
+  },
+  {
+    "id": 1358,
+    "answer": "146",
+    "questionID": 453
+  },
+  {
+    "id": 1359,
+    "answer": "150",
+    "questionID": 453
+  },
+  {
+    "id": 1360,
+    "answer": "10",
+    "questionID": 454
+  },
+  {
+    "id": 1361,
+    "answer": "14",
+    "questionID": 454
+  },
+  {
+    "id": 1362,
+    "answer": "15",
+    "questionID": 454
+  },
+  {
+    "id": 1363,
+    "answer": "150",
+    "questionID": 455
+  },
+  {
+    "id": 1364,
+    "answer": "156",
+    "questionID": 455
+  },
+  {
+    "id": 1365,
+    "answer": "158",
+    "questionID": 455
+  },
+  {
+    "id": 1366,
+    "answer": "10",
+    "questionID": 456
+  },
+  {
+    "id": 1367,
+    "answer": "12",
+    "questionID": 456
+  },
+  {
+    "id": 1368,
+    "answer": "13",
+    "questionID": 456
+  },
+  {
+    "id": 1369,
+    "answer": "118",
+    "questionID": 457
+  },
+  {
+    "id": 1370,
+    "answer": "125",
+    "questionID": 457
+  },
+  {
+    "id": 1371,
+    "answer": "115",
+    "questionID": 457
+  },
+  {
+    "id": 1372,
+    "answer": "18",
+    "questionID": 458
+  },
+  {
+    "id": 1373,
+    "answer": "22",
+    "questionID": 458
+  },
+  {
+    "id": 1374,
+    "answer": "21",
+    "questionID": 458
+  },
+  {
+    "id": 1375,
+    "answer": "116",
+    "questionID": 459
+  },
+  {
+    "id": 1376,
+    "answer": "121",
+    "questionID": 459
+  },
+  {
+    "id": 1377,
+    "answer": "115",
+    "questionID": 459
+  },
+  {
+    "id": 1378,
+    "answer": "14",
+    "questionID": 460
+  },
+  {
+    "id": 1379,
+    "answer": "18",
+    "questionID": 460
+  },
+  {
+    "id": 1380,
+    "answer": "15",
+    "questionID": 460
+  },
+  {
+    "id": 1381,
+    "answer": "14",
+    "questionID": 461
+  },
+  {
+    "id": 1382,
+    "answer": "18",
+    "questionID": 461
+  },
+  {
+    "id": 1383,
+    "answer": "12",
+    "questionID": 461
+  },
+  {
+    "id": 1384,
+    "answer": "217",
+    "questionID": 462
+  },
+  {
+    "id": 1385,
+    "answer": "225",
+    "questionID": 462
+  },
+  {
+    "id": 1386,
+    "answer": "219",
+    "questionID": 462
+  },
+  {
+    "id": 1387,
+    "answer": "30",
+    "questionID": 463
+  },
+  {
+    "id": 1388,
+    "answer": "34",
+    "questionID": 463
+  },
+  {
+    "id": 1389,
+    "answer": "28",
+    "questionID": 463
+  },
+  {
+    "id": 1390,
+    "answer": "80",
+    "questionID": 464
+  },
+  {
+    "id": 1391,
+    "answer": "90",
+    "questionID": 464
+  },
+  {
+    "id": 1392,
+    "answer": "75",
+    "questionID": 464
+  },
+  {
+    "id": 1393,
+    "answer": "150",
+    "questionID": 465
+  },
+  {
+    "id": 1394,
+    "answer": "190",
+    "questionID": 465
+  },
+  {
+    "id": 1395,
+    "answer": "200",
+    "questionID": 465
+  },
+  {
+    "id": 1396,
+    "answer": "336",
+    "questionID": 466
+  },
+  {
+    "id": 1397,
+    "answer": "350",
+    "questionID": 466
+  },
+  {
+    "id": 1398,
+    "answer": "340",
+    "questionID": 466
+  },
+  {
+    "id": 1399,
+    "answer": "20",
+    "questionID": 467
+  },
+  {
+    "id": 1400,
+    "answer": "30",
+    "questionID": 467
+  },
+  {
+    "id": 1401,
+    "answer": "24",
+    "questionID": 467
+  },
+  {
+    "id": 1402,
+    "answer": "150",
+    "questionID": 468
+  },
+  {
+    "id": 1403,
+    "answer": "160",
+    "questionID": 468
+  },
+  {
+    "id": 1404,
+    "answer": "158",
+    "questionID": 468
+  },
+  {
+    "id": 1405,
+    "answer": "20",
+    "questionID": 469
+  },
+  {
+    "id": 1406,
+    "answer": "22",
+    "questionID": 469
+  },
+  {
+    "id": 1407,
+    "answer": "26",
+    "questionID": 469
+  },
+  {
+    "id": 1408,
+    "answer": "400",
+    "questionID": 470
+  },
+  {
+    "id": 1409,
+    "answer": "410",
+    "questionID": 470
+  },
+  {
+    "id": 1410,
+    "answer": "395",
+    "questionID": 470
+  },
+  {
+    "id": 1411,
+    "answer": "305",
+    "questionID": 471
+  },
+  {
+    "id": 1412,
+    "answer": "325",
+    "questionID": 471
+  },
+  {
+    "id": 1413,
+    "answer": "315",
+    "questionID": 471
+  },
+  {
+    "id": 1414,
+    "answer": "600",
+    "questionID": 472
+  },
+  {
+    "id": 1415,
+    "answer": "6250",
+    "questionID": 472
+  },
+  {
+    "id": 1416,
+    "answer": "640",
+    "questionID": 472
+  },
+  {
+    "id": 1417,
+    "answer": "568",
+    "questionID": 473
+  },
+  {
+    "id": 1418,
+    "answer": "580",
+    "questionID": 473
+  },
+  {
+    "id": 1419,
+    "answer": "590",
+    "questionID": 473
+  },
+  {
+    "id": 1420,
+    "answer": "34",
+    "questionID": 474
+  },
+  {
+    "id": 1421,
+    "answer": "38",
+    "questionID": 474
+  },
+  {
+    "id": 1422,
+    "answer": "32",
+    "questionID": 474
+  },
+  {
+    "id": 1423,
+    "answer": "540",
+    "questionID": 475
+  },
+  {
+    "id": 1424,
+    "answer": "550",
+    "questionID": 475
+  },
+  {
+    "id": 1425,
+    "answer": "560",
+    "questionID": 475
+  },
+  {
+    "id": 1426,
+    "answer": "720",
+    "questionID": 476
+  },
+  {
+    "id": 1427,
+    "answer": "735",
+    "questionID": 476
+  },
+  {
+    "id": 1428,
+    "answer": "740",
+    "questionID": 476
+  },
+  {
+    "id": 1429,
+    "answer": "600",
+    "questionID": 477
+  },
+  {
+    "id": 1430,
+    "answer": "630",
+    "questionID": 477
+  },
+  {
+    "id": 1431,
+    "answer": "615",
+    "questionID": 477
+  },
+  {
+    "id": 1432,
+    "answer": "60",
+    "questionID": 478
+  },
+  {
+    "id": 1433,
+    "answer": "65",
+    "questionID": 478
+  },
+  {
+    "id": 1434,
+    "answer": "70",
+    "questionID": 478
+  },
+  {
+    "id": 1435,
+    "answer": "1300",
+    "questionID": 479
+  },
+  {
+    "id": 1436,
+    "answer": "1340",
+    "questionID": 479
+  },
+  {
+    "id": 1437,
+    "answer": "1320",
+    "questionID": 479
+  },
+  {
+    "id": 1438,
+    "answer": "300",
+    "questionID": 480
+  },
+  {
+    "id": 1439,
+    "answer": "295",
+    "questionID": 480
+  },
+  {
+    "id": 1440,
+    "answer": "305",
+    "questionID": 480
+  },
+  {
+    "id": 1441,
+    "answer": "470",
+    "questionID": 481
+  },
+  {
+    "id": 1442,
+    "answer": "480",
+    "questionID": 481
+  },
+  {
+    "id": 1443,
+    "answer": "468",
+    "questionID": 481
+  },
+  {
+    "id": 1444,
+    "answer": "20",
+    "questionID": 482
+  },
+  {
+    "id": 1445,
+    "answer": "30",
+    "questionID": 482
+  },
+  {
+    "id": 1446,
+    "answer": "24",
+    "questionID": 482
+  },
+  {
+    "id": 1447,
+    "answer": "1000",
+    "questionID": 483
+  },
+  {
+    "id": 1448,
+    "answer": "1040",
+    "questionID": 483
+  },
+  {
+    "id": 1449,
+    "answer": "1016",
+    "questionID": 483
+  },
+  {
+    "id": 1450,
+    "answer": "55",
+    "questionID": 484
+  },
+  {
+    "id": 1451,
+    "answer": "65",
+    "questionID": 484
+  },
+  {
+    "id": 1452,
+    "answer": "50",
+    "questionID": 484
+  },
+  {
+    "id": 1453,
+    "answer": "500",
+    "questionID": 485
+  },
+  {
+    "id": 1454,
+    "answer": "510",
+    "questionID": 485
+  },
+  {
+    "id": 1455,
+    "answer": "520",
+    "questionID": 485
+  },
+  {
+    "id": 1456,
+    "answer": "56",
+    "questionID": 486
+  },
+  {
+    "id": 1457,
+    "answer": "60",
+    "questionID": 486
+  },
+  {
+    "id": 1458,
+    "answer": "65",
+    "questionID": 486
+  },
+  {
+    "id": 1459,
+    "answer": "2100",
+    "questionID": 487
+  },
+  {
+    "id": 1460,
+    "answer": "2200",
+    "questionID": 487
+  },
+  {
+    "id": 1461,
+    "answer": "2180",
+    "questionID": 487
+  },
+  {
+    "id": 1462,
+    "answer": "850",
+    "questionID": 488
+  },
+  {
+    "id": 1463,
+    "answer": "860",
+    "questionID": 488
+  },
+  {
+    "id": 1464,
+    "answer": "845",
+    "questionID": 488
+  },
+  {
+    "id": 1465,
+    "answer": "16",
+    "questionID": 489
+  },
+  {
+    "id": 1466,
+    "answer": "20",
+    "questionID": 489
+  },
+  {
+    "id": 1467,
+    "answer": "15",
+    "questionID": 489
+  },
+  {
+    "id": 1468,
+    "answer": "600",
+    "questionID": 490
+  },
+  {
+    "id": 1469,
+    "answer": "620",
+    "questionID": 490
+  },
+  {
+    "id": 1470,
+    "answer": "605",
+    "questionID": 490
+  },
+  {
+    "id": 1471,
+    "answer": "700",
+    "questionID": 491
+  },
+  {
+    "id": 1472,
+    "answer": "720",
+    "questionID": 491
+  },
+  {
+    "id": 1473,
+    "answer": "710",
+    "questionID": 491
+  },
+  {
+    "id": 1474,
+    "answer": "500",
+    "questionID": 492
+  },
+  {
+    "id": 1475,
+    "answer": "520",
+    "questionID": 492
+  },
+  {
+    "id": 1476,
+    "answer": "510",
+    "questionID": 492
+  },
+  {
+    "id": 1477,
+    "answer": "750",
+    "questionID": 493
+  },
+  {
+    "id": 1478,
+    "answer": "760",
+    "questionID": 493
+  },
+  {
+    "id": 1479,
+    "answer": "770",
+    "questionID": 493
+  },
+  {
+    "id": 1480,
+    "answer": "52",
+    "questionID": 494
+  },
+  {
+    "id": 1481,
+    "answer": "56",
+    "questionID": 494
+  },
+  {
+    "id": 1482,
+    "answer": "50",
+    "questionID": 494
+  },
+  {
+    "id": 1483,
+    "answer": "340",
+    "questionID": 495
+  },
+  {
+    "id": 1484,
+    "answer": "350",
+    "questionID": 495
+  },
+  {
+    "id": 1485,
+    "answer": "338",
+    "questionID": 495
+  },
+  {
+    "id": 1486,
+    "answer": "110",
+    "questionID": 496
+  },
+  {
+    "id": 1487,
+    "answer": "115",
+    "questionID": 496
+  },
+  {
+    "id": 1488,
+    "answer": "108",
+    "questionID": 496
+  },
+  {
+    "id": 1489,
+    "answer": "9200",
+    "questionID": 497
+  },
+  {
+    "id": 1490,
+    "answer": "9300",
+    "questionID": 497
+  },
+  {
+    "id": 1491,
+    "answer": "9250",
+    "questionID": 497
+  },
+  {
+    "id": 1492,
+    "answer": "576",
+    "questionID": 498
+  },
+  {
+    "id": 1493,
+    "answer": "580",
+    "questionID": 498
+  },
+  {
+    "id": 1494,
+    "answer": "574",
+    "questionID": 498
+  },
+  {
+    "id": 1495,
+    "answer": "78",
+    "questionID": 499
+  },
+  {
+    "id": 1496,
+    "answer": "82",
+    "questionID": 499
+  },
+  {
+    "id": 1497,
+    "answer": "84",
+    "questionID": 499
+  },
+  {
+    "id": 1498,
+    "answer": "390",
+    "questionID": 500
+  },
+  {
+    "id": 1499,
+    "answer": "400",
+    "questionID": 500
+  },
+  {
+    "id": 1500,
+    "answer": "398",
+    "questionID": 500
+  },
+  {
+    "id": 1501,
+    "answer": "630",
+    "questionID": 501
+  },
+  {
+    "id": 1502,
+    "answer": "640",
+    "questionID": 501
+  },
+  {
+    "id": 1503,
+    "answer": "635",
+    "questionID": 501
+  },
+  {
+    "id": 1504,
+    "answer": "100",
+    "questionID": 502
+  },
+  {
+    "id": 1505,
+    "answer": "110",
+    "questionID": 502
+  },
+  {
+    "id": 1506,
+    "answer": "112",
+    "questionID": 502
+  },
+  {
+    "id": 1507,
+    "answer": "15600",
+    "questionID": 503
+  },
+  {
+    "id": 1508,
+    "answer": "15650",
+    "questionID": 503
+  },
+  {
+    "id": 1509,
+    "answer": "15500",
+    "questionID": 503
+  },
+  {
+    "id": 1510,
+    "answer": "960",
+    "questionID": 504
+  },
+  {
+    "id": 1511,
+    "answer": "980",
+    "questionID": 504
+  },
+  {
+    "id": 1512,
+    "answer": "970",
+    "questionID": 504
+  },
+  {
+    "id": 1513,
+    "answer": "3300",
+    "questionID": 505
+  },
+  {
+    "id": 1514,
+    "answer": "3400",
+    "questionID": 505
+  },
+  {
+    "id": 1515,
+    "answer": "3350",
+    "questionID": 505
+  },
+  {
+    "id": 1516,
+    "answer": "600",
+    "questionID": 506
+  },
+  {
+    "id": 1517,
+    "answer": "620",
+    "questionID": 506
+  },
+  {
+    "id": 1518,
+    "answer": "610",
+    "questionID": 506
+  },
+  {
+    "id": 1519,
+    "answer": "240",
+    "questionID": 507
+  },
+  {
+    "id": 1520,
+    "answer": "260",
+    "questionID": 507
+  },
+  {
+    "id": 1521,
+    "answer": "255",
+    "questionID": 507
+  },
+  {
+    "id": 1522,
+    "answer": "720",
+    "questionID": 508
+  },
+  {
+    "id": 1523,
+    "answer": "730",
+    "questionID": 508
+  },
+  {
+    "id": 1524,
+    "answer": "718",
+    "questionID": 508
+  },
+  {
+    "id": 1525,
+    "answer": "1550",
+    "questionID": 509
+  },
+  {
+    "id": 1526,
+    "answer": "1580",
+    "questionID": 509
+  },
+  {
+    "id": 1527,
+    "answer": "1560",
+    "questionID": 509
+  },
+  {
+    "id": 1528,
+    "answer": "2200",
+    "questionID": 510
+  },
+  {
+    "id": 1529,
+    "answer": "2220",
+    "questionID": 510
+  },
+  {
+    "id": 1530,
+    "answer": "2230",
+    "questionID": 510
+  },
+  {
+    "id": 1531,
+    "answer": "4000",
+    "questionID": 511
+  },
+  {
+    "id": 1532,
+    "answer": "4100",
+    "questionID": 511
+  },
+  {
+    "id": 1533,
+    "answer": "4080",
+    "questionID": 511
+  },
+  {
+    "id": 1534,
+    "answer": "1140",
+    "questionID": 512
+  },
+  {
+    "id": 1535,
+    "answer": "1160",
+    "questionID": 512
+  },
+  {
+    "id": 1536,
+    "answer": "1100",
+    "questionID": 512
+  },
+  {
+    "id": 1537,
+    "answer": "1020",
+    "questionID": 513
+  },
+  {
+    "id": 1538,
+    "answer": "1040",
+    "questionID": 513
+  },
+  {
+    "id": 1539,
+    "answer": "1050",
+    "questionID": 513
+  },
+  {
+    "id": 1540,
+    "answer": "80",
+    "questionID": 514
+  },
+  {
+    "id": 1541,
+    "answer": "90",
+    "questionID": 514
+  },
+  {
+    "id": 1542,
+    "answer": "82",
+    "questionID": 514
+  },
+  {
+    "id": 1543,
+    "answer": "1700",
+    "questionID": 515
+  },
+  {
+    "id": 1544,
+    "answer": "1750",
+    "questionID": 515
+  },
+  {
+    "id": 1545,
+    "answer": "1730",
+    "questionID": 515
+  },
+  {
+    "id": 1546,
+    "answer": "1300",
+    "questionID": 516
+  },
+  {
+    "id": 1547,
+    "answer": "1350",
+    "questionID": 516
+  },
+  {
+    "id": 1548,
+    "answer": "1330",
+    "questionID": 516
+  },
+  {
+    "id": 1549,
+    "answer": "5800",
+    "questionID": 517
+  },
+  {
+    "id": 1550,
+    "answer": "5900",
+    "questionID": 517
+  },
+  {
+    "id": 1551,
+    "answer": "5850",
+    "questionID": 517
+  },
+  {
+    "id": 1552,
+    "answer": "3000",
+    "questionID": 518
+  },
+  {
+    "id": 1553,
+    "answer": "3100",
+    "questionID": 518
+  },
+  {
+    "id": 1554,
+    "answer": "3050",
+    "questionID": 518
+  },
+  {
+    "id": 1555,
+    "answer": "4200",
+    "questionID": 519
+  },
+  {
+    "id": 1556,
+    "answer": "4250",
+    "questionID": 519
+  },
+  {
+    "id": 1557,
+    "answer": "4300",
+    "questionID": 519
+  },
+  {
+    "id": 1558,
+    "answer": "2700",
+    "questionID": 520
+  },
+  {
+    "id": 1559,
+    "answer": "2800",
+    "questionID": 520
+  },
+  {
+    "id": 1560,
+    "answer": "2750",
+    "questionID": 520
+  },
+  {
+    "id": 1561,
+    "answer": "Finding Nemo",
+    "questionID": 521
+  },
+  {
+    "id": 1562,
+    "answer": "Aladdin",
+    "questionID": 521
+  },
+  {
+    "id": 1563,
+    "answer": "Frozen",
+    "questionID": 521
+  },
+  {
+    "id": 1564,
+    "answer": "Batman",
+    "questionID": 522
+  },
+  {
+    "id": 1565,
+    "answer": "Iron Man",
+    "questionID": 522
+  },
+  {
+    "id": 1566,
+    "answer": "Superman",
+    "questionID": 522
+  },
+  {
+    "id": 1567,
+    "answer": "Tom",
+    "questionID": 523
+  },
+  {
+    "id": 1568,
+    "answer": "Jerry",
+    "questionID": 523
+  },
+  {
+    "id": 1569,
+    "answer": "Patrick Star",
+    "questionID": 523
+  },
+  {
+    "id": 1570,
+    "answer": "Cars",
+    "questionID": 524
+  },
+  {
+    "id": 1571,
+    "answer": "Shrek",
+    "questionID": 524
+  },
+  {
+    "id": 1572,
+    "answer": "Monsters, Inc.",
+    "questionID": 524
+  },
+  {
+    "id": 1573,
+    "answer": "ABBA",
+    "questionID": 525
+  },
+  {
+    "id": 1574,
+    "answer": "Queen",
+    "questionID": 525
+  },
+  {
+    "id": 1575,
+    "answer": "The Rolling Stones",
+    "questionID": 525
+  },
+  {
+    "id": 1576,
+    "answer": "Percy Jackson",
+    "questionID": 526
+  },
+  {
+    "id": 1577,
+    "answer": "The Hobbit",
+    "questionID": 526
+  },
+  {
+    "id": 1578,
+    "answer": "The Chronicles of Narnia",
+    "questionID": 526
+  },
+  {
+    "id": 1579,
+    "answer": "Charmander",
+    "questionID": 527
+  },
+  {
+    "id": 1580,
+    "answer": "Bulbasaur",
+    "questionID": 527
+  },
+  {
+    "id": 1581,
+    "answer": "Squirtle",
+    "questionID": 527
+  },
+  {
+    "id": 1582,
+    "answer": "Rapunzel",
+    "questionID": 528
+  },
+  {
+    "id": 1583,
+    "answer": "Frozen",
+    "questionID": 528
+  },
+  {
+    "id": 1584,
+    "answer": "Cinderella",
+    "questionID": 528
+  },
+  {
+    "id": 1585,
+    "answer": "Puss in Boots",
+    "questionID": 529
+  },
+  {
+    "id": 1586,
+    "answer": "Shrek",
+    "questionID": 529
+  },
+  {
+    "id": 1587,
+    "answer": "Cinderella",
+    "questionID": 529
+  },
+  {
+    "id": 1588,
+    "answer": "The Incredibles",
+    "questionID": 530
+  },
+  {
+    "id": 1589,
+    "answer": "Monsters, Inc.",
+    "questionID": 530
+  },
+  {
+    "id": 1590,
+    "answer": "Finding Nemo",
+    "questionID": 530
+  },
+  {
+    "id": 1591,
+    "answer": "Iron Man",
+    "questionID": 531
+  },
+  {
+    "id": 1592,
+    "answer": "Thor",
+    "questionID": 531
+  },
+  {
+    "id": 1593,
+    "answer": "Hulk",
+    "questionID": 531
+  },
+  {
+    "id": 1594,
+    "answer": "Tangled",
+    "questionID": 532
+  },
+  {
+    "id": 1595,
+    "answer": "Moana",
+    "questionID": 532
+  },
+  {
+    "id": 1596,
+    "answer": "Coco",
+    "questionID": 532
+  },
+  {
+    "id": 1597,
+    "answer": "Shrek",
+    "questionID": 533
+  },
+  {
+    "id": 1598,
+    "answer": "Cinderella",
+    "questionID": 533
+  },
+  {
+    "id": 1599,
+    "answer": "Frozen",
+    "questionID": 533
+  },
+  {
+    "id": 1600,
+    "answer": "Shrek",
+    "questionID": 534
+  },
+  {
+    "id": 1601,
+    "answer": "Cars",
+    "questionID": 534
+  },
+  {
+    "id": 1602,
+    "answer": "Frozen",
+    "questionID": 534
+  },
+  {
+    "id": 1603,
+    "answer": "Hulk",
+    "questionID": 535
+  },
+  {
+    "id": 1604,
+    "answer": "Iron Man",
+    "questionID": 535
+  },
+  {
+    "id": 1605,
+    "answer": "Captain America",
+    "questionID": 535
+  },
+  {
+    "id": 1606,
+    "answer": "Tangled",
+    "questionID": 536
+  },
+  {
+    "id": 1607,
+    "answer": "Cinderella",
+    "questionID": 536
+  },
+  {
+    "id": 1608,
+    "answer": "Moana",
+    "questionID": 536
+  },
+  {
+    "id": 1609,
+    "answer": "Spider-Man",
+    "questionID": 537
+  },
+  {
+    "id": 1610,
+    "answer": "Iron Man",
+    "questionID": 537
+  },
+  {
+    "id": 1611,
+    "answer": "Superman",
+    "questionID": 537
+  },
+  {
+    "id": 1612,
+    "answer": "Tangled",
+    "questionID": 538
+  },
+  {
+    "id": 1613,
+    "answer": "Frozen",
+    "questionID": 538
+  },
+  {
+    "id": 1614,
+    "answer": "Cinderella",
+    "questionID": 538
+  },
+  {
+    "id": 1615,
+    "answer": "Toy Story",
+    "questionID": 539
+  },
+  {
+    "id": 1616,
+    "answer": "Finding Nemo",
+    "questionID": 539
+  },
+  {
+    "id": 1617,
+    "answer": "Shrek",
+    "questionID": 539
+  },
+  {
+    "id": 1618,
+    "answer": "Frozen",
+    "questionID": 540
+  },
+  {
+    "id": 1619,
+    "answer": "Tangled",
+    "questionID": 540
+  },
+  {
+    "id": 1620,
+    "answer": "Moana",
+    "questionID": 540
+  },
+  {
+    "id": 1621,
+    "answer": "Hawkeye",
+    "questionID": 541
+  },
+  {
+    "id": 1622,
+    "answer": "Robin Hood",
+    "questionID": 541
+  },
+  {
+    "id": 1623,
+    "answer": "Spider-Man",
+    "questionID": 541
+  },
+  {
+    "id": 1624,
+    "answer": "Transformers",
+    "questionID": 542
+  },
+  {
+    "id": 1625,
+    "answer": "Iron Giant",
+    "questionID": 542
+  },
+  {
+    "id": 1626,
+    "answer": "Wall-E",
+    "questionID": 542
+  },
+  {
+    "id": 1627,
+    "answer": "Mulan",
+    "questionID": 543
+  },
+  {
+    "id": 1628,
+    "answer": "Moana",
+    "questionID": 543
+  },
+  {
+    "id": 1629,
+    "answer": "Frozen",
+    "questionID": 543
+  },
+  {
+    "id": 1630,
+    "answer": "Frozen",
+    "questionID": 544
+  },
+  {
+    "id": 1631,
+    "answer": "Cinderella",
+    "questionID": 544
+  },
+  {
+    "id": 1632,
+    "answer": "Moana",
+    "questionID": 544
+  },
+  {
+    "id": 1633,
+    "answer": "Big Hero 6",
+    "questionID": 545
+  },
+  {
+    "id": 1634,
+    "answer": "Transformers",
+    "questionID": 545
+  },
+  {
+    "id": 1635,
+    "answer": "The Incredibles",
+    "questionID": 545
+  },
+  {
+    "id": 1636,
+    "answer": "Moana",
+    "questionID": 546
+  },
+  {
+    "id": 1637,
+    "answer": "Tangled",
+    "questionID": 546
+  },
+  {
+    "id": 1638,
+    "answer": "Cinderella",
+    "questionID": 546
+  },
+  {
+    "id": 1639,
+    "answer": "Superman",
+    "questionID": 547
+  },
+  {
+    "id": 1640,
+    "answer": "Spider-Man",
+    "questionID": 547
+  },
+  {
+    "id": 1641,
+    "answer": "Iron Man",
+    "questionID": 547
+  },
+  {
+    "id": 1642,
+    "answer": "Moana",
+    "questionID": 548
+  },
+  {
+    "id": 1643,
+    "answer": "Tangled",
+    "questionID": 548
+  },
+  {
+    "id": 1644,
+    "answer": "Cinderella",
+    "questionID": 548
+  },
+  {
+    "id": 1645,
+    "answer": "Hulk",
+    "questionID": 549
+  },
+  {
+    "id": 1646,
+    "answer": "Iron Man",
+    "questionID": 549
+  },
+  {
+    "id": 1647,
+    "answer": "Captain America",
+    "questionID": 549
+  },
+  {
+    "id": 1648,
+    "answer": "Kung Fu Panda",
+    "questionID": 550
+  },
+  {
+    "id": 1649,
+    "answer": "Madagascar",
+    "questionID": 550
+  },
+  {
+    "id": 1650,
+    "answer": "Ratatouille",
+    "questionID": 550
+  },
+  {
+    "id": 1651,
+    "answer": "Tangled",
+    "questionID": 551
+  },
+  {
+    "id": 1652,
+    "answer": "Moana",
+    "questionID": 551
+  },
+  {
+    "id": 1653,
+    "answer": "Coco",
+    "questionID": 551
+  },
+  {
+    "id": 1654,
+    "answer": "Cinderella",
+    "questionID": 552
+  },
+  {
+    "id": 1655,
+    "answer": "Sleeping Beauty",
+    "questionID": 552
+  },
+  {
+    "id": 1656,
+    "answer": "Tangled",
+    "questionID": 552
+  },
+  {
+    "id": 1657,
+    "answer": "Iron Man",
+    "questionID": 553
+  },
+  {
+    "id": 1658,
+    "answer": "Thor",
+    "questionID": 553
+  },
+  {
+    "id": 1659,
+    "answer": "Hulk",
+    "questionID": 553
+  },
+  {
+    "id": 1660,
+    "answer": "Madagascar",
+    "questionID": 554
+  },
+  {
+    "id": 1661,
+    "answer": "Kung Fu Panda",
+    "questionID": 554
+  },
+  {
+    "id": 1662,
+    "answer": "Toy Story",
+    "questionID": 554
+  },
+  {
+    "id": 1663,
+    "answer": "Shrek",
+    "questionID": 555
+  },
+  {
+    "id": 1664,
+    "answer": "Cars",
+    "questionID": 555
+  },
+  {
+    "id": 1665,
+    "answer": "Frozen",
+    "questionID": 555
+  },
+  {
+    "id": 1666,
+    "answer": "Batman",
+    "questionID": 556
+  },
+  {
+    "id": 1667,
+    "answer": "Flash",
+    "questionID": 556
+  },
+  {
+    "id": 1668,
+    "answer": "Iron Man",
+    "questionID": 556
+  },
+  {
+    "id": 1669,
+    "answer": "Frozen",
+    "questionID": 557
+  },
+  {
+    "id": 1670,
+    "answer": "Tangled",
+    "questionID": 557
+  },
+  {
+    "id": 1671,
+    "answer": "Moana",
+    "questionID": 557
+  },
+  {
+    "id": 1672,
+    "answer": "Green Arrow",
+    "questionID": 558
+  },
+  {
+    "id": 1673,
+    "answer": "Robin Hood",
+    "questionID": 558
+  },
+  {
+    "id": 1674,
+    "answer": "Arrowman",
+    "questionID": 558
+  },
+  {
+    "id": 1675,
+    "answer": "Cinderella",
+    "questionID": 559
+  },
+  {
+    "id": 1676,
+    "answer": "Frozen",
+    "questionID": 559
+  },
+  {
+    "id": 1677,
+    "answer": "Moana",
+    "questionID": 559
+  },
+  {
+    "id": 1678,
+    "answer": "Superman",
+    "questionID": 560
+  },
+  {
+    "id": 1679,
+    "answer": "Flash",
+    "questionID": 560
+  },
+  {
+    "id": 1680,
+    "answer": "Iron Man",
+    "questionID": 560
+  },
+  {
+    "id": 1681,
+    "answer": "Madagascar",
+    "questionID": 561
+  },
+  {
+    "id": 1682,
+    "answer": "The Jungle Book",
+    "questionID": 561
+  },
+  {
+    "id": 1683,
+    "answer": "Tarzan",
+    "questionID": 561
+  },
+  {
+    "id": 1684,
+    "answer": "Justice League",
+    "questionID": 562
+  },
+  {
+    "id": 1685,
+    "answer": "X-Men",
+    "questionID": 562
+  },
+  {
+    "id": 1686,
+    "answer": "Fantastic Four",
+    "questionID": 562
+  },
+  {
+    "id": 1687,
+    "answer": "Tangled",
+    "questionID": 563
+  },
+  {
+    "id": 1688,
+    "answer": "Moana",
+    "questionID": 563
+  },
+  {
+    "id": 1689,
+    "answer": "Brave",
+    "questionID": 563
+  },
+  {
+    "id": 1690,
+    "answer": "Shrek",
+    "questionID": 564
+  },
+  {
+    "id": 1691,
+    "answer": "Cinderella",
+    "questionID": 564
+  },
+  {
+    "id": 1692,
+    "answer": "Frozen",
+    "questionID": 564
+  },
+  {
+    "id": 1693,
+    "answer": "Frozen",
+    "questionID": 565
+  },
+  {
+    "id": 1694,
+    "answer": "Tangled",
+    "questionID": 565
+  },
+  {
+    "id": 1695,
+    "answer": "Moana",
+    "questionID": 565
+  },
+  {
+    "id": 1696,
+    "answer": "Superman",
+    "questionID": 566
+  },
+  {
+    "id": 1697,
+    "answer": "Flash",
+    "questionID": 566
+  },
+  {
+    "id": 1698,
+    "answer": "Iron Man",
+    "questionID": 566
+  },
+  {
+    "id": 1699,
+    "answer": "Tangled",
+    "questionID": 567
+  },
+  {
+    "id": 1700,
+    "answer": "Frozen",
+    "questionID": 567
+  },
+  {
+    "id": 1701,
+    "answer": "Cinderella",
+    "questionID": 567
+  },
+  {
+    "id": 1702,
+    "answer": "Iron Man",
+    "questionID": 568
+  },
+  {
+    "id": 1703,
+    "answer": "Captain America",
+    "questionID": 568
+  },
+  {
+    "id": 1704,
+    "answer": "Hulk",
+    "questionID": 568
+  },
+  {
+    "id": 1705,
+    "answer": "Cinderella",
+    "questionID": 569
+  },
+  {
+    "id": 1706,
+    "answer": "Sleeping Beauty",
+    "questionID": 569
+  },
+  {
+    "id": 1707,
+    "answer": "Frozen",
+    "questionID": 569
+  },
+  {
+    "id": 1708,
+    "answer": "Green Arrow",
+    "questionID": 570
+  },
+  {
+    "id": 1709,
+    "answer": "Robin Hood",
+    "questionID": 570
+  },
+  {
+    "id": 1710,
+    "answer": "Arrowman",
+    "questionID": 570
+  },
+  {
+    "id": 1711,
+    "answer": "Shrek",
+    "questionID": 571
+  },
+  {
+    "id": 1712,
+    "answer": "Cars",
+    "questionID": 571
+  },
+  {
+    "id": 1713,
+    "answer": "Frozen",
+    "questionID": 571
+  },
+  {
+    "id": 1714,
+    "answer": "Iron Man",
+    "questionID": 572
+  },
+  {
+    "id": 1715,
+    "answer": "Thor",
+    "questionID": 572
+  },
+  {
+    "id": 1716,
+    "answer": "Hulk",
+    "questionID": 572
+  },
+  {
+    "id": 1717,
+    "answer": "Frozen",
+    "questionID": 573
+  },
+  {
+    "id": 1718,
+    "answer": "Tangled",
+    "questionID": 573
+  },
+  {
+    "id": 1719,
+    "answer": "Cinderella",
+    "questionID": 573
+  },
+  {
+    "id": 1720,
+    "answer": "Justice League",
+    "questionID": 574
+  },
+  {
+    "id": 1721,
+    "answer": "X-Men",
+    "questionID": 574
+  },
+  {
+    "id": 1722,
+    "answer": "Fantastic Four",
+    "questionID": 574
+  },
+  {
+    "id": 1723,
+    "answer": "Frozen",
+    "questionID": 575
+  },
+  {
+    "id": 1724,
+    "answer": "Moana",
+    "questionID": 575
+  },
+  {
+    "id": 1725,
+    "answer": "Cinderella",
+    "questionID": 575
+  },
+  {
+    "id": 1726,
+    "answer": "Superman",
+    "questionID": 576
+  },
+  {
+    "id": 1727,
+    "answer": "Flash",
+    "questionID": 576
+  },
+  {
+    "id": 1728,
+    "answer": "Iron Man",
+    "questionID": 576
+  },
+  {
+    "id": 1729,
+    "answer": "Transformers",
+    "questionID": 577
+  },
+  {
+    "id": 1730,
+    "answer": "WALL-E",
+    "questionID": 577
+  },
+  {
+    "id": 1731,
+    "answer": "The Incredibles",
+    "questionID": 577
+  },
+  {
+    "id": 1732,
+    "answer": "Madagascar",
+    "questionID": 578
+  },
+  {
+    "id": 1733,
+    "answer": "Kung Fu Panda",
+    "questionID": 578
+  },
+  {
+    "id": 1734,
+    "answer": "Toy Story",
+    "questionID": 578
+  },
+  {
+    "id": 1735,
+    "answer": "Hulk",
+    "questionID": 579
+  },
+  {
+    "id": 1736,
+    "answer": "Iron Man",
+    "questionID": 579
+  },
+  {
+    "id": 1737,
+    "answer": "Captain America",
+    "questionID": 579
+  },
+  {
+    "id": 1738,
+    "answer": "Kung Fu Panda",
+    "questionID": 580
+  },
+  {
+    "id": 1739,
+    "answer": "Madagascar",
+    "questionID": 580
+  },
+  {
+    "id": 1740,
+    "answer": "Ratatouille",
+    "questionID": 580
+  },
+  {
+    "id": 1741,
+    "answer": "Cinderella",
+    "questionID": 581
+  },
+  {
+    "id": 1742,
+    "answer": "Moana",
+    "questionID": 581
+  },
+  {
+    "id": 1743,
+    "answer": "Tangled",
+    "questionID": 581
+  },
+  {
+    "id": 1744,
+    "answer": "Tangled",
+    "questionID": 582
+  },
+  {
+    "id": 1745,
+    "answer": "Moana",
+    "questionID": 582
+  },
+  {
+    "id": 1746,
+    "answer": "Coco",
+    "questionID": 582
+  },
+  {
+    "id": 1747,
+    "answer": "Iron Man",
+    "questionID": 583
+  },
+  {
+    "id": 1748,
+    "answer": "Thor",
+    "questionID": 583
+  },
+  {
+    "id": 1749,
+    "answer": "Hulk",
+    "questionID": 583
+  },
+  {
+    "id": 1750,
+    "answer": "Shrek",
+    "questionID": 584
+  },
+  {
+    "id": 1751,
+    "answer": "Cars",
+    "questionID": 584
+  },
+  {
+    "id": 1752,
+    "answer": "Frozen",
+    "questionID": 584
+  },
+  {
+    "id": 1753,
+    "answer": "Superman",
+    "questionID": 585
+  },
+  {
+    "id": 1754,
+    "answer": "Spider-Man",
+    "questionID": 585
+  },
+  {
+    "id": 1755,
+    "answer": "Iron Man",
+    "questionID": 585
+  },
+  {
+    "id": 1756,
+    "answer": "Cinderella",
+    "questionID": 586
+  },
+  {
+    "id": 1757,
+    "answer": "Frozen",
+    "questionID": 586
+  },
+  {
+    "id": 1758,
+    "answer": "Moana",
+    "questionID": 586
+  },
+  {
+    "id": 1759,
+    "answer": "Justice League",
+    "questionID": 587
+  },
+  {
+    "id": 1760,
+    "answer": "X-Men",
+    "questionID": 587
+  },
+  {
+    "id": 1761,
+    "answer": "Fantastic Four",
+    "questionID": 587
+  },
+  {
+    "id": 1762,
+    "answer": "Frozen",
+    "questionID": 588
+  },
+  {
+    "id": 1763,
+    "answer": "Tangled",
+    "questionID": 588
+  },
+  {
+    "id": 1764,
+    "answer": "Moana",
+    "questionID": 588
+  },
+  {
+    "id": 1765,
+    "answer": "Batman",
+    "questionID": 589
+  },
+  {
+    "id": 1766,
+    "answer": "Flash",
+    "questionID": 589
+  },
+  {
+    "id": 1767,
+    "answer": "Iron Man",
+    "questionID": 589
+  },
+  {
+    "id": 1768,
+    "answer": "Transformers",
+    "questionID": 590
+  },
+  {
+    "id": 1769,
+    "answer": "WALL-E",
+    "questionID": 590
+  },
+  {
+    "id": 1770,
+    "answer": "The Incredibles",
+    "questionID": 590
+  },
+  {
+    "id": 1771,
+    "answer": "Hulk",
+    "questionID": 591
+  },
+  {
+    "id": 1772,
+    "answer": "Iron Man",
+    "questionID": 591
+  },
+  {
+    "id": 1773,
+    "answer": "Captain America",
+    "questionID": 591
+  },
+  {
+    "id": 1774,
+    "answer": "Madagascar",
+    "questionID": 592
+  },
+  {
+    "id": 1775,
+    "answer": "Kung Fu Panda",
+    "questionID": 592
+  },
+  {
+    "id": 1776,
+    "answer": "Toy Story",
+    "questionID": 592
+  },
+  {
+    "id": 1777,
+    "answer": "Cinderella",
+    "questionID": 593
+  },
+  {
+    "id": 1778,
+    "answer": "Sleeping Beauty",
+    "questionID": 593
+  },
+  {
+    "id": 1779,
+    "answer": "Frozen",
+    "questionID": 593
+  },
+  {
+    "id": 1780,
+    "answer": "Green Arrow",
+    "questionID": 594
+  },
+  {
+    "id": 1781,
+    "answer": "Robin Hood",
+    "questionID": 594
+  },
+  {
+    "id": 1782,
+    "answer": "Arrowman",
+    "questionID": 594
+  },
+  {
+    "id": 1783,
+    "answer": "Superman",
+    "questionID": 595
+  },
+  {
+    "id": 1784,
+    "answer": "Flash",
+    "questionID": 595
+  },
+  {
+    "id": 1785,
+    "answer": "Iron Man",
+    "questionID": 595
+  },
+  {
+    "id": 1786,
+    "answer": "Tangled",
+    "questionID": 596
+  },
+  {
+    "id": 1787,
+    "answer": "Moana",
+    "questionID": 596
+  },
+  {
+    "id": 1788,
+    "answer": "Brave",
+    "questionID": 596
+  },
+  {
+    "id": 1789,
+    "answer": "Justice League",
+    "questionID": 597
+  },
+  {
+    "id": 1790,
+    "answer": "X-Men",
+    "questionID": 597
+  },
+  {
+    "id": 1791,
+    "answer": "Fantastic Four",
+    "questionID": 597
+  },
+  {
+    "id": 1792,
+    "answer": "Mulan",
+    "questionID": 598
+  },
+  {
+    "id": 1793,
+    "answer": "Moana",
+    "questionID": 598
+  },
+  {
+    "id": 1794,
+    "answer": "Frozen",
+    "questionID": 598
+  },
+  {
+    "id": 1795,
+    "answer": "Iron Man",
+    "questionID": 599
+  },
+  {
+    "id": 1796,
+    "answer": "Thor",
+    "questionID": 599
+  },
+  {
+    "id": 1797,
+    "answer": "Hulk",
+    "questionID": 599
+  },
+  {
+    "id": 1798,
+    "answer": "Toy Story",
+    "questionID": 600
+  },
+  {
+    "id": 1799,
+    "answer": "Finding Nemo",
+    "questionID": 600
+  },
+  {
+    "id": 1800,
+    "answer": "Shrek",
+    "questionID": 600
+  },
+  {
+    "id": 1801,
+    "answer": "Superman",
+    "questionID": 601
+  },
+  {
+    "id": 1802,
+    "answer": "Spider-Man",
+    "questionID": 601
+  },
+  {
+    "id": 1803,
+    "answer": "Iron Man",
+    "questionID": 601
+  },
+  {
+    "id": 1804,
+    "answer": "Frozen",
+    "questionID": 602
+  },
+  {
+    "id": 1805,
+    "answer": "Tangled",
+    "questionID": 602
+  },
+  {
+    "id": 1806,
+    "answer": "Moana",
+    "questionID": 602
+  },
+  {
+    "id": 1807,
+    "answer": "Moana",
+    "questionID": 603
+  },
+  {
+    "id": 1808,
+    "answer": "Tangled",
+    "questionID": 603
+  },
+  {
+    "id": 1809,
+    "answer": "Cinderella",
+    "questionID": 603
+  },
+  {
+    "id": 1810,
+    "answer": "Big Hero 6",
+    "questionID": 604
+  },
+  {
+    "id": 1811,
+    "answer": "Transformers",
+    "questionID": 604
+  },
+  {
+    "id": 1812,
+    "answer": "The Incredibles",
+    "questionID": 604
+  },
+  {
+    "id": 1813,
+    "answer": "Cars",
+    "questionID": 605
+  },
+  {
+    "id": 1814,
+    "answer": "Shrek",
+    "questionID": 605
+  },
+  {
+    "id": 1815,
+    "answer": "Monsters, Inc.",
+    "questionID": 605
+  },
+  {
+    "id": 1816,
+    "answer": "Hulk",
+    "questionID": 606
+  },
+  {
+    "id": 1817,
+    "answer": "Iron Man",
+    "questionID": 606
+  },
+  {
+    "id": 1818,
+    "answer": "Captain America",
+    "questionID": 606
+  },
+  {
+    "id": 1819,
+    "answer": "Batman",
+    "questionID": 607
+  },
+  {
+    "id": 1820,
+    "answer": "Flash",
+    "questionID": 607
+  },
+  {
+    "id": 1821,
+    "answer": "Iron Man",
+    "questionID": 607
+  },
+  {
+    "id": 1822,
+    "answer": "Tangled",
+    "questionID": 608
+  },
+  {
+    "id": 1823,
+    "answer": "Moana",
+    "questionID": 608
+  },
+  {
+    "id": 1824,
+    "answer": "Brave",
+    "questionID": 608
+  },
+  {
+    "id": 1825,
+    "answer": "Justice League",
+    "questionID": 609
+  },
+  {
+    "id": 1826,
+    "answer": "X-Men",
+    "questionID": 609
+  },
+  {
+    "id": 1827,
+    "answer": "Fantastic Four",
+    "questionID": 609
+  },
+  {
+    "id": 1828,
+    "answer": "Frozen",
+    "questionID": 610
+  },
+  {
+    "id": 1829,
+    "answer": "Cinderella",
+    "questionID": 610
+  },
+  {
+    "id": 1830,
+    "answer": "Moana",
+    "questionID": 610
+  },
+  {
+    "id": 1831,
+    "answer": "Superman",
+    "questionID": 611
+  },
+  {
+    "id": 1832,
+    "answer": "Flash",
+    "questionID": 611
+  },
+  {
+    "id": 1833,
+    "answer": "Iron Man",
+    "questionID": 611
+  },
+  {
+    "id": 1834,
+    "answer": "Frozen",
+    "questionID": 612
+  },
+  {
+    "id": 1835,
+    "answer": "Tangled",
+    "questionID": 612
+  },
+  {
+    "id": 1836,
+    "answer": "Moana",
+    "questionID": 612
+  },
+  {
+    "id": 1837,
+    "answer": "Frozen",
+    "questionID": 613
+  },
+  {
+    "id": 1838,
+    "answer": "Tangled",
+    "questionID": 613
+  },
+  {
+    "id": 1839,
+    "answer": "Cinderella",
+    "questionID": 613
+  },
+  {
+    "id": 1840,
+    "answer": "Transformers",
+    "questionID": 614
+  },
+  {
+    "id": 1841,
+    "answer": "WALL-E",
+    "questionID": 614
+  },
+  {
+    "id": 1842,
+    "answer": "The Incredibles",
+    "questionID": 614
+  },
+  {
+    "id": 1843,
+    "answer": "Madagascar",
+    "questionID": 615
+  },
+  {
+    "id": 1844,
+    "answer": "Kung Fu Panda",
+    "questionID": 615
+  },
+  {
+    "id": 1845,
+    "answer": "Toy Story",
+    "questionID": 615
+  },
+  {
+    "id": 1846,
+    "answer": "Superman",
+    "questionID": 616
+  },
+  {
+    "id": 1847,
+    "answer": "Flash",
+    "questionID": 616
+  },
+  {
+    "id": 1848,
+    "answer": "Iron Man",
+    "questionID": 616
+  },
+  {
+    "id": 1849,
+    "answer": "Superman",
+    "questionID": 617
+  },
+  {
+    "id": 1850,
+    "answer": "Flash",
+    "questionID": 617
+  },
+  {
+    "id": 1851,
+    "answer": "Iron Man",
+    "questionID": 617
+  },
+  {
+    "id": 1852,
+    "answer": "Hulk",
+    "questionID": 618
+  },
+  {
+    "id": 1853,
+    "answer": "Iron Man",
+    "questionID": 618
+  },
+  {
+    "id": 1854,
+    "answer": "Captain America",
+    "questionID": 618
+  },
+  {
+    "id": 1855,
+    "answer": "Toy Story",
+    "questionID": 619
+  },
+  {
+    "id": 1856,
+    "answer": "Finding Nemo",
+    "questionID": 619
+  },
+  {
+    "id": 1857,
+    "answer": "Shrek",
+    "questionID": 619
+  },
+  {
+    "id": 1858,
+    "answer": "Frozen",
+    "questionID": 620
+  },
+  {
+    "id": 1859,
+    "answer": "Tangled",
+    "questionID": 620
+  },
+  {
+    "id": 1860,
+    "answer": "Moana",
+    "questionID": 620
+  },
+  {
+    "id": 1861,
+    "answer": "Scar",
+    "questionID": 621
+  },
+  {
+    "id": 1862,
+    "answer": "Timon",
+    "questionID": 621
+  },
+  {
+    "id": 1863,
+    "answer": "Pumbaa",
+    "questionID": 621
+  },
+  {
+    "id": 1864,
+    "answer": "Sven",
+    "questionID": 622
+  },
+  {
+    "id": 1865,
+    "answer": "Kristoff",
+    "questionID": 622
+  },
+  {
+    "id": 1866,
+    "answer": "Hans",
+    "questionID": 622
+  },
+  {
+    "id": 1867,
+    "answer": "Iron Man",
+    "questionID": 623
+  },
+  {
+    "id": 1868,
+    "answer": "Thor",
+    "questionID": 623
+  },
+  {
+    "id": 1869,
+    "answer": "Hulk",
+    "questionID": 623
+  },
+  {
+    "id": 1870,
+    "answer": "Tang",
+    "questionID": 624
+  },
+  {
+    "id": 1871,
+    "answer": "Guppy",
+    "questionID": 624
+  },
+  {
+    "id": 1872,
+    "answer": "Goldfish",
+    "questionID": 624
+  },
+  {
+    "id": 1873,
+    "answer": "Elsa",
+    "questionID": 625
+  },
+  {
+    "id": 1874,
+    "answer": "Rapunzel",
+    "questionID": 625
+  },
+  {
+    "id": 1875,
+    "answer": "Ariel",
+    "questionID": 625
+  },
+  {
+    "id": 1876,
+    "answer": "Hulk",
+    "questionID": 626
+  },
+  {
+    "id": 1877,
+    "answer": "Iron Man",
+    "questionID": 626
+  },
+  {
+    "id": 1878,
+    "answer": "Captain America",
+    "questionID": 626
+  },
+  {
+    "id": 1879,
+    "answer": "Iago",
+    "questionID": 627
+  },
+  {
+    "id": 1880,
+    "answer": "Rajah",
+    "questionID": 627
+  },
+  {
+    "id": 1881,
+    "answer": "Sultan",
+    "questionID": 627
+  },
+  {
+    "id": 1882,
+    "answer": "Green Arrow",
+    "questionID": 628
+  },
+  {
+    "id": 1883,
+    "answer": "Robin Hood",
+    "questionID": 628
+  },
+  {
+    "id": 1884,
+    "answer": "Arrowman",
+    "questionID": 628
+  },
+  {
+    "id": 1885,
+    "answer": "Transformers",
+    "questionID": 629
+  },
+  {
+    "id": 1886,
+    "answer": "WALL-E",
+    "questionID": 629
+  },
+  {
+    "id": 1887,
+    "answer": "The Incredibles",
+    "questionID": 629
+  },
+  {
+    "id": 1888,
+    "answer": "Horse",
+    "questionID": 630
+  },
+  {
+    "id": 1889,
+    "answer": "Dragon",
+    "questionID": 630
+  },
+  {
+    "id": 1890,
+    "answer": "Ogre",
+    "questionID": 630
+  },
+  {
+    "id": 1891,
+    "answer": "Superman",
+    "questionID": 631
+  },
+  {
+    "id": 1892,
+    "answer": "Flash",
+    "questionID": 631
+  },
+  {
+    "id": 1893,
+    "answer": "Iron Man",
+    "questionID": 631
+  },
+  {
+    "id": 1894,
+    "answer": "Cinderella",
+    "questionID": 632
+  },
+  {
+    "id": 1895,
+    "answer": "Frozen",
+    "questionID": 632
+  },
+  {
+    "id": 1896,
+    "answer": "Moana",
+    "questionID": 632
+  },
+  {
+    "id": 1897,
+    "answer": "Sebastian",
+    "questionID": 633
+  },
+  {
+    "id": 1898,
+    "answer": "Scuttle",
+    "questionID": 633
+  },
+  {
+    "id": 1899,
+    "answer": "Prince Eric",
+    "questionID": 633
+  },
+  {
+    "id": 1900,
+    "answer": "Superman",
+    "questionID": 634
+  },
+  {
+    "id": 1901,
+    "answer": "Flash",
+    "questionID": 634
+  },
+  {
+    "id": 1902,
+    "answer": "Iron Man",
+    "questionID": 634
+  },
+  {
+    "id": 1903,
+    "answer": "Batman",
+    "questionID": 635
+  },
+  {
+    "id": 1904,
+    "answer": "Flash",
+    "questionID": 635
+  },
+  {
+    "id": 1905,
+    "answer": "Iron Man",
+    "questionID": 635
+  },
+  {
+    "id": 1906,
+    "answer": "Olaf",
+    "questionID": 636
+  },
+  {
+    "id": 1907,
+    "answer": "Hans",
+    "questionID": 636
+  },
+  {
+    "id": 1908,
+    "answer": "Marshmallow",
+    "questionID": 636
+  },
+  {
+    "id": 1909,
+    "answer": "Justice League",
+    "questionID": 637
+  },
+  {
+    "id": 1910,
+    "answer": "X-Men",
+    "questionID": 637
+  },
+  {
+    "id": 1911,
+    "answer": "Fantastic Four",
+    "questionID": 637
+  },
+  {
+    "id": 1912,
+    "answer": "Tangled",
+    "questionID": 638
+  },
+  {
+    "id": 1913,
+    "answer": "Moana",
+    "questionID": 638
+  },
+  {
+    "id": 1914,
+    "answer": "Cinderella",
+    "questionID": 638
+  },
+  {
+    "id": 1915,
+    "answer": "Iron Man",
+    "questionID": 639
+  },
+  {
+    "id": 1916,
+    "answer": "Thor",
+    "questionID": 639
+  },
+  {
+    "id": 1917,
+    "answer": "Hulk",
+    "questionID": 639
+  },
+  {
+    "id": 1918,
+    "answer": "Cinderella",
+    "questionID": 640
+  },
+  {
+    "id": 1919,
+    "answer": "Moana",
+    "questionID": 640
+  },
+  {
+    "id": 1920,
+    "answer": "Tangled",
+    "questionID": 640
+  },
+  {
+    "id": 1921,
+    "answer": "Battle robot",
+    "questionID": 641
+  },
+  {
+    "id": 1922,
+    "answer": "Delivery robot",
+    "questionID": 641
+  },
+  {
+    "id": 1923,
+    "answer": "Cleaning robot",
+    "questionID": 641
+  },
+  {
+    "id": 1924,
+    "answer": "Timon",
+    "questionID": 642
+  },
+  {
+    "id": 1925,
+    "answer": "Pumbaa",
+    "questionID": 642
+  },
+  {
+    "id": 1926,
+    "answer": "Zazu",
+    "questionID": 642
+  },
+  {
+    "id": 1927,
+    "answer": "Batman",
+    "questionID": 643
+  },
+  {
+    "id": 1928,
+    "answer": "Captain America",
+    "questionID": 643
+  },
+  {
+    "id": 1929,
+    "answer": "Thor",
+    "questionID": 643
+  },
+  {
+    "id": 1930,
+    "answer": "Infinite wishes",
+    "questionID": 644
+  },
+  {
+    "id": 1931,
+    "answer": "One wish",
+    "questionID": 644
+  },
+  {
+    "id": 1932,
+    "answer": "Five wishes",
+    "questionID": 644
+  },
+  {
+    "id": 1933,
+    "answer": "Kristoff",
+    "questionID": 645
+  },
+  {
+    "id": 1934,
+    "answer": "Olaf",
+    "questionID": 645
+  },
+  {
+    "id": 1935,
+    "answer": "Sven",
+    "questionID": 645
+  },
+  {
+    "id": 1936,
+    "answer": "Fairy",
+    "questionID": 646
+  },
+  {
+    "id": 1937,
+    "answer": "Princess",
+    "questionID": 646
+  },
+  {
+    "id": 1938,
+    "answer": "Witch",
+    "questionID": 646
+  },
+  {
+    "id": 1939,
+    "answer": "Spider-Man",
+    "questionID": 647
+  },
+  {
+    "id": 1940,
+    "answer": "The Flash",
+    "questionID": 647
+  },
+  {
+    "id": 1941,
+    "answer": "Iron Man",
+    "questionID": 647
+  },
+  {
+    "id": 1942,
+    "answer": "Dory",
+    "questionID": 648
+  },
+  {
+    "id": 1943,
+    "answer": "Nemo",
+    "questionID": 648
+  },
+  {
+    "id": 1944,
+    "answer": "Gill",
+    "questionID": 648
+  },
+  {
+    "id": 1945,
+    "answer": "Pascal",
+    "questionID": 649
+  },
+  {
+    "id": 1946,
+    "answer": "Flynn Rider",
+    "questionID": 649
+  },
+  {
+    "id": 1947,
+    "answer": "Maximus",
+    "questionID": 649
+  },
+  {
+    "id": 1948,
+    "answer": "Iron Man",
+    "questionID": 650
+  },
+  {
+    "id": 1949,
+    "answer": "Thor",
+    "questionID": 650
+  },
+  {
+    "id": 1950,
+    "answer": "Hulk",
+    "questionID": 650
+  },
+  {
+    "id": 1951,
+    "answer": "Fred",
+    "questionID": 651
+  },
+  {
+    "id": 1952,
+    "answer": "Wasabi",
+    "questionID": 651
+  },
+  {
+    "id": 1953,
+    "answer": "Baymax",
+    "questionID": 651
+  },
+  {
+    "id": 1954,
+    "answer": "Sleeping Beauty",
+    "questionID": 652
+  },
+  {
+    "id": 1955,
+    "answer": "Tangled",
+    "questionID": 652
+  },
+  {
+    "id": 1956,
+    "answer": "Frozen",
+    "questionID": 652
+  },
+  {
+    "id": 1957,
+    "answer": "Superman",
+    "questionID": 653
+  },
+  {
+    "id": 1958,
+    "answer": "Spider-Man",
+    "questionID": 653
+  },
+  {
+    "id": 1959,
+    "answer": "Iron Man",
+    "questionID": 653
+  },
+  {
+    "id": 1960,
+    "answer": "Te Fiti",
+    "questionID": 654
+  },
+  {
+    "id": 1961,
+    "answer": "Hei Hei",
+    "questionID": 654
+  },
+  {
+    "id": 1962,
+    "answer": "Tamatoa",
+    "questionID": 654
+  },
+  {
+    "id": 1963,
+    "answer": "Thor",
+    "questionID": 655
+  },
+  {
+    "id": 1964,
+    "answer": "Captain America",
+    "questionID": 655
+  },
+  {
+    "id": 1965,
+    "answer": "Hulk",
+    "questionID": 655
+  },
+  {
+    "id": 1966,
+    "answer": "Fire control",
+    "questionID": 656
+  },
+  {
+    "id": 1967,
+    "answer": "Water control",
+    "questionID": 656
+  },
+  {
+    "id": 1968,
+    "answer": "Wind control",
+    "questionID": 656
+  },
+  {
+    "id": 1969,
+    "answer": "Abu",
+    "questionID": 657
+  },
+  {
+    "id": 1970,
+    "answer": "Sultan",
+    "questionID": 657
+  },
+  {
+    "id": 1971,
+    "answer": "Genie",
+    "questionID": 657
+  },
+  {
+    "id": 1972,
+    "answer": "Thor",
+    "questionID": 658
+  },
+  {
+    "id": 1973,
+    "answer": "Iron Man",
+    "questionID": 658
+  },
+  {
+    "id": 1974,
+    "answer": "Hulk",
+    "questionID": 658
+  },
+  {
+    "id": 1975,
+    "answer": "Zazu and Scar",
+    "questionID": 659
+  },
+  {
+    "id": 1976,
+    "answer": "Nala and Rafiki",
+    "questionID": 659
+  },
+  {
+    "id": 1977,
+    "answer": "Mufasa and Scar",
+    "questionID": 659
+  },
+  {
+    "id": 1978,
+    "answer": "Spider-Man",
+    "questionID": 660
+  },
+  {
+    "id": 1979,
+    "answer": "Hulk",
+    "questionID": 660
+  },
+  {
+    "id": 1980,
+    "answer": "Iron Man",
+    "questionID": 660
+  },
+  {
+    "id": 1981,
+    "answer": "Fred",
+    "questionID": 661
+  },
+  {
+    "id": 1982,
+    "answer": "Tadashi",
+    "questionID": 661
+  },
+  {
+    "id": 1983,
+    "answer": "Wasabi",
+    "questionID": 661
+  },
+  {
+    "id": 1984,
+    "answer": "Hulk",
+    "questionID": 662
+  },
+  {
+    "id": 1985,
+    "answer": "Iron Man",
+    "questionID": 662
+  },
+  {
+    "id": 1986,
+    "answer": "Captain America",
+    "questionID": 662
+  },
+  {
+    "id": 1987,
+    "answer": "Anna",
+    "questionID": 663
+  },
+  {
+    "id": 1988,
+    "answer": "Olaf",
+    "questionID": 663
+  },
+  {
+    "id": 1989,
+    "answer": "Kristoff",
+    "questionID": 663
+  },
+  {
+    "id": 1990,
+    "answer": "Frozen",
+    "questionID": 664
+  },
+  {
+    "id": 1991,
+    "answer": "Moana",
+    "questionID": 664
+  },
+  {
+    "id": 1992,
+    "answer": "Tangled",
+    "questionID": 664
+  },
+  {
+    "id": 1993,
+    "answer": "Timon",
+    "questionID": 665
+  },
+  {
+    "id": 1994,
+    "answer": "Pumbaa",
+    "questionID": 665
+  },
+  {
+    "id": 1995,
+    "answer": "Rafiki",
+    "questionID": 665
+  },
+  {
+    "id": 1996,
+    "answer": "Batman",
+    "questionID": 666
+  },
+  {
+    "id": 1997,
+    "answer": "Thor",
+    "questionID": 666
+  },
+  {
+    "id": 1998,
+    "answer": "Hulk",
+    "questionID": 666
+  },
+  {
+    "id": 1999,
+    "answer": "Abu",
+    "questionID": 667
+  },
+  {
+    "id": 2000,
+    "answer": "Jafar",
+    "questionID": 667
+  },
+  {
+    "id": 2001,
+    "answer": "Sultan",
+    "questionID": 667
+  },
+  {
+    "id": 2002,
+    "answer": "Thor",
+    "questionID": 668
+  },
+  {
+    "id": 2003,
+    "answer": "Captain America",
+    "questionID": 668
+  },
+  {
+    "id": 2004,
+    "answer": "Hulk",
+    "questionID": 668
+  },
+  {
+    "id": 2005,
+    "answer": "Maui",
+    "questionID": 669
+  },
+  {
+    "id": 2006,
+    "answer": "Hei Hei",
+    "questionID": 669
+  },
+  {
+    "id": 2007,
+    "answer": "Te Fiti",
+    "questionID": 669
+  },
+  {
+    "id": 2008,
+    "answer": "Cars",
+    "questionID": 670
+  },
+  {
+    "id": 2009,
+    "answer": "Finding Nemo",
+    "questionID": 670
+  },
+  {
+    "id": 2010,
+    "answer": "Shrek",
+    "questionID": 670
+  },
+  {
+    "id": 2011,
+    "answer": "Iron Man",
+    "questionID": 671
+  },
+  {
+    "id": 2012,
+    "answer": "Thor",
+    "questionID": 671
+  },
+  {
+    "id": 2013,
+    "answer": "Hulk",
+    "questionID": 671
+  },
+  {
+    "id": 2014,
+    "answer": "Fred",
+    "questionID": 672
+  },
+  {
+    "id": 2015,
+    "answer": "Wasabi",
+    "questionID": 672
+  },
+  {
+    "id": 2016,
+    "answer": "Baymax",
+    "questionID": 672
+  },
+  {
+    "id": 2017,
+    "answer": "Spider-Man",
+    "questionID": 673
+  },
+  {
+    "id": 2018,
+    "answer": "Batman",
+    "questionID": 673
+  },
+  {
+    "id": 2019,
+    "answer": "Thor",
+    "questionID": 673
+  },
+  {
+    "id": 2020,
+    "answer": "Maximus",
+    "questionID": 674
+  },
+  {
+    "id": 2021,
+    "answer": "Pascal",
+    "questionID": 674
+  },
+  {
+    "id": 2022,
+    "answer": "Mother Gothel",
+    "questionID": 674
+  },
+  {
+    "id": 2023,
+    "answer": "Batman",
+    "questionID": 675
+  },
+  {
+    "id": 2024,
+    "answer": "Spider-Man",
+    "questionID": 675
+  },
+  {
+    "id": 2025,
+    "answer": "Iron Man",
+    "questionID": 675
+  },
+  {
+    "id": 2026,
+    "answer": "Olaf",
+    "questionID": 676
+  },
+  {
+    "id": 2027,
+    "answer": "Kristoff",
+    "questionID": 676
+  },
+  {
+    "id": 2028,
+    "answer": "Sven",
+    "questionID": 676
+  },
+  {
+    "id": 2029,
+    "answer": "Thor",
+    "questionID": 677
+  },
+  {
+    "id": 2030,
+    "answer": "Iron Man",
+    "questionID": 677
+  },
+  {
+    "id": 2031,
+    "answer": "Hulk",
+    "questionID": 677
+  },
+  {
+    "id": 2032,
+    "answer": "Hei Hei",
+    "questionID": 678
+  },
+  {
+    "id": 2033,
+    "answer": "Tamatoa",
+    "questionID": 678
+  },
+  {
+    "id": 2034,
+    "answer": "Moana",
+    "questionID": 678
+  },
+  {
+    "id": 2035,
+    "answer": "Captain Cold",
+    "questionID": 679
+  },
+  {
+    "id": 2036,
+    "answer": "Elsa",
+    "questionID": 679
+  },
+  {
+    "id": 2037,
+    "answer": "Frozone",
+    "questionID": 679
+  },
+  {
+    "id": 2038,
+    "answer": "Tangled",
+    "questionID": 680
+  },
+  {
+    "id": 2039,
+    "answer": "Moana",
+    "questionID": 680
+  },
+  {
+    "id": 2040,
+    "answer": "Cinderella",
+    "questionID": 680
+  }
+]
